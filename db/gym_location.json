@@ -1,0 +1,308 @@
+[
+  {
+    "gymId": "1",
+    "name": "Superbon Training Camp",
+    "url": "https://www.nowmuaythai.com/gym/superbon-training-camp",
+    "location": "Khet Bueng Kum, Bangkok"
+  },
+  {
+    "gymId": "2",
+    "name": "RSM Muay Thai Academy",
+    "url": "https://www.nowmuaythai.com/gym/rsm-muay-thai-academy",
+    "location": "Watthana, Bangkok"
+  },
+  {
+    "gymId": "3",
+    "name": "Marrok Fitness Gym and Combat Sports",
+    "url": "https://www.nowmuaythai.com/gym/marrok-fitness-gym-and-combat-sports",
+    "location": "Khet Yan Nawa, Bangkok"
+  },
+  {
+    "gymId": "4",
+    "name": "TC Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tc-muaythai",
+    "location": "Khet Khan Na Yao, Bangkok"
+  },
+  {
+    "gymId": "5",
+    "name": "Migaku Fitness Club",
+    "url": "https://www.nowmuaythai.com/gym/migaku-fitness-club",
+    "location": "Khet Khlong Toei, Bangkok"
+  },
+  {
+    "gymId": "6",
+    "name": "Eminent Air Boxing Gym",
+    "url": "https://www.nowmuaythai.com/gym/eminent-air-boxing-gym",
+    "location": "Khet Phra Khanong, Bangkok"
+  },
+  {
+    "gymId": "7",
+    "name": "Kru Dam",
+    "url": "https://www.nowmuaythai.com/gym/kru-dam",
+    "location": "Khlong Toei, Bangkok"
+  },
+  {
+    "gymId": "8",
+    "name": "FA Group Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/muay-thai-fa-group",
+    "location": "Khet Chatuchak, Bangkok"
+  },
+  {
+    "gymId": "9",
+    "name": "Thaiachira",
+    "url": "https://www.nowmuaythai.com/gym/thaiachira",
+    "location": "Khet Don Mueang, Bangkok"
+  },
+  {
+    "gymId": "10",
+    "name": "Elite Fight Club Bangkok",
+    "url": "https://www.nowmuaythai.com/gym/elite-fight-club-bangkok",
+    "location": "Khet Khlong Toei, Bangkok"
+  },
+  {
+    "gymId": "11",
+    "name": "Fight Geek",
+    "url": "https://www.nowmuaythai.com/gym/fight-geek",
+    "location": "Khet Suan Luang, Bangkok"
+  },
+  {
+    "gymId": "12",
+    "name": "Rithirit Gym Academy",
+    "url": "https://www.nowmuaythai.com/gym/rithirit-gym-academy",
+    "location": "Din Daeng, Bangkok"
+  },
+  {
+    "gymId": "13",
+    "name": "Trainer Gae",
+    "url": "https://www.nowmuaythai.com/gym/trainer-gae",
+    "location": "Khet Bueng Kum, Bangkok"
+  },
+  {
+    "gymId": "14",
+    "name": "Jaroenthong MuayThai Gym",
+    "url": "https://www.nowmuaythai.com/gym/jaroenthong-muaythai-gym",
+    "location": "Khet Wang Thonglang, Bangkok"
+  },
+  {
+    "gymId": "15",
+    "name": "Powerhouse Phuket",
+    "url": "https://www.nowmuaythai.com/gym/power-house-phuket",
+    "location": "Rawai, Phuket"
+  },
+  {
+    "gymId": "16",
+    "name": "Phuket Fight Club",
+    "url": "https://www.nowmuaythai.com/gym/phuket-fight-club",
+    "location": "Mueang Phuket, Phuket"
+  },
+  {
+    "gymId": "17",
+    "name": "RC rachai Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/rcrachai-muay-thai",
+    "location": "Kathu, Phuket"
+  },
+  {
+    "gymId": "18",
+    "name": "Maximum Fitness Phuket",
+    "url": "https://www.nowmuaythai.com/gym/maximum-fitness-phuket",
+    "location": "Kathu, Phuket"
+  },
+  {
+    "gymId": "19",
+    "name": "Tiger Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tiger-muay-thai",
+    "location": "Mueang Phuket, Phuket"
+  },
+  {
+    "gymId": "20",
+    "name": "PhuketKing Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/phuketking-muay-thai",
+    "location": "Kathu, Phuket"
+  },
+  {
+    "gymId": "21",
+    "name": "Sumalee Boxing Gym",
+    "url": "https://www.nowmuaythai.com/gym/sumalee-boxing-gym",
+    "location": "Thalang, Phuket"
+  },
+  {
+    "gymId": "22",
+    "name": "Sutai Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/sutai_muay_thai",
+    "location": "Thalang, Phuket"
+  },
+  {
+    "gymId": "23",
+    "name": "Phuket Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/phuket-muay-thai",
+    "location": "Mueang Phuket, Phuket"
+  },
+  {
+    "gymId": "24",
+    "name": "Revolution Phuket Muay Thai Camp",
+    "url": "https://www.nowmuaythai.com/gym/revolution-phuket",
+    "location": "Thalang, Phuket"
+  },
+  {
+    "gymId": "25",
+    "name": "Bangtao Muay Thai & MMA",
+    "url": "https://www.nowmuaythai.com/gym/bangtao",
+    "location": "Thalang, Phuket"
+  },
+  {
+    "gymId": "26",
+    "name": "Chiangmai JR Muaythai",
+    "url": "https://www.nowmuaythai.com/gym/chiangmai-jr-muaythai",
+    "location": "Mueang Chiang Mai, Chiang Mai"
+  },
+  {
+    "gymId": "27",
+    "name": "Nilobon Fight Club Gym",
+    "url": "https://www.nowmuaythai.com/gym/Nilobon_fight_Club_Gym",
+    "location": "Mueang Chiang Mai, Chiang Mai"
+  },
+  {
+    "gymId": "28",
+    "name": "Krudam Gym Chiang Mai",
+    "url": "https://www.nowmuaythai.com/gym/krudam-gym-chiang-mai",
+    "location": "Mueang Chiang Mai, Chiang Mai"
+  },
+  {
+    "gymId": "29",
+    "name": "Xmax Thai Boxing Club",
+    "url": "https://www.nowmuaythai.com/gym/xmax-thai-boxing-club",
+    "location": "Saraphi, Chiang Mai"
+  },
+  {
+    "gymId": "30",
+    "name": "The Bear Fight Club Chiang Mai",
+    "url": "https://www.nowmuaythai.com/gym/the-bear-fight-club-chiang-mai",
+    "location": "Mueang Chiang Mai, Chiang Mai"
+  },
+  {
+    "gymId": "31",
+    "name": "Hongthong Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/hongthong-muaythai-gym",
+    "location": "Mueang Chiang Mai, Chiang Mai"
+  },
+  {
+    "gymId": "32",
+    "name": "The Camp Muay Thai Resort and Academy",
+    "url": "https://www.nowmuaythai.com/gym/the-camp",
+    "location": "Hang Dong, Chiang Mai"
+  },
+  {
+    "gymId": "33",
+    "name": "Dang Muay Thai Chaing Mai",
+    "url": "https://www.nowmuaythai.com/gym/dang-muay-thai-chaing-mai",
+    "location": "Mueang Chiang Mai, Chiang Mai"
+  },
+  {
+    "gymId": "34",
+    "name": "Danmuang Lamphun Chiangmai",
+    "url": "https://www.nowmuaythai.com/gym/danmuang-lamphun-chiangmai",
+    "location": "Saraphi, Chiang Mai"
+  },
+  {
+    "gymId": "35",
+    "name": "Lanna Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/boon-lanna-muay-thai",
+    "location": "Saraphi, Chiang Mai"
+  },
+  {
+    "gymId": "36",
+    "name": "CMA Muaythai Academy",
+    "url": "https://www.nowmuaythai.com/gym/cma-muaythai-academy",
+    "location": "Mueang Chiang Mai, Chiang Mai"
+  },
+  {
+    "gymId": "37",
+    "name": "KMAX GYM MUAYTHAI",
+    "url": "https://www.nowmuaythai.com/gym/kmax-gym-muaythai",
+    "location": "Mueang Krabi, Krabi"
+  },
+  {
+    "gymId": "38",
+    "name": "Adin Muay Thai School",
+    "url": "https://www.nowmuaythai.com/gym/adin-muay-thai-school",
+    "location": "Ko Lanta, Krabi"
+  },
+  {
+    "gymId": "39",
+    "name": "Krabi Lion Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/krabi_lion_muay_thai",
+    "location": "Mueang Krabi, Krabi"
+  },
+  {
+    "gymId": "40",
+    "name": "Khunsuek Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/khunsuek-muay-thai",
+    "location": "Mueang Krabi, Krabi"
+  },
+  {
+    "gymId": "41",
+    "name": "Venum training camp",
+    "url": "https://www.nowmuaythai.com/gym/venum-training-camp",
+    "location": "Bang Lamung, Chon Buri"
+  },
+  {
+    "gymId": "42",
+    "name": "Fairtex Training Center",
+    "url": "https://www.nowmuaythai.com/gym/fairtex",
+    "location": "Bang Lamung, Chon Buri"
+  },
+  {
+    "gymId": "43",
+    "name": "Muay Thai Chinnarach",
+    "url": "https://www.nowmuaythai.com/gym/muay-thai-chinnarach",
+    "location": "Ko Phangan, Surat Thani"
+  },
+  {
+    "gymId": "44",
+    "name": "Venom Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/venom-muay-thai",
+    "location": "Ko Pha-ngan, Surat Thani"
+  },
+  {
+    "gymId": "45",
+    "name": "MBT Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/mbt-muaythai-gym",
+    "location": "Mueang Chiang Rai, Chiang Rai"
+  },
+  {
+    "gymId": "46",
+    "name": "Tonkhar Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tonkhar_muaythai",
+    "location": "Thoeng, Chiang Rai"
+  },
+  {
+    "gymId": "47",
+    "name": "Tom Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tom-muay-thai",
+    "location": "Koh Samui, Surat Thani"
+  },
+  {
+    "gymId": "48",
+    "name": "Elite Fight Club Huahin",
+    "url": "https://www.nowmuaythai.com/gym/elite-fight-club-huahin",
+    "location": "Hua Hin, Prachuap Khiri Khan"
+  },
+  {
+    "gymId": "49",
+    "name": "Khao Lak Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/khao-lak-muay-thai",
+    "location": "Takua Pa, Phangnga"
+  },
+  {
+    "gymId": "50",
+    "name": "Muay Thai Battle Conquer Gym",
+    "url": "https://www.nowmuaythai.com/gym/Muay-Thai-Battle-Conquer-Gym",
+    "location": "Bueng Sam Phan, Phetchabun"
+  },
+  {
+    "gymId": "51",
+    "name": "MC Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/mc-muaythai-gym",
+    "location": "Bang Bo, Samut Prakan"
+  }
+]

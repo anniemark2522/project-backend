@@ -1,0 +1,2903 @@
+{
+  "RSM Muay Thai Academy": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/rsm-muay-thai-academy",
+    "classes": [
+      {
+        "className": "6-Month Muay Thai Class For Beginners",
+        "url": "https://www.nowmuaythai.com/class/91-Beginner-Class-6-Months"
+      },
+      {
+        "className": "3-Month Muay Thai Class For Advanced Levels",
+        "url": "https://www.nowmuaythai.com/class/91-Advance-Class-3-Months"
+      },
+      {
+        "className": "1-On-1, One-Session Muay Thai Private Class",
+        "url": "https://www.nowmuaythai.com/class/91-Private-1-ON-1---1-Session"
+      },
+      {
+        "className": "20-Session Muay Thai Class For Beginners",
+        "url": "https://www.nowmuaythai.com/class/91-Beginner-Class-20-Sessions-6-Months-"
+      },
+      {
+        "className": "1-Session Muay Thai For Beginners (Round 4 13:30-15:00)",
+        "url": "https://www.nowmuaythai.com/class/91-1-Session-Muay-Thai-For-Beginners-Round-4-13-30-15-00-"
+      },
+      {
+        "className": "1-Session Muay Thai For Beginners (Round 7 17:30 - 19:00)",
+        "url": "https://www.nowmuaythai.com/class/91-1-Session-Muay-Thai-For-Beginners-Round-7-17-30---19-00-"
+      },
+      {
+        "className": "1-Session Muay Thai Class For Kid",
+        "url": "https://www.nowmuaythai.com/class/91-Kids-Class-1-Session"
+      }
+    ]
+  },
+  "Marrok Fitness Gym and Combat Sports": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/marrok-fitness-gym-and-combat-sports",
+    "classes": [
+      {
+        "className": "Gold Package",
+        "url": "https://www.nowmuaythai.com/class/81-Gold-Package"
+      },
+      {
+        "className": "Platinum Package",
+        "url": "https://www.nowmuaythai.com/class/81-Platinum-Package"
+      },
+      {
+        "className": "Muay Thai or MMA Package (5 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/81-Muay-Thai-Package"
+      },
+      {
+        "className": "Personal Trainer (5 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-5-Session-"
+      },
+      {
+        "className": "Personal Trainer (10 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-10-Session-"
+      },
+      {
+        "className": "Personal Trainer (20 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-20-Session-"
+      },
+      {
+        "className": "Personal Trainer (36 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-36-Session-"
+      },
+      {
+        "className": "Personal Trainer (40 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-40-Session-"
+      },
+      {
+        "className": "Personal Trainer Muay Thai or MMA (10 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-Muay-Thai-or-MMA-10-Session-"
+      },
+      {
+        "className": "Personal Trainer Muay Thai or MMA (20 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-Muay-Thai-or-MMA-20-Session-"
+      },
+      {
+        "className": "Personal Trainer Muay Thai or MMA (36 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-Muay-Thai-or-MMA-36-Session-"
+      },
+      {
+        "className": "Personal Trainer Muay Thai or MMA (40 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-Muay-Thai-or-MMA-40-Session-"
+      },
+      {
+        "className": "Muay Thai Private (1 Session)",
+        "url": "https://www.nowmuaythai.com/class/81-Muay-Thai-Private-Session"
+      },
+      {
+        "className": "MMA Private (1 Session)",
+        "url": "https://www.nowmuaythai.com/class/81-MMA-Private-Session"
+      },
+      {
+        "className": "Personal Trainer (1 Session)",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-Session"
+      },
+      {
+        "className": "Personal Trainer (3 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-3-Session-"
+      },
+      {
+        "className": "Personal Trainer (5 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-5-Session-"
+      },
+      {
+        "className": "Personal Trainer (10 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-10-Session-"
+      },
+      {
+        "className": "Personal Trainer (20 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-20-Session-"
+      },
+      {
+        "className": "Personal Trainer (36 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-36-Session-"
+      },
+      {
+        "className": "Personal Trainer (40 Sessions) Fitness",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-40-Session-"
+      },
+      {
+        "className": "Personal Trainer Muay Thai or MMA (3 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-Muay-Thai-or-MMA-3-Session-"
+      },
+      {
+        "className": "Personal Trainer Muay Thai or MMA (10 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-Muay-Thai-or-MMA-10-Session-"
+      },
+      {
+        "className": "Personal Trainer Muay Thai or MMA (20 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-Muay-Thai-or-MMA-20-Session-"
+      },
+      {
+        "className": "Personal Trainer Muay Thai or MMA (36 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-Muay-Thai-or-MMA-36-Session-"
+      },
+      {
+        "className": "Personal Trainer Muay Thai or MMA (40 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/81-Personal-Trainer-Muay-Thai-or-MMA-40-Session-"
+      },
+      {
+        "className": "Day Pass (Muay Thai Group)",
+        "url": "https://www.nowmuaythai.com/class/81-muay-thai-group-class-gym-pass-marrok-1-session"
+      },
+      {
+        "className": "Day Pass (MMA Group)",
+        "url": "https://www.nowmuaythai.com/class/81-Day-Pass-MMA-Group-"
+      },
+      {
+        "className": "Day Pass (Gym)",
+        "url": "https://www.nowmuaythai.com/class/81-Day-Pass-Gym-"
+      },
+      {
+        "className": "Day Pass (Classes)",
+        "url": "https://www.nowmuaythai.com/class/81-Day-Pass-Classes-"
+      },
+      {
+        "className": "Day Pass (Yoga)",
+        "url": "https://www.nowmuaythai.com/class/81-Day-Pass-Yoga-"
+      }
+    ]
+  },
+  "TC Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/class/muay-thai-training-program-1-month-tc-muay-thai",
+    "classes": [
+      {
+        "className": "Muay Thai Training Program: 1 Month at TC Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/muay-thai-training-program-1-month-tc-muay-thai"
+      },
+      {
+        "className": "1-Session Muay Thai Private Class at TC Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/1-session-muay-thai-private-class-tc-muay-thai"
+      },
+      {
+        "className": "1-Session Muay Thai Private Class at TC Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/1-session-muay-thai-private-class-tc-muay-thai"
+      },
+      {
+        "className": "Intensive 10-Session Private Muay Thai Class at TC Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/intensive-10-session-private-muay-thai-class-tc-muay-thai"
+      },
+      {
+        "className": "Muay Thai Training Program: 1 Session at TC Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/muay-thai-training-program-1-session-tc-muay-thai"
+      },
+      {
+        "className": "1 Day Muay Thai Group Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/74-1-Day-Muay-Thai-Group-Class-For-All-Levels"
+      },
+      {
+        "className": "10-Sessions Muay Thai Group Class At TC Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/10-session-muay-thai-group-class-tc-muay-thai"
+      },
+      {
+        "className": "1 Day Muay Thai Group Class For All Levels With Accommodation 1 Day",
+        "url": "https://www.nowmuaythai.com/class/74-1-Day-Muay-Thai-Group-Class-For-All-Levels-"
+      },
+      {
+        "className": "1 Week Muay Thai Group Class For All Levels With Accmodation 1 Week",
+        "url": "https://www.nowmuaythai.com/class/74-1-Week-Muay-Thai-Group-Class-For-All-Levels-With-Accmodation-1-Week"
+      },
+      {
+        "className": "1 Month Muay Thai Group Class For All Levels With Accomdation 1 Month",
+        "url": "https://www.nowmuaythai.com/class/74-1-Month-Muay-Thai-Group-Class-For-All-Levels-With-Accomdation-1-Month"
+      },
+      {
+        "className": "3 Month Muay Thai Group Class For All Levels With Accomdation 3 Month",
+        "url": "https://www.nowmuaythai.com/class/74-3-Month-Muay-Thai-Group-Class-For-All-Levels-With-Accomdation-3-Month"
+      }
+    ]
+  },
+  "Migaku Fitness Club": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/migaku-fitness-club",
+    "classes": [
+      {
+        "className": "Muay Thai Private Class at Migaku Fitness Club (Normal) 1 Session",
+        "url": "https://www.nowmuaythai.com/class/131-muay-thai-private-class-migaku-fitness-normal-1-session"
+      },
+      {
+        "className": "Muay Thai Private Class at Migaku Fitness Club (Special Hours) 1 Session",
+        "url": "https://www.nowmuaythai.com/class/131-muay-thai-private-class-migaku-fitness-special-hours-1-session"
+      },
+      {
+        "className": "Muay Thai Private Class at Migaku Fitness Club (Normal) 5 Sessions",
+        "url": "https://www.nowmuaythai.com/class/131-muay-thai-private-class-migaku-fitness-normal-5-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Migaku Fitness Club 1 Session",
+        "url": "https://www.nowmuaythai.com/class/131-muay-thai-group-class-migaku-fitness-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Migaku Fitness Club 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/131-muay-thai-group-class-migaku-fitness-10-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Migaku Fitness Club 20 Sessions",
+        "url": "https://www.nowmuaythai.com/class/131-muay-thai-group-class-migaku-fitness-20-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Migaku Fitness Club 30 Sessions",
+        "url": "https://www.nowmuaythai.com/class/131-muay-thai-group-class-migaku-fitness-30-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Migaku Fitness Club 50 Sessions",
+        "url": "https://www.nowmuaythai.com/class/131-muay-thai-group-class-migaku-fitness-50-sessions"
+      }
+    ]
+  },
+  "Eminent Air Boxing Gym": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/eminent-air-boxing-gym",
+    "classes": [
+      {
+        "className": "1 Week Muay Thai Training Class For Fighters",
+        "url": "https://www.nowmuaythai.com/class/134-1-Week-Muay-Thai-Training-Class"
+      },
+      {
+        "className": "1 Week Muay Thai Fitness Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/134-1-Week-Muay-Thai-Training-Class-For-All-Levels"
+      },
+      {
+        "className": "1 Month Muay Thai Training Class For Fighters",
+        "url": "https://www.nowmuaythai.com/class/134-1-Month-Muay-Thai-Training-Class"
+      },
+      {
+        "className": "1 Month Muay Thai Fitness Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/134-1-Month-Muay-Thai-Training-Class-For-All-Levels"
+      },
+      {
+        "className": "1 Session Private Muay Thai Training Class",
+        "url": "https://www.nowmuaythai.com/class/134-1-Session-Private-Muay-Thai-Training-Class"
+      },
+      {
+        "className": "10 Session Private Muay Thai Training Class",
+        "url": "https://www.nowmuaythai.com/class/134-10-Session-Private-Muay-Thai-Training-Class"
+      },
+      {
+        "className": "1 Session Muay Thai Training Class For Fighters",
+        "url": "https://www.nowmuaythai.com/class/134-1-Session-Muay-Thai-Training-Class"
+      },
+      {
+        "className": "1 Day Muay Thai Training Class For Fighters",
+        "url": "https://www.nowmuaythai.com/class/134-1-Day-Muay-Thai-Training-Class"
+      },
+      {
+        "className": "10 Sessions Muay Thai Training Class For Fighters",
+        "url": "https://www.nowmuaythai.com/class/134-10-Sessions-Muay-Thai-Training-Class"
+      },
+      {
+        "className": "1 Session Muay Thai Fitness Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/134-1-Session-Muay-Thai-Training-Class-For-All-Levels"
+      },
+      {
+        "className": "1 Day Muay Thai Fitness Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/134-1-Day-Muay-Thai-Training-Class-For-All-Levels"
+      },
+      {
+        "className": "10 Sessions Muay Thai Fitness Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/134-10-Sessions-Muay-Thai-Training-Class-For-All-Levels"
+      }
+    ]
+  },
+  "Kru Dam": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/kru-dam",
+    "classes": [
+      {
+        "className": "Group Class Training Unlimited 1 Month",
+        "url": "https://www.nowmuaythai.com/class/12-Group-Class-Training-Unlimited-1-Month"
+      },
+      {
+        "className": "Group Class Training Unlimited 3 Months",
+        "url": "https://www.nowmuaythai.com/class/12-Group-Class-Training-Unlimited-3-Months"
+      },
+      {
+        "className": "Group Class Training Unlimited 6 Months",
+        "url": "https://www.nowmuaythai.com/class/12-Group-Class-Training-Unlimited-6-Months"
+      },
+      {
+        "className": "Group Class Training Unlimited 12 Months",
+        "url": "https://www.nowmuaythai.com/class/12-Group-Class-Training-Unlimited-12-Months"
+      },
+      {
+        "className": "Private Training Adult - 1 Time Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Adult---1-Time-Class"
+      },
+      {
+        "className": "Private Training Adult - 10 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Adult---10-Times-Class"
+      },
+      {
+        "className": "Private Training Adult - 20 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Adult---20-Times-Class"
+      },
+      {
+        "className": "Private Training Adult - 50 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Adult---50-Times-Class"
+      },
+      {
+        "className": "Private Training Adult - 100 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Adult---100-Times-Class"
+      },
+      {
+        "className": "Private Training Children - 1 Time Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Children---1-Time-Class"
+      },
+      {
+        "className": "Private Training Children - 10 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Children---10-Times-Class"
+      },
+      {
+        "className": "Private Training Children - 20 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Children---20-Times-Class"
+      },
+      {
+        "className": "Private Training Children - 50 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Children---50-Times-Class"
+      },
+      {
+        "className": "Private Training Children - 100 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Children---100-Times-Class"
+      },
+      {
+        "className": "Private Training Children - 1 Time Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Children---1-Time-Class"
+      },
+      {
+        "className": "Private Training Children - 10 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Children---10-Times-Class"
+      },
+      {
+        "className": "Private Training Children - 20 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Children---20-Times-Class"
+      },
+      {
+        "className": "Private Training Children - 50 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Children---50-Times-Class"
+      },
+      {
+        "className": "Private Training Children - 100 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Training-Children---100-Times-Class"
+      },
+      {
+        "className": "Private Duo - 1 Time Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Duo---1-Time-Class"
+      },
+      {
+        "className": "Private Duo - 10 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Duo---10-Times-Class"
+      },
+      {
+        "className": "Private Duo - 20 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Duo---20-Times-Class"
+      },
+      {
+        "className": "Private Duo - 50 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Private-Duo---50-Times-Class"
+      },
+      {
+        "className": "Krudam Private 1 Time",
+        "url": "https://www.nowmuaythai.com/class/12-Krudam-Private-1-Time"
+      },
+      {
+        "className": "Krudam Private 10 Times",
+        "url": "https://www.nowmuaythai.com/class/12-Krudam-Private-10-Times"
+      },
+      {
+        "className": "Group Class Training Adult - 1 Time Class",
+        "url": "https://www.nowmuaythai.com/class/12-1-Time-Class"
+      },
+      {
+        "className": "Group Class Training Adult - 10 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Adult---10-Times-Class"
+      },
+      {
+        "className": "Group Class Training Adult - 20 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Adult---20-Times-Class"
+      },
+      {
+        "className": "Group Class Training Adult - 50 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Adult---50-Times-Class"
+      },
+      {
+        "className": "Group Class Training Adult - 100 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Adult---100-Times-Class"
+      },
+      {
+        "className": "Group Class Training Children - 1 Time Class",
+        "url": "https://www.nowmuaythai.com/class/12-Children---1-Time-Class"
+      },
+      {
+        "className": "Group Class Training Children - 10 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Children---10-Times-Class"
+      },
+      {
+        "className": "Group Class Training Children - 20 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Children---20-Times-Class"
+      },
+      {
+        "className": "Group Class Training Children - 50 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Children---50-Times-Class"
+      },
+      {
+        "className": "Group Class Training Children - 100 Times Class",
+        "url": "https://www.nowmuaythai.com/class/12-Children---100-Times-Class"
+      }
+    ]
+  },
+  "FA Group Muaythai Gym": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/muay-thai-fa-group",
+    "classes": [
+      {
+        "className": "1-Week Fighter Program",
+        "url": "https://www.nowmuaythai.com/class/90-MUAYTHAI-TRAINING-1-WEEK"
+      },
+      {
+        "className": "1-Month Fighter Program",
+        "url": "https://www.nowmuaythai.com/class/90-MUAYTHAI-TRAINING-1-MONTH"
+      },
+      {
+        "className": "3-Months Fighter Program",
+        "url": "https://www.nowmuaythai.com/class/90-MUAYTHAI-TRAINING-3-MONTHS"
+      },
+      {
+        "className": "6-Months Fighter Program",
+        "url": "https://www.nowmuaythai.com/class/90-MUAYTHAI-TRAINING-6-MONTHS"
+      },
+      {
+        "className": "1-Year Fighter Program",
+        "url": "https://www.nowmuaythai.com/class/90-MUAYTHAI-TRAINING-1-YEAR"
+      },
+      {
+        "className": "Muay Thai Private Class (Kru King or Kru Tom)",
+        "url": "https://www.nowmuaythai.com/class/90-Muaythai-Private-Kru-King-or-Kru-Tom-"
+      },
+      {
+        "className": "Muay Thai Private Class (Other Trainers)",
+        "url": "https://www.nowmuaythai.com/class/90-PRIVATE-CLASS"
+      },
+      {
+        "className": "10-Session Muay Thai Private Class",
+        "url": "https://www.nowmuaythai.com/class/90-PRIVATE-CLASS-10-SESSIONS"
+      },
+      {
+        "className": "Muay Thai Private Class (Yothin)",
+        "url": "https://www.nowmuaythai.com/class/90-Muay-Thai-Private-Class-Yothin-"
+      },
+      {
+        "className": "1-Session Fighter Program",
+        "url": "https://www.nowmuaythai.com/class/90-MUAYTHAI-TRAINING-1-SESSION"
+      },
+      {
+        "className": "10-Sessions Fighter Program",
+        "url": "https://www.nowmuaythai.com/class/90-MUAYTHAI-TRAINING-10-SESSIONS"
+      },
+      {
+        "className": "20-Sessions Fighter Program",
+        "url": "https://www.nowmuaythai.com/class/90-MUAYTHAI-TRAINING-20-SESSIONS"
+      }
+    ]
+  },
+  "Thaiachira": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/thaiachira",
+    "classes": [
+      {
+        "className": "MuayThai Chaiya Anywhere 10 Session Single Package",
+        "url": "https://www.nowmuaythai.com/class/85-MuayThai-Chaiya-Anywhere-10-Session-Single-Package"
+      },
+      {
+        "className": "Krabi Krabong Online 10 Session a week for 2 Month",
+        "url": "https://www.nowmuaythai.com/class/85-Krabi-Krabong-Online-10-Session-a-week-for-2-Month"
+      },
+      {
+        "className": "MuayThai Chaiya Anywhere 10 Session Single Package",
+        "url": "https://www.nowmuaythai.com/class/85-MuayThai-Chaiya-Anywhere-10-Session-Single-Package"
+      },
+      {
+        "className": "MuayThai Chaiya Anywhere 10 Session Family Package",
+        "url": "https://www.nowmuaythai.com/class/85-MuayThai-Chaiya-Anywhere-10-Session-Family-Package"
+      },
+      {
+        "className": "1 Session a week for 1 Month",
+        "url": "https://www.nowmuaythai.com/class/85-1-Session-a-week-for-1-Month"
+      },
+      {
+        "className": "Untimated for 1 Month",
+        "url": "https://www.nowmuaythai.com/class/85-Untimated-Monthly-1-Month"
+      },
+      {
+        "className": "Krabi Krabong Group Class 1 Time a week for 1 Month",
+        "url": "https://www.nowmuaythai.com/class/85-Krabi-Krabong-Group-Class-Training-10-Time"
+      },
+      {
+        "className": "MuayThai Chaiya Anywhere 10 Session Single Package",
+        "url": "https://www.nowmuaythai.com/class/85-MuayThai-Chaiya-Anywhere-10-Session-Single-Package"
+      },
+      {
+        "className": "MuayThai Chaiya Anywhere 10 Session Couple Package",
+        "url": "https://www.nowmuaythai.com/class/85-MuayThai-Chaiya-Anywhere-10-Session-Couple-Package"
+      },
+      {
+        "className": "MuayThai Chaiya Anywhere 10 Session Family Package",
+        "url": "https://www.nowmuaythai.com/class/85-MuayThai-Chaiya-Anywhere-10-Session-Family-Package"
+      },
+      {
+        "className": "Muay Chaiya Adult Private Training 1 Session",
+        "url": "https://www.nowmuaythai.com/class/85-Muay-Chaiya-Adult-Private-Training-1-Session"
+      },
+      {
+        "className": "Muay Chaiya Adult Private Training 10 Session",
+        "url": "https://www.nowmuaythai.com/class/85-Muay-Chaiya-Adult-Private-Training-10-Session"
+      },
+      {
+        "className": "Muay Chaiya Adult Private Training 20 Session",
+        "url": "https://www.nowmuaythai.com/class/85-Muay-Chaiya-Adult-Private-Training-20-Session"
+      },
+      {
+        "className": "Muay Chaiya Private Duo 1 Session",
+        "url": "https://www.nowmuaythai.com/class/85-Muay-Chaiya-Private-Duo-1-Session"
+      },
+      {
+        "className": "Muay Chaiya Private Duo 10 Session",
+        "url": "https://www.nowmuaythai.com/class/85-Muay-Chaiya-Private-Duo-10-Session"
+      },
+      {
+        "className": "Krabi Krabong Private Training 5 Session",
+        "url": "https://www.nowmuaythai.com/class/85-Krabi-Krabong-Private-dabkaoram-Training-5-Session"
+      },
+      {
+        "className": "Muay Chaiya Short Course Private 5 Session",
+        "url": "https://www.nowmuaythai.com/class/85-Short-Course-5-Time-1Week"
+      },
+      {
+        "className": "Muay Chaiya Short Course Private 10 Session",
+        "url": "https://www.nowmuaythai.com/class/85-Short-Course-10-Time"
+      },
+      {
+        "className": "Muay Chaiya Online Group Class Training 15 Session for 3 month",
+        "url": "https://www.nowmuaythai.com/class/85-Muay-Chaiya-Youth-Group-Class-Training-15-Session"
+      },
+      {
+        "className": "Muay Chaiya Online Group Class Training 5 Session for 1 month",
+        "url": "https://www.nowmuaythai.com/class/85-Muay-Chaiya-Online-Group-Class-Training-5-Session-for-1-month"
+      },
+      {
+        "className": "Muay Chaiya Online Group Class Training 10 Session for 2 month",
+        "url": "https://www.nowmuaythai.com/class/85-Muay-Chaiya-Online-Group-Class-Training-10-Session-for-2month"
+      },
+      {
+        "className": "Krabi Krabong Online 10 Session a week for 2 Month",
+        "url": "https://www.nowmuaythai.com/class/85-Krabi-Krabong-Online-10-Session-a-week-for-2-Month"
+      },
+      {
+        "className": "MuayThai Chaiya Anywhere 10 Session Couple Package",
+        "url": "https://www.nowmuaythai.com/class/85-MuayThai-Chaiya-Anywhere-10-Session-Couple-Package"
+      },
+      {
+        "className": "10 Elbows Muayboran MuayChaiya Technique",
+        "url": "https://www.nowmuaythai.com/class/85-10-Elbows-Muayboran-MuayChaiya-Technique"
+      },
+      {
+        "className": "Krabi Krabong Group Class 1 Time a week for 1 Month",
+        "url": "https://www.nowmuaythai.com/class/85-Krabi-Krabong-Group-Class-Training-10-Time"
+      },
+      {
+        "className": "Krabi Krabong Online 10 Session a week for 2 Month",
+        "url": "https://www.nowmuaythai.com/class/85-Krabi-Krabong-Online-10-Session-a-week-for-2-Month"
+      },
+      {
+        "className": "MuayThai Chaiya Anywhere 10 Session Single Package",
+        "url": "https://www.nowmuaythai.com/class/85-MuayThai-Chaiya-Anywhere-10-Session-Single-Package"
+      },
+      {
+        "className": "MuayThai Chaiya Anywhere 10 Session Couple Package",
+        "url": "https://www.nowmuaythai.com/class/85-MuayThai-Chaiya-Anywhere-10-Session-Couple-Package"
+      },
+      {
+        "className": "MuayThai Chaiya Anywhere 10 Session Family Package",
+        "url": "https://www.nowmuaythai.com/class/85-MuayThai-Chaiya-Anywhere-10-Session-Family-Package"
+      }
+    ]
+  },
+  "Elite Fight Club Bangkok": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/elite-fight-club-bangkok",
+    "classes": [
+      {
+        "className": "Group Class Full Access 1 Week",
+        "url": "https://www.nowmuaythai.com/class/63-group-class-full-access-1-week"
+      },
+      {
+        "className": "Group Class Full Access 2 Weeks",
+        "url": "https://www.nowmuaythai.com/class/63-group-class-full-access-2-weeks"
+      },
+      {
+        "className": "Group Class 1 Month (1 Class per Day)",
+        "url": "https://www.nowmuaythai.com/class/63-group-class-1-month-1-class-per-day"
+      },
+      {
+        "className": "Group Class 1 Month - 2 Session / Day",
+        "url": "https://www.nowmuaythai.com/class/63-Group-Class-1-Month---2-Session--Day"
+      },
+      {
+        "className": "Group Class 3 Months (1 Class per Day)",
+        "url": "https://www.nowmuaythai.com/class/63-group-class-3-months-1-class-per-day"
+      },
+      {
+        "className": "Group Class 6 Months (1 Class per Day)",
+        "url": "https://www.nowmuaythai.com/class/63-group-class-6-months-1-class-per-day"
+      },
+      {
+        "className": "Muaythai Private Training 1 Session (1 on 1)",
+        "url": "https://www.nowmuaythai.com/class/63-muaythai-private-training-1-session-1on1"
+      },
+      {
+        "className": "Muaythai Private Training 5 Sessions (1 on 1)",
+        "url": "https://www.nowmuaythai.com/class/63-muaythai-private-training-5-sessions-1on1"
+      },
+      {
+        "className": "Muaythai Private Training 10 Sessions (1 on 1)",
+        "url": "https://www.nowmuaythai.com/class/63-muaythai-private-training-10-sessions-1on1"
+      },
+      {
+        "className": "Muaythai Private Training 20 Sessions (1 on 1)",
+        "url": "https://www.nowmuaythai.com/class/63-muaythai-private-training-20-sessions-1on1"
+      },
+      {
+        "className": "Muaythai Private Training 1 Session (2 on 1)",
+        "url": "https://www.nowmuaythai.com/class/63-muaythai-private-training-1-session-2on1"
+      },
+      {
+        "className": "Muaythai Private Training 10 Sessions (2 on 1)",
+        "url": "https://www.nowmuaythai.com/class/63-muaythai-private-training-10-sessions-2on1"
+      },
+      {
+        "className": "Muaythai Private Training 20 Sessions (2 on1)",
+        "url": "https://www.nowmuaythai.com/class/63-muaythai-private-training-20-sessions-2on1"
+      },
+      {
+        "className": "Group Class Pass - 1 Session",
+        "url": "https://www.nowmuaythai.com/class/63-group-class-pass-1-session"
+      },
+      {
+        "className": "Group Class Pass - 5 Sessions",
+        "url": "https://www.nowmuaythai.com/class/63-group-class-pass-5-sessions"
+      },
+      {
+        "className": "Group Class Pass - 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/63-group-class-pass-10-sessions"
+      },
+      {
+        "className": "Group Class Pass - 20 Sessions",
+        "url": "https://www.nowmuaythai.com/class/63-group-class-pass-20-sessions"
+      },
+      {
+        "className": "1 Day Pass Full Access",
+        "url": "https://www.nowmuaythai.com/class/63-1-day-pass-full-access"
+      },
+      {
+        "className": "1 Day Pass Full Access",
+        "url": "https://www.nowmuaythai.com/class/63-1-day-pass-full-access"
+      }
+    ]
+  },
+  "Fight Geek": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/fight-geek",
+    "classes": [
+      {
+        "className": "Muay Thai Private Class at Fight Geek 1 Session",
+        "url": "https://www.nowmuaythai.com/class/87-muay-thai-private-class-fight-geek-1-session"
+      },
+      {
+        "className": "Muay Thai Private Class at Fight Geek 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/87-muay-thai-private-class-fight-geek-10-sessions"
+      },
+      {
+        "className": "Muay Thai Private Class at Fight Geek 20 Sessions",
+        "url": "https://www.nowmuaythai.com/class/87-muay-thai-private-class-fight-geek-20-sessions"
+      },
+      {
+        "className": "Muay Thai Private Class for Kids at Fight Geek 1 Session",
+        "url": "https://www.nowmuaythai.com/class/87-muay-thai-private-class-for-kids-fight-geek-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Fight Geek 1 Session",
+        "url": "https://www.nowmuaythai.com/class/87-muay-thai-group-class-fight-geek-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Fight Geek 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/87-muay-thai-group-class-fight-geek-10-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Fight Geek 20 Sessions",
+        "url": "https://www.nowmuaythai.com/class/87-muay-thai-group-class-fight-geek-20-sessions"
+      }
+    ]
+  },
+  "Rithirit Gym Academy": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/rithirit-gym-academy",
+    "classes": [
+      {
+        "className": "1-Month Muay Thai Training (1 Session Per Day)",
+        "url": "https://www.nowmuaythai.com/class/30-Muay-Thai-Training-1-Month-1-Time--Day-"
+      },
+      {
+        "className": "3-Month Muay Thai Training (1 Session Per Day)",
+        "url": "https://www.nowmuaythai.com/class/30-Muay-Thai-Training-3-Months-1-Time--Day-"
+      },
+      {
+        "className": "1-Month Muay Thai Training (2 Sessions Per Day)",
+        "url": "https://www.nowmuaythai.com/class/30-Muay-Thai-Training-1-Month-2-Times--Day-"
+      },
+      {
+        "className": "3-Month Muay Thai Training (2 Sessions Per Day)",
+        "url": "https://www.nowmuaythai.com/class/30-Muay-Thai-Training-3-Months-2-Times--Day-"
+      },
+      {
+        "className": "1-Session Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/30-Muay-Thai-Training-1-Session"
+      },
+      {
+        "className": "10-Session Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/30-Muay-Thai-Training-10-Sessions"
+      },
+      {
+        "className": "20-Session Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/30-Muay-Thai-Training-20-Sessions"
+      },
+      {
+        "className": "30-Session Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/30-Muay-Thai-Training-30-Sessions"
+      }
+    ]
+  },
+  "Trainer Gae": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/trainer-gae",
+    "classes": [
+      {
+        "className": "Muay Thai Private Training 1 Session with Trainer Gae",
+        "url": "https://www.nowmuaythai.com/class/161-muay-thai-private-training-1-session-with-trainer-gae"
+      },
+      {
+        "className": "Muay Thai Private Training 10 Sessions get Free 1 Session with Trainer Gae",
+        "url": "https://www.nowmuaythai.com/class/161-muay-thai-private-training-10-sessions-get-free-1-session-with-trainer-gae"
+      },
+      {
+        "className": "Muay Thai Private Training 2 ON 1 with Trainer Gae",
+        "url": "https://www.nowmuaythai.com/class/161-Muay-Thai-Private-Training-2-ON-1-with-Trainer-Gae"
+      },
+      {
+        "className": "Muay Thai Private Training 3 ON 1 with Trainer Gae",
+        "url": "https://www.nowmuaythai.com/class/161-Muay-Thai-Private-Training-3-ON-1-with-Trainer-Gae"
+      }
+    ]
+  },
+  "Jaroenthong MuayThai Gym": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/jaroenthong-muaythai-gym",
+    "classes": [
+      {
+        "className": "1-Session Private Muay Thai Training for All Levels",
+        "url": "https://www.nowmuaythai.com/class/93-Muay-Thai-Private-Training-1-Session"
+      },
+      {
+        "className": "10-Session Private Muay Thai Training for All Levels",
+        "url": "https://www.nowmuaythai.com/class/93-Muay-Thai-Private-Training-10-Sessions"
+      },
+      {
+        "className": "1-Session Muay Thai Group Training Session at Jaroenthong",
+        "url": "https://www.nowmuaythai.com/class/1-Session-muay-thai-group-training-session-at-jaroenthong"
+      },
+      {
+        "className": "Muay Thai Training 10-Session Course At Jaroenthong MuayThai Gym",
+        "url": "https://www.nowmuaythai.com/class/93-Muay-Thai-Training-10-Session-Course-At-Jaroenthong-MuayThai-Gym"
+      },
+      {
+        "className": "12-Session Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/93-Muay-Thai-Training-12-Sessions-1-Month-"
+      },
+      {
+        "className": "12-Session Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/93-Muay-Thai-Training-12-Sessions-1-Month-"
+      }
+    ]
+  },
+  "Powerhouse Phuket": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/power-house-phuket",
+    "classes": [
+      {
+        "className": "Muay Thai Training 1 Week",
+        "url": "https://www.nowmuaythai.com/class/6-Muay-Thai-Training-1-Week"
+      },
+      {
+        "className": "1-Month Muay Thai Program Training for All Levels at PowerHouse Phuket",
+        "url": "https://www.nowmuaythai.com/class/6-Month-Muay-Thai-Program-Training-for-All-Levels-at-PowerHouse-Phuket"
+      },
+      {
+        "className": "Experience Muay Thai at Power House Phuket: 1-Session Group Class",
+        "url": "https://www.nowmuaythai.com/class/6-muay-thai-at-power-house-phuket-1-session-group-class"
+      },
+      {
+        "className": "Muay Thai Training: 10 Sessions Program At PowerHouse Phuket",
+        "url": "https://www.nowmuaythai.com/class/6-Muay-Thai-Training-10-Sessions-Program-At-PowerHouse-Phuket"
+      },
+      {
+        "className": "Muay Thai Training 1 Day",
+        "url": "https://www.nowmuaythai.com/class/6-Muay-Thai-Training-1-Day"
+      }
+    ]
+  },
+  "Phuket Fight Club": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/phuket-fight-club",
+    "classes": [
+      {
+        "className": "1-Week Muay Thai Training At Phuket Fight Club",
+        "url": "https://www.nowmuaythai.com/class/1-week-muay-thai-training-at-phuket-fight-club"
+      },
+      {
+        "className": "1 Week Boxing Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-BOXING-1-WEEK"
+      },
+      {
+        "className": "1 Week Brazilian Jiu-Jitsu Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-BRAZILIAN-JIU-JITSU-1-WEEK"
+      },
+      {
+        "className": "1 Week MMA Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-MMA-1-WEEK"
+      },
+      {
+        "className": "1 Week Crossfit Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-CROSSFIT-1-WEEK-"
+      },
+      {
+        "className": "1-Month Muay Thai Training Program at Phuket Fight Club",
+        "url": "https://www.nowmuaythai.com/class/1-month-muay-thai-training-program-phuket-fight-club"
+      },
+      {
+        "className": "3 Months Muay Thai Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-MUAY-THAI-3-MONTHLY"
+      },
+      {
+        "className": "6 Months Muay Thai Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-MUAY-THAI-6-MONTHLY"
+      },
+      {
+        "className": "1 Month Boxing Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-BOXING-1-MONTHLY"
+      },
+      {
+        "className": "3 Months Boxing Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-BOXING-3-MONTHLY"
+      },
+      {
+        "className": "1 Month Brazilian Jiu-Jitsu Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-BRAZILIAN-JIU-JITSU-1-MONTHLY"
+      },
+      {
+        "className": "3 Months Brazilian Jiu-Jitsu Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-BRAZILIAN-JIU-JITSU-3-MONTHLY"
+      },
+      {
+        "className": "6 Months Brazilian Jiu-Jitsu Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-BRAZILIAN-JIU-JITSU-6-MONTHLY"
+      },
+      {
+        "className": "1 Month MMA Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-MMA-1-MONTHLY"
+      },
+      {
+        "className": "3 Months MMA Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-MMA-3-MONTHLY"
+      },
+      {
+        "className": "1 Month Crossfit Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-CROSSFIT-1-MONTHLY"
+      },
+      {
+        "className": "6 Months Crossfit Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-CROSSFIT-6-MONTHLY"
+      },
+      {
+        "className": "3 Months Crossfit Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-CROSSFIT-3-MONTHY"
+      },
+      {
+        "className": "1-Session Muay Thai Private Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-PRIVATE-CLASS"
+      },
+      {
+        "className": "1-Session Boxing Private Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-BOXING-PRIVATE"
+      },
+      {
+        "className": "1 Session Brazilian Jiu-Jitsu Private Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-BRAZILIAN-JIU-JITSU-PRIVATE"
+      },
+      {
+        "className": "1-Session MMA Private Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-MMA-PRIVATE-CLASS"
+      },
+      {
+        "className": "Private Crossfit 1-Session at Phuket Fight Club",
+        "url": "https://www.nowmuaythai.com/class/Private-Crossfit-1-session-at-phuket-fight-club"
+      },
+      {
+        "className": "Muay Thai Training Class For All Levels, 1-Session At Phuket Fight Club",
+        "url": "https://www.nowmuaythai.com/class/muay-thai-training-class-for-all-levels-1-session-at-phuket-fight-club"
+      },
+      {
+        "className": "10 Sessions Muay Thai Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-MUAY-THAI-10-CLASS"
+      },
+      {
+        "className": "One-Day Immersive Muay Thai Workshop at Phuket Fight Club",
+        "url": "https://www.nowmuaythai.com/class/One-Day-immersive-muay-thai-workshop-at-phuket-fight-club"
+      },
+      {
+        "className": "1-Session Boxing Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-BOXING-1-CLASS"
+      },
+      {
+        "className": "10 Sessions Boxing Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-BOXING-10-CLASS"
+      },
+      {
+        "className": "1 Session Brazilian Jiu-Jitsu Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-BRAZILIAN-JIU-JITSU-1-CLASS"
+      },
+      {
+        "className": "1-Day Brazilian Jiu-Jitsu Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-BRAZILIAN-JIU-JITSU-1-DAY"
+      },
+      {
+        "className": "10 Sessions Brazilian Jiu-Jitsu Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-BRAZILIAN-JIU-JITSU-10-CLASS"
+      },
+      {
+        "className": "1 Session MMA Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-MMA-1-CLASS"
+      },
+      {
+        "className": "10 Sessions MMA Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-MMA-10-CLASS"
+      },
+      {
+        "className": "1-Session Crossfit Program at Phuket Fight Club",
+        "url": "https://www.nowmuaythai.com/class/1-Session-Crossfit-Program-at-Phuket-Fight-Club"
+      },
+      {
+        "className": "10 Sessions MMA Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-MMA-10-CLASS"
+      },
+      {
+        "className": "1-Session Crossfit Program at Phuket Fight Club",
+        "url": "https://www.nowmuaythai.com/class/1-Session-Crossfit-Program-at-Phuket-Fight-Club"
+      },
+      {
+        "className": "1-Day Crossfit Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-CROSSFIT-1-DAY-"
+      },
+      {
+        "className": "10 Sessions Crossfit Private Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-CROSSFIT-10-CLASS"
+      },
+      {
+        "className": "1 Year Crossfit Private Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/5-CLASS-CROSSFIT-1-YEAR"
+      }
+    ]
+  },
+  "RC rachai Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/rcrachai-muay-thai",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class at RC Rachai 1 Week (1 Class per Day)",
+        "url": "https://www.nowmuaythai.com/class/132-muay-thai-group-class-rc-rachai-1-week-1-class-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at RC Rachai 1 Week (2 Classes per Day)",
+        "url": "https://www.nowmuaythai.com/class/132-muay-thai-group-class-rc-rachai-1-week-2-classes-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at RC Rachai 1 Month (1 Class per Day)",
+        "url": "https://www.nowmuaythai.com/class/132-muay-thai-group-class-rc-rachai-1-month-1-class-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at RC Rachai 1 Month (2 Classes per Day)",
+        "url": "https://www.nowmuaythai.com/class/132-muay-thai-group-class-rc-rachai-1-month-2classes-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at RC Rachai 3 Months (1 Class per Day)",
+        "url": "https://www.nowmuaythai.com/class/132-muay-thai-group-class-rc-rachai-3-months-1-class-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at RC Rachai 3 Months (2 Classes per Day)",
+        "url": "https://www.nowmuaythai.com/class/132-muay-thai-group-class-rc-rachai-3-months-2-classes-per-day"
+      },
+      {
+        "className": "Muay Thai Private Class at RC Rachai Muay Thai 1 Session",
+        "url": "https://www.nowmuaythai.com/class/132-muay-thai-private-class-rc-rachai-muay-thai-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at RC Rachai 1 Session",
+        "url": "https://www.nowmuaythai.com/class/132-muay-thai-group-class-at-rc-rachai-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at RC Rachai 1 Day Pass (2 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/132-muay-thai-group-class-rc-rachai-1-day-pass-2-sessions"
+      }
+    ]
+  },
+  "Maximum Fitness Phuket": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/maximum-fitness-phuket",
+    "classes": [
+      {
+        "className": "Muaythai Group class 1 week 1session per day",
+        "url": "https://www.nowmuaythai.com/class/122-Muaythai-Group-class-1-week-1session-per-day"
+      },
+      {
+        "className": "Muaythai Group class 1 week 2session per day",
+        "url": "https://www.nowmuaythai.com/class/122-Muaythai-Group-class-1-week-2session-per-day"
+      },
+      {
+        "className": "Muaythai Group class 2 week 1session per day",
+        "url": "https://www.nowmuaythai.com/class/122-Muaythai-Group-class-2-week-1session-per-day"
+      },
+      {
+        "className": "1-Session Muay Thai Private Class WIth Kru WI",
+        "url": "https://www.nowmuaythai.com/class/122-Private-with-Kru-WI"
+      },
+      {
+        "className": "1-Session Muay Thai Private Class WIth Kru Aomsin",
+        "url": "https://www.nowmuaythai.com/class/122-Private-with-Kru-Aomsin"
+      },
+      {
+        "className": "1-Session Muay Thai Private Class WIth Kru Chai",
+        "url": "https://www.nowmuaythai.com/class/122-Private-with-Kru-Chai"
+      },
+      {
+        "className": "1-Session Muay Thai Private Class WIth Kru Bank",
+        "url": "https://www.nowmuaythai.com/class/122-Private-with-Kru-Bank"
+      },
+      {
+        "className": "1-Session Muay Thai Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/122-Muaythai-Group-class"
+      }
+    ]
+  },
+  "Tiger Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/tiger-muay-thai",
+    "classes": [
+      {
+        "className": "Muay Thai Training 1 Week For Beginner Level",
+        "url": "https://www.nowmuaythai.com/class/75-Muay-Thai-Training-1-Week-For-Beginner-Level"
+      },
+      {
+        "className": "Muay Thai Training 1 Week For Intermediate Level",
+        "url": "https://www.nowmuaythai.com/class/75-Muay-Thai-Training-1-Week-For-Intermediate-Level"
+      },
+      {
+        "className": "Muay Thai Training 1 Week For Advanced Level",
+        "url": "https://www.nowmuaythai.com/class/75-Muay-Thai-Training-1-Week"
+      },
+      {
+        "className": "Muay Thai & MMA Training 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Muay-Thai-MMA-Training-1-Week"
+      },
+      {
+        "className": "Grappling & BJJ Training 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Grappling-BJJ-Training-1-Week"
+      },
+      {
+        "className": "Western Boxing & Fitness Training 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Western-Boxing-Fitness-Training-1-Week"
+      },
+      {
+        "className": "Fitness Training 1 Week For Levels For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Fitness-Training-1-Week"
+      },
+      {
+        "className": "Muay Thai Training 1 Month For Beginner Level",
+        "url": "https://www.nowmuaythai.com/class/75-Muay-Thai-Training-1-Month-For-Beginner-Level"
+      },
+      {
+        "className": "Muay Thai Training 1 Month For Intermediate Level",
+        "url": "https://www.nowmuaythai.com/class/75-Muay-Thai-Training-1-Month-For-Intermediate-Level"
+      },
+      {
+        "className": "Muay Thai Training 1 Month For Advanced Level",
+        "url": "https://www.nowmuaythai.com/class/75-Muay-Thai-Training-1-Month"
+      },
+      {
+        "className": "Muay Thai Training 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Muay-Thai-Training-3-Months"
+      },
+      {
+        "className": "Muay Thai & MMA Training 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Muay-Thai-MMA-Training-1-Month"
+      },
+      {
+        "className": "Muay Thai & MMA Training 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Muay-Thai-MMA-Training-3-Months"
+      },
+      {
+        "className": "Grappling & BJJ Training 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Grappling-BJJ-Training-1-Month"
+      },
+      {
+        "className": "Grappling & BJJ Training 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Grappling-BJJ-Training-3-Months"
+      },
+      {
+        "className": "Western Boxing & Fitness Training 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Western-Boxing-Fitness-Training-1-Month"
+      },
+      {
+        "className": "Western Boxing & Fitness Training 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Western-Boxing-Fitness-Training-3-Months"
+      },
+      {
+        "className": "Fitness Training 1 Month For Levels For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Fitness-Training-1-Month"
+      },
+      {
+        "className": "Fitness Training 3 Months For Levels For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Fitness-Training-3-Months"
+      },
+      {
+        "className": "Basic All-Inclusive Package STANDARD 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Basic-All-Inclusive-Package-STANDARD-1-Week"
+      },
+      {
+        "className": "Basic All-Inclusive Package STANDARD 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Basic-All-Inclusive-Package-STANDARD-1-Month"
+      },
+      {
+        "className": "Basic All-Inclusive Package Standard 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Basic-All-Inclusive-Package-STANDARD-3-Months"
+      },
+      {
+        "className": "Basic All-Inclusive Package PLUS 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Basic-All-Inclusive-Package-PLUS-1-Week"
+      },
+      {
+        "className": "Basic All-Inclusive Package PLUS 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Basic-All-Inclusive-Package-PLUS-1-Month"
+      },
+      {
+        "className": "Basic All-Inclusive Package Plus 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Basic-All-Inclusive-Package-PLUS-3-Months"
+      },
+      {
+        "className": "Basic All-Inclusive Package PREMIUM 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Basic-All-Inclusive-Package-PREMIUM-1-Week"
+      },
+      {
+        "className": "Basic All-Inclusive Package PREMIUM 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Basic-All-Inclusive-Package-PREMIUM-1-Month"
+      },
+      {
+        "className": "Basic All-Inclusive Package Premium 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Basic-All-Inclusive-Package-PREMIUM-3-Months"
+      },
+      {
+        "className": "Deluxe All-Inclusive Package PLUS 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Deluxe-All-Inclusive-Package-PLUS-1-Week"
+      },
+      {
+        "className": "Deluxe All-Inclusive Package PLUS 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Deluxe-All-Inclusive-Package-PLUS-1-Month"
+      },
+      {
+        "className": "Deluxe All-Inclusive Package Plus 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Deluxe-All-Inclusive-Package-PLUS-3-Months"
+      },
+      {
+        "className": "Deluxe All-Inclusive Package PREMIUM 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Deluxe-All-Inclusive-Package-PREMIUM-1-Week"
+      },
+      {
+        "className": "Deluxe All-Inclusive Package PREMIUM 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Deluxe-All-Inclusive-Package-PREMIUM-1-Month"
+      },
+      {
+        "className": "Deluxe All-Inclusive Package Premium 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-Deluxe-All-Inclusive-Package-PREMIUM-3-Months"
+      },
+      {
+        "className": "VIP All-Inclusive Package PLUS 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-VIP-All-Inclusive-Package-PLUS-1-Week"
+      },
+      {
+        "className": "VIP All-Inclusive Package Plus 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-VIP-All-Inclusive-Package-PLUS-1-Month"
+      },
+      {
+        "className": "VIP All-Inclusive Package Plus 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-VIP-All-Inclusive-Package-PLUS-3-Months"
+      },
+      {
+        "className": "VIP All-Inclusive Package PREMIUM 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-VIP-All-Inclusive-Package-PREMIUM-1-Week"
+      },
+      {
+        "className": "VIP All-Inclusive Package Premium 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-VIP-All-Inclusive-Package-PREMIUM-1-Month"
+      },
+      {
+        "className": "VIP All-Inclusive Package Premium 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/75-VIP-All-Inclusive-Package-PREMIUM-3-Months"
+      }
+    ]
+  },
+  "PhuketKing Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/phuketking-muay-thai",
+    "classes": [
+      {
+        "className": "MUAY THAI TRAINING 1 WEEK",
+        "url": "https://www.nowmuaythai.com/class/86-MUAY-THAI-TRAINING-1-WEEK"
+      },
+      {
+        "className": "MUAY THAI TRAINING CLASS 1 MONTH",
+        "url": "https://www.nowmuaythai.com/class/86-MUAY-THAI-TRAINING-CLASS-1-MONTH"
+      },
+      {
+        "className": "MUAY THAI TRAINING CLASS 3 MONTHS",
+        "url": "https://www.nowmuaythai.com/class/86-MUAY-THAI-TRAINING-CLASS-3-MONTH"
+      },
+      {
+        "className": "MUAY THAI TRAINING CLASS 6 MONTHS",
+        "url": "https://www.nowmuaythai.com/class/86-MUAY-THAI-TRAINING-CLASS-6-MONTH"
+      },
+      {
+        "className": "MUAY THAI TRAINING CLASS 12 MONTHS",
+        "url": "https://www.nowmuaythai.com/class/86-MUAY-THAI-TRAINING-CLASS-12-MONTH"
+      },
+      {
+        "className": "MUAY THAI PRIVATE TRAINING CLASS 1 HOUR",
+        "url": "https://www.nowmuaythai.com/class/86-MUAY-THAI-PRIVATE-TRAINING-CLASS-1-HOUR"
+      },
+      {
+        "className": "MUAY THAI PRIVATE TRAINING CLASS 5 HOURS",
+        "url": "https://www.nowmuaythai.com/class/86-MUAY-THAI-PRIVATE-TRAINING-CLASS-5-HOUR"
+      },
+      {
+        "className": "30 HOURS : PROFESSIONAL IMPROVEMENT PROGRAM FOR FIGHTER",
+        "url": "https://www.nowmuaythai.com/class/86-PROFESSIONAL-IMPROVEMENT-PROGRAM-FOR-FIGHTER-30-HOURS"
+      },
+      {
+        "className": "40 HOURS : PROFESSIONAL IMPROVEMENT PROGRAM FOR FIGHTER",
+        "url": "https://www.nowmuaythai.com/class/86-PROFESSIONAL-IMPROVEMENT-PROGRAM-FOR-FIGHTER-40-HOURS"
+      },
+      {
+        "className": "50 HOURS : PROFESSIONAL IMPROVEMENT PROGRAM FOR FIGHTER",
+        "url": "https://www.nowmuaythai.com/class/86-PROFESSIONAL-IMPROVEMENT-PROGRAM-FOR-FIGHTER-50-HOURS"
+      },
+      {
+        "className": "MUAY THAI TRAINING 1 SESSIONS",
+        "url": "https://www.nowmuaythai.com/class/86-MUAY-THAI-TRAINING-1-SESSIONS"
+      },
+      {
+        "className": "MUAY THAI TRAINING 1 DAY",
+        "url": "https://www.nowmuaythai.com/class/86-MUAY-THAI-TRAINING-1-DAY"
+      }
+    ]
+  },
+  "Sumalee Boxing Gym": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/sumalee-boxing-gym",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/152-muay-thai-group-class-1-week-for-all-levels"
+      },
+      {
+        "className": "Muay Thai Group Class 1 Month For All Levels (1 Session Per Day)",
+        "url": "https://www.nowmuaythai.com/class/152-muay-thai-group-class-1-month-for-all-levels-1-session-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class 1 Month For All Levels (2 Sessions Per Day)",
+        "url": "https://www.nowmuaythai.com/class/152-muay-thai-group-class-1-month-for-all-levels-2-sessions-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class 1 Session For All Levels",
+        "url": "https://www.nowmuaythai.com/class/152-muay-thai-group-class-1-session-for-all-levels"
+      },
+      {
+        "className": "Muay Thai Group Class 1 Day For All Levels",
+        "url": "https://www.nowmuaythai.com/class/152-muay-thai-group-class-1-day-for-all-levels"
+      },
+      {
+        "className": "Yoga Class 1 Session",
+        "url": "https://www.nowmuaythai.com/class/152-yoga-class-1-session"
+      },
+      {
+        "className": "Yoga Class 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/152-yoga-class-10-sessions"
+      },
+      {
+        "className": "Yoga Class 20 Sessions",
+        "url": "https://www.nowmuaythai.com/class/152-yoga-class-20-sessions"
+      }
+    ]
+  },
+  "Sutai Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/sutai_muay_thai",
+    "classes": [
+      {
+        "className": "Muay Thai Training Class for All Levels : 1 Week (1 session a day)",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-1-Week-X1-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 1 Week (2 sessions a day)",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-1-Week-X2-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 2 Week (1 session a day)",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-2-Week-X1-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 2 Week (2 sessions a day)",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-2-Week-X2-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 3 Week (1 session a day)",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-3-Week-X1-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 3 Week (2 sessions a day)",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-3-Week-X2-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Group Training Class for All Levels: 1 Week (1 session a day)",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-1-Week-X1-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Group Training Class for All Levels: 1 Week (2 sessions a day)",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-1-Week-X2-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Group Training Class for All Levels : 2 Week (1 session a day)",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-2-Week-X1-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Group Training Class for All Levels : 2 Week (2 sessions a day)",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-2-Week-X2-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Group Training Class for All Levels: 3 Week (1 session a day)",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-3-Week-X1-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Group Training Class for All Levels : 3 Week (2 sessions a day)",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-3-Week-X2-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 1 Month (1 session a day)",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-1-Month-X1-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 1 Month (2 sessions a day)",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-1-Month-X2-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 3 Month (1 session a day)",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-3-Month-X1-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 3 Month (2 sessions a day)",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-3-Month-X2-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Training Class for All Levels: 1 Month (1 session a day)",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-1-Month-X1-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Training Class for All Levels : 1 Month (2 sessions a day)",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-1-Month-X2-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Training Class for All Levels : 3 Month (1 session a day)",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-3-Month-X1-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Training Class for All Levels : 3 Month (2 sessions a day)",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-3-Month-X2-Daily"
+      },
+      {
+        "className": "Private Training Muay Thai : 1 ON 1 - 1 Session",
+        "url": "https://www.nowmuaythai.com/class/94-Private-Training---Muay-Thai---1-ON-1---1-Session"
+      },
+      {
+        "className": "Private Training Muay Thai : 2 ON 1 - 1 Session",
+        "url": "https://www.nowmuaythai.com/class/94-Private-Training---Muay-Thai---2-ON-1---1-Session"
+      },
+      {
+        "className": "Private Training Muay Thai : 1 ON 1 - 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/94-Private-Training---Muay-Thai---1-ON-1---10-Sessions"
+      },
+      {
+        "className": "Private Training - Brazillian jiu-jitsu : 1 ON 1 - 1 Session",
+        "url": "https://www.nowmuaythai.com/class/94-Private-Training---BJJ---1-ON-1---1-Session"
+      },
+      {
+        "className": "Private Training - Brazillian jiu-jitsu : 2 ON 1 - 1 Session",
+        "url": "https://www.nowmuaythai.com/class/94-Private-Training---BJJ---2-ON-1---1-Session"
+      },
+      {
+        "className": "Private Training - Brazillian jiu-jitsu : 1 ON 1 - 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/94-Private-Training---BJJ---1-ON-1---10-Sessions"
+      },
+      {
+        "className": "Private Training Sutai For Kids : 1 ON 1 - 1 Sessions",
+        "url": "https://www.nowmuaythai.com/class/94-Kids-Private-1-Session"
+      },
+      {
+        "className": "1 Session Muay Thai Training Class for All Levels at Sutai Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-1-Session-X1-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 2 sessions per day",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-1-Day-X2-Daily"
+      },
+      {
+        "className": "Muay Thai Training Class for All Levels : 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/94-Muay-Thai-Group-Training-10-Sessions"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Group Training for All Levels : 1 Session",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-1-Day-X1-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Group Training for All Levels: 2 sessions per day",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-1-Day-X2-Daily"
+      },
+      {
+        "className": "Brazillian jiu-jitsu Group Training for All Levels : 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/94-BJJ-Group-Training-10-Sessions"
+      },
+      {
+        "className": "Muay Thai for Kids : 1 session group class",
+        "url": "https://www.nowmuaythai.com/class/94-Kids-Group-Class-1-Session"
+      },
+      {
+        "className": "",
+        "url": ""
+      }
+    ]
+  },
+  "Phuket Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/phuket-muay-thai",
+    "classes": [
+      {
+        "className": "1 Week Unlimited Training Class",
+        "url": "https://www.nowmuaythai.com/class/135-1-Week-Unlimited-Training-Class"
+      },
+      {
+        "className": "1 Week Muay Thai Training (1 x per day)",
+        "url": "https://www.nowmuaythai.com/class/135-1-Week-Muay-Thai-Training-1-x-per-day-"
+      },
+      {
+        "className": "1 Month Muay Thai Training Class (1 Classes Per Day)",
+        "url": "https://www.nowmuaythai.com/class/135-1-Month-Muay-Thai-Training-Class-1-Classes-Per-Day-"
+      },
+      {
+        "className": "1 Month Muay Thai Training Class (2 Classes Per Day)",
+        "url": "https://www.nowmuaythai.com/class/135-1-Month-Muay-Thai-Training-Class-2-Classes-Per-Day-"
+      },
+      {
+        "className": "3 Months Muay Thai Training Class Pass (2x per day)",
+        "url": "https://www.nowmuaythai.com/class/135-3-Months-Pass-2x-Per-Day-"
+      },
+      {
+        "className": "6 Months Muay Thai Training Class Pass (2X per day)",
+        "url": "https://www.nowmuaythai.com/class/135-6-Months-Pass-2X-per-day-"
+      },
+      {
+        "className": "6 Months Muay Thai Training Class (1X Per day)",
+        "url": "https://www.nowmuaythai.com/class/135-6-Months-Pass-1X-Per-day"
+      },
+      {
+        "className": "1 Year Muay Thai Training Pass (1 x per day)",
+        "url": "https://www.nowmuaythai.com/class/135-1-Year-Muay-Thai-Training-Pass-1-x-per-day-"
+      },
+      {
+        "className": "1 Year Muay Thai Training Class Pass (2 classes per day)",
+        "url": "https://www.nowmuaythai.com/class/135-1-Year-Training-Pass-"
+      },
+      {
+        "className": "1 On 1 Private Training Class",
+        "url": "https://www.nowmuaythai.com/class/135-1-On-1-Private-Training-Class"
+      },
+      {
+        "className": "2 On 1 Private Training Class",
+        "url": "https://www.nowmuaythai.com/class/135-2-On-1-Private-Training-Class"
+      },
+      {
+        "className": "10 Session Private Muay Thai Training Class",
+        "url": "https://www.nowmuaythai.com/class/135-10-Session-Private-Muay-Thai-Training-Class"
+      },
+      {
+        "className": "20 Session Private Muay Thai Training Class",
+        "url": "https://www.nowmuaythai.com/class/135-20-Session-Private-Muay-Thai-Training-Class"
+      },
+      {
+        "className": "1 Session Muay Thai Single Class",
+        "url": "https://www.nowmuaythai.com/class/135-1-Session-Muay-Thai-Single-Class"
+      },
+      {
+        "className": "1 Day Muay Thai Training Class",
+        "url": "https://www.nowmuaythai.com/class/135-1-Day-Muay-Thai-Training-Class-"
+      },
+      {
+        "className": "5 Sessions Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/135-5-Sessions-Muay-Thai-Training"
+      },
+      {
+        "className": "10 Sessions Muay Thai Training Class",
+        "url": "https://www.nowmuaythai.com/class/135-10-Sessions-Muay-Thai-Training-Class"
+      }
+    ]
+  },
+  "Revolution Phuket Muay Thai Camp": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/revolution-phuket",
+    "classes": [
+      {
+        "className": "Enjoy Train and Travel in Phuket: 1-Week Muay Thai Training Class",
+        "url": "https://www.nowmuaythai.com/class/enjoy-train-travel-phuket-1-week-muay-thai-training-class"
+      },
+      {
+        "className": "1-Month Muay Thai Program for All Levels At Revolution Phuket Muay Thai Camp",
+        "url": "https://www.nowmuaythai.com/class/1-month-muay-thai-program-revolution-phuket-muay-thai-camp"
+      },
+      {
+        "className": "1-Session Private Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/7-MUAYTHAI-PRIVATE-LESSON-"
+      },
+      {
+        "className": "1-Session Private Muay Thai Training With Trainer Sagadphet",
+        "url": "https://www.nowmuaythai.com/class/7-MUAYTHAI-PRIVATE-LESSON-TRAINER-SAGADPHET-"
+      },
+      {
+        "className": "1-Day Muay Thai Training at Phuket (For All Levels)",
+        "url": "https://www.nowmuaythai.com/class/1-day-muay-thai-training-phuket-all-levels"
+      },
+      {
+        "className": "4 Weeks Unlimited Classes With Accommodation For All Levels",
+        "url": "https://www.nowmuaythai.com/class/7-4-Weeks-Unlimited-Classes-With-Accommodation-For-All-Levels"
+      },
+      {
+        "className": "4 Weeks Muay Thai Training With Accommodation For All Levels",
+        "url": "https://www.nowmuaythai.com/class/7-4-Weeks-Muay-Thai-Training-With-Accommodation-For-All-Levels"
+      },
+      {
+        "className": "3 Weeks Muay Thai Training With Accommodation For All Levels",
+        "url": "https://www.nowmuaythai.com/class/7-3-Weeks-Muay-Thai-Training-With-Accommodation-For-All-Levels"
+      },
+      {
+        "className": "2 Weeks Muay Thai Training With Accommodation For All Levels",
+        "url": "https://www.nowmuaythai.com/class/7-2-Weeks-Muay-Thai-Training-With-Accommodation-For-All-Levels"
+      },
+      {
+        "className": "1 Week Muay Thai Training With Accommodation For All Levels",
+        "url": "https://www.nowmuaythai.com/class/7-1-Week-Muay-Thai-Training-With-Accommodation-For-All-Levels"
+      }
+    ]
+  },
+  "Bangtao Muay Thai & MMA": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/bangtao",
+    "classes": [
+      {
+        "className": "All Classes Training 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/62-All-Inclusive-Training-1-Week"
+      },
+      {
+        "className": "Muay Thai And MMA Training 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/62-Muay-Thai-and-MMA-Training-1-Week"
+      },
+      {
+        "className": "Fitness Package 1 Week For All Levels",
+        "url": "https://www.nowmuaythai.com/class/62-Fitness-Package-1-Week"
+      },
+      {
+        "className": "All Classes Training 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/62-All-Inclusive-Training-1-Month"
+      },
+      {
+        "className": "All Classes Training 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/62-All-Inclusive-Training-3-Months"
+      },
+      {
+        "className": "Muay Thai And MMA Training 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/62-Muay-Thai-and-MMA-Training-1-Month"
+      },
+      {
+        "className": "Muay Thai And MMA Training 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/62-Muay-Thai-and-MMA-Training-3-Months"
+      },
+      {
+        "className": "Fitness Package 1 Month For All Levels",
+        "url": "https://www.nowmuaythai.com/class/62-Fitness-Package-1-Month"
+      },
+      {
+        "className": "Fitness Package 3 Months For All Levels",
+        "url": "https://www.nowmuaythai.com/class/62-Fitness-Package-3-Months"
+      },
+      {
+        "className": "Training 1 day For All Levels",
+        "url": "https://www.nowmuaythai.com/class/62-Training-1-day"
+      }
+    ]
+  },
+  "Chiangmai JR Muaythai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/chiangmai-jr-muaythai",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class at Chiangmai JR Muaythai Gym 1 Month",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-group-class-chiangmai-jr-1-month"
+      },
+      {
+        "className": "Muay Thai Group Class at Chiangmai JR Muaythai Gym 1 Month (2 Sessions Daily)",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-group-class-chiangmai-jr-1-month-2-sessions-daily"
+      },
+      {
+        "className": "Muay Thai Private Class with Kru JR 1 Session",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-private-kru-jr-1-session"
+      },
+      {
+        "className": "Muay Thai Private Class with Kru JR (2-On-1) 1 Session",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-private-kru-jr-2on1-1-session"
+      },
+      {
+        "className": "Muay Thai Private Class with Kru JR 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-private-kru-jr-10-sessions"
+      },
+      {
+        "className": "Muay Thai Private Class with Senior Trainer 1 Session",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-private-chiangmai-jr-senior-trainer-1-session"
+      },
+      {
+        "className": "Muay Thai Private Class with Senior Trainer (2-On-1) 1 Session",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-private-chiangmai-jr-senior-trainer-2on1-1-session"
+      },
+      {
+        "className": "Muay Thai Private Class with Senoir Trainer 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-private-chiangmai-jr-senior-trainer-10-sessions"
+      },
+      {
+        "className": "Muay Thai For Kids at Chiangmai JR 1 Session",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-kids-chiangmai-jr-1-session"
+      },
+      {
+        "className": "Muay Thai For Kids at Chiangmai JR 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-kids-chiangmai-jr-10-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Chiangmai JR Muay Thai 1 Session",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-group-class-chiangmai-jr-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Chiangmai JR 1 Day (2 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-group-class-chiangmai-jr-1-day-2-sessions"
+      },
+      {
+        "className": "Muay Thai Goup Class at Chiangmai JR For 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/70-muay-thai-group-class-chiangmai-jr-10-sessions"
+      }
+    ]
+  },
+  "Nilobon Fight Club Gym": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/Nilobon_fight_Club_Gym",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class at Nilobon 1 Month",
+        "url": "https://www.nowmuaythai.com/class/145-muay-thai-group-class-nilobon-1-month"
+      },
+      {
+        "className": "Muay Thai Group Class at Nilobon 1 Month (2 Sessions Daily)",
+        "url": "https://www.nowmuaythai.com/class/145-muay-thai-group-class-nilobon-1-month-2-sessions-daily"
+      },
+      {
+        "className": "Muay Thai Private Class at Nilobon 1 Session",
+        "url": "https://www.nowmuaythai.com/class/145-muay-thai-private-class-nilobon-1-session"
+      },
+      {
+        "className": "Muay Thai Private Class 2-On-1 at Nilobon 1 Session",
+        "url": "https://www.nowmuaythai.com/class/145-muay-thai-private-2on1-nilobon-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Nilobon 1 Session",
+        "url": "https://www.nowmuaythai.com/class/145-muay-thai-group-class-nilobon-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Nilobon 5 Sessions",
+        "url": "https://www.nowmuaythai.com/class/145-muay-thai-group-class-nilobon-5-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Nilobon 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/145-muay-thai-group-class-nilobon-10-sessions"
+      }
+    ]
+  },
+  "Krudam Gym Chiang Mai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/krudam-gym-chiang-mai",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class Training Unlimited at Kru Dam Chiang Mai 1 Month",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-group-class-training-unlimited-at-kru-dam-chiang-mai-1-month"
+      },
+      {
+        "className": "Muay Thai Group Class Training Unlimited at Kru Dam Chiang Mai 3 Months",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-group-class-training-unlimited-at-kru-dam-chiang-mai-3-months"
+      },
+      {
+        "className": "Muay Thai Group Class Training Unlimited at Kru Dam Chiang Mai 4 Months",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-group-class-training-unlimited-at-kru-dam-chiang-mai-4-months"
+      },
+      {
+        "className": "Muay Thai Private Class (Adult) at Kru Dam Chiang Mai 1 Session",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-private-class-adult-at-kru-dam-chiang-mai-1-session"
+      },
+      {
+        "className": "Muay Thai Private Class (Adult) at Kru Dam Chiang Mai 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-private-class-adult-at-kru-dam-chiang-mai-10-sessions"
+      },
+      {
+        "className": "Muay Thai Private Class (Adult) at Kru Dam Chiang Mai 20 Sessions",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-private-class-adult-at-kru-dam-chiang-mai-20-sessions"
+      },
+      {
+        "className": "Muay Thai Private Class (Children) at Kru Dam Chiang Mai 1 Session",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-private-class-children-at-kru-dam-chiang-mai-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class Training (Adult) at Kru Dam Chiang Mai - 1 Session",
+        "url": "https://www.nowmuaythai.com/class/163-Group-Class-Training-Adult---1-Time"
+      },
+      {
+        "className": "Muay Thai Group Class Training (Adult) at Kru Dam Chiang Mai - 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-group-class-training-adult-at-kru-dam-chiang-mai-10-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class Training (Adult) at Kru Dam Chiang Mai - 20 Sessions",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-group-class-training-adult-at-kru-dam-chiang-mai-20-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class Training (Children) at Kru Dam Chiang Mai - 1 Session",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-group-class-training-children-at-kru-dam-chiang-mai-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class Training (Children) at Kru Dam Chiang Mai - 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-group-class-training-children-at-kru-dam-chiang-mai-10-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class Training (Children) at Kru Dam Chiang Mai - 20 Sessions",
+        "url": "https://www.nowmuaythai.com/class/163-muay-thai-group-class-training-children-at-kru-dam-chiang-mai-20-sessions"
+      }
+    ]
+  },
+  "Xmax Thai Boxing Club": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/xmax-thai-boxing-club",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class For All Levels 1 Month (1 Class Per Day)",
+        "url": "https://www.nowmuaythai.com/class/127-muay-thai-group-class-all-levels-1-month-1-class-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class For All Levels 1 Month (2 Class Per Day)",
+        "url": "https://www.nowmuaythai.com/class/127-muay-thai-group-class-all-levels-1-month-2-classes-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at Xmax 1 Session",
+        "url": "https://www.nowmuaythai.com/class/127-muaythai-group-class-at-xmax-1-session"
+      },
+      {
+        "className": "Muay Thai Kid Class at Xmax 26 Sessions",
+        "url": "https://www.nowmuaythai.com/class/127-muay-thai-for-kid-at-xmax-26-sessions"
+      }
+    ]
+  },
+  "The Bear Fight Club Chiang Mai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/the-bear-fight-club-chiang-mai",
+    "classes": [
+      {
+        "className": "1-Week Muay Thai Training Class At The Bear Fight Club Gym (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/1-Week-muay-thai-training-class-at-the-bear-fight-club-gym-1-session-day"
+      },
+      {
+        "className": "2 Weeks Muay Thai Training Class For All Levels (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Training-2-Weeks-1-Session-Per-Day-"
+      },
+      {
+        "className": "3 Weeks Muay Thai Training Class For All Levels (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Training-3-Weeks-1-Session-Per-Day-"
+      },
+      {
+        "className": "1-Week Muay Thai Training Class At Bear Fight Club Gym (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/1-Week-muay-thai-training-class-at-bear-fight-club-gym-2-sessions-day"
+      },
+      {
+        "className": "2 Weeks Muay Thai Training Class For All Levels (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Training-2-Weeks-2-Sesions-Per-Day-"
+      },
+      {
+        "className": "3 Weeks Muay Thai Training Class For All Levels (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Training-3-Weeks-2-Sessions-Per-Day-"
+      },
+      {
+        "className": "1 Month Muay Thai Training Class For All Levels (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Training-1-Month"
+      },
+      {
+        "className": "3 Months Muay Thai Training Class For All Levels (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Training-3-Months---1-Time-Per-Day-"
+      },
+      {
+        "className": "6 Months Muay Thai Training Class For All Levels (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Training-6-Months---1-Time-Per-Day-"
+      },
+      {
+        "className": "1 Month Muay Thai Training Class For All Levels (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Training-1-Month---2-Times"
+      },
+      {
+        "className": "3 Months Muay Thai Training Class For All Levels (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Training-3-Months---2-Sessions-Per-Day-"
+      },
+      {
+        "className": "6 Months Muay Thai Training Class For All Levels (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Training-6-Months---2-Sessions-Per-Day-"
+      },
+      {
+        "className": "1 Session Muay Thai Private Class With Kru Bank",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Private-Class-1-hr-Kru-Bank-"
+      },
+      {
+        "className": "10 Sessions Muay Thai Private Class With Kru Bank",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Private-Classes-10-Sessions-Kru-Bank-"
+      },
+      {
+        "className": "1 Session Muay Thai Private Class With Kru Bank (Outdoor Class)",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Private-Class-1-Session-Out-Door-With-Kru-Bank-"
+      },
+      {
+        "className": "1 Session Muay Thai Private Class With Kru Sunny",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Private-Classes-10-Sesions-Out-Door-"
+      },
+      {
+        "className": "10 Sessions Muay Thai Private Class With Kru Sunny",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Private-Classes-10-Sessions-Kru-Sunny-"
+      },
+      {
+        "className": "Muay Thai Private Class 1 Session ( Out Door With Kru Sunny )",
+        "url": "https://www.nowmuaythai.com/class/64-Muay-Thai-Private-Class-1-Session-Out-Door-With-Kru-Sunny-"
+      },
+      {
+        "className": "Experience Muay Thai in Chiang Mai: 1 Session Training at The Bear Fight Club",
+        "url": "https://www.nowmuaythai.com/class/experience-muay-thai-chiang-mai-1-session-training-bear-fight-club"
+      },
+      {
+        "className": "Muay Thai Group Training: 1-Day Class for All Levels (2 Daily Sessions)",
+        "url": "https://www.nowmuaythai.com/class/muay_thai_group_training_1_day_class_for_all_levels_2_daily_sessions"
+      },
+      {
+        "className": "10-Sessions Muay Thai Group Class at Bear Fight Club Gym (1 Session Per Day)",
+        "url": "https://www.nowmuaythai.com/class/10-sessions-muay-thai-group-class-at-bear-fight-club-gym-1-session-per-day"
+      },
+      {
+        "className": "10-Sessions Muay Thai Group Class At Bear Fight Club Gym (2 Sessions Per Day)",
+        "url": "https://www.nowmuaythai.com/class/10-sessions-muay-thai-group-class-at-bear-fight-club-gym-2-sessions-per-day"
+      }
+    ]
+  },
+  "Hongthong Muaythai Gym": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/hongthong-muaythai-gym",
+    "classes": [
+      {
+        "className": "1-Week Muay Thai Training Class (1 Session Daily) at Hongthong",
+        "url": "https://www.nowmuaythai.com/class/1-week-muay-thai-training-class-1-session-daily-hongthong"
+      },
+      {
+        "className": "1-Week Muay Thai Training Class (2 Sessions Daily) at Hongthong",
+        "url": "https://www.nowmuaythai.com/class/1-week-muay-thai-training-class-2-sessions-daily-hongthong"
+      },
+      {
+        "className": "2 Weeks Muay Thai Training Class For All Levels (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/66-Muay-Thai-Training-2-Weeks-1-Session-Per-Day-"
+      },
+      {
+        "className": "2 Weeks Muay Thai Training Class For All Levels (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/66-Muay-Thai-Training-2-Weeks-2-Sessions-Per-Day-"
+      },
+      {
+        "className": "3 Weeks Muay Thai Training Class For All Levels (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/66-Muay-Thai-Training-3-Weeks-1-Session-Per-Day-"
+      },
+      {
+        "className": "3 Weeks Muay Thai Training Class For All Levels (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/66-Muay-Thai-Training-3-Weeks-2-Sessions-Per-Day-"
+      },
+      {
+        "className": "1 Month Muay Thai Training Class For All Levels (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/66-Muay-Thai-Training-1-Month-1-Session-Per-Day-"
+      },
+      {
+        "className": "1 Month Muay Thai Training Class For All Levels (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/66-Muay-Thai-Training-1-Month-2-Sessions-Per-Day-"
+      },
+      {
+        "className": "Authentic Muay Thai Private Training at Hongthong: 1 Session",
+        "url": "https://www.nowmuaythai.com/class/authentic-muay-thai-private-training-hongthong-1-session"
+      },
+      {
+        "className": "Enter the World of Muay Thai with 1 Session Training at Hongthong Muay Thai Gym",
+        "url": "https://www.nowmuaythai.com/class/enter-world-muay-thai-1-session-training-hongthong-muay-thai-gym"
+      },
+      {
+        "className": "https://www.nowmuaythai.com/class/1-day-muay-thai-class-all-levels-2-sessions-daily",
+        "url": "1-Day Muay Thai Class for All Levels – 2 Sessions Daily"
+      },
+      {
+        "className": "1 Session Muay Thai Private Class With Kru Joe",
+        "url": "https://www.nowmuaythai.com/class/66-1-On-1---Kru-Joe"
+      }
+    ]
+  },
+  "The Camp Muay Thai Resort and Academy": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/the-camp",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class at The Camp - 1 Month",
+        "url": "https://www.nowmuaythai.com/class/61-muay-thai-group-class-the-camp-1-month"
+      },
+      {
+        "className": "Muay Thai Group Class At The Camp Muay Thai Academy 1 Session",
+        "url": "https://www.nowmuaythai.com/class/61-muay-thai-group-class-the-camp-muay-thai-academy-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at The Camp Muay Thai 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/61-muay-thai-group-calss-the-camp-muay-thai-academy-10-sessions"
+      }
+    ]
+  },
+  "Dang Muay Thai Chaing Mai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/dang-muay-thai-chaing-mai",
+    "classes": [
+      {
+        "className": "1 Monthly Membership (1 Class per day)",
+        "url": "https://www.nowmuaythai.com/class/97-MONTHLY-MEMBERSHIP-1-CLASS-A-DAY-"
+      },
+      {
+        "className": "1 Monthly Membership (2 Classes per day)",
+        "url": "https://www.nowmuaythai.com/class/97-MONTHLY-MEMBERSHIP-2-CLASS-A-DAY-"
+      },
+      {
+        "className": "1 Monthly Membership (3 Classes per day)",
+        "url": "https://www.nowmuaythai.com/class/97-MONTHLY-MEMBERSHIP-3-CLASS-A-DAY-"
+      },
+      {
+        "className": "Muay Thai Group Class at Dang Muay Thai 1 Session",
+        "url": "https://www.nowmuaythai.com/class/97-muay-thai-group-class-dang-muay-thai-1-session"
+      },
+      {
+        "className": "10 Sessions Muay Thai Training Group Class at Dang Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/97-MUAY-THAI-TRAINING-GROUP-10-CLASS"
+      }
+    ]
+  },
+  "Danmuang Lamphun Chiangmai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/danmuang-lamphun-chiangmai",
+    "classes": [
+      {
+        "className": "Muay Thai Private Training at Danmuang 1 Session",
+        "url": "https://www.nowmuaythai.com/class/142-muay-thai-private-training-at-danmuang-1-session"
+      },
+      {
+        "className": "Muay Thai Private Training at Danmuang 1 Week",
+        "url": "https://www.nowmuaythai.com/class/142-muay-thai-private-training-at-danmuang-1-week"
+      },
+      {
+        "className": "Muay Thai Pivate Training at Danmuang 1 Month",
+        "url": "https://www.nowmuaythai.com/class/142-muay-thai-private-training-at-danmuang-1-month"
+      },
+      {
+        "className": "Muay Thai Private Training With Kru Ae 1 Session",
+        "url": "https://www.nowmuaythai.com/class/142-muay-thai-parivate-training-kru-ae-1-session"
+      },
+      {
+        "className": "Muay Thai Private Training With Kru Ae 1 Week",
+        "url": "https://www.nowmuaythai.com/class/142-muay-thai-private-training-kru-ae-1-week"
+      },
+      {
+        "className": "Muay Thai Private Training With Kru Ae 1 Month",
+        "url": "https://www.nowmuaythai.com/class/142-muay-thai-private-training-kru-ae-1-month"
+      },
+      {
+        "className": "Muay Thai Group Class at Danmuang 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/142-muay-thai-group-class-at-danmuang-lamphun-chiangmai-10-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Danmuang 20 Sessions",
+        "url": "https://www.nowmuaythai.com/class/142-muay-thai-group-class-at-danmuang-lamphun-chiangmai-20-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Danmuang 30 Sessions",
+        "url": "https://www.nowmuaythai.com/class/142-muay-thai-group-class-at-danmuang-lamphun-chiangmai-30-sessions"
+      }
+    ]
+  },
+  "Lanna Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/boon-lanna-muay-thai",
+    "classes": [
+      {
+        "className": "Muay Thai Training 1 Week ( 1 Session A Day )",
+        "url": "https://www.nowmuaythai.com/class/79-Muay-Thai-Training-1-Week-1-Session--Day-"
+      },
+      {
+        "className": "Muay Thai Training 1 Week ( 2 Sessions A Day )",
+        "url": "https://www.nowmuaythai.com/class/79-Muay-Thai-Training-1-Week-2-Sessions--Day-"
+      },
+      {
+        "className": "Muay Thai Training 2 Weeks ( 1 Session A Day )",
+        "url": "https://www.nowmuaythai.com/class/79-Muay-Thai-Training-2-Weeks-1-Session--Day-"
+      },
+      {
+        "className": "Muay Thai Training 2 Weeks ( 2 Sessions A Day )",
+        "url": "https://www.nowmuaythai.com/class/79-Muay-Thai-Training-2-Weeks-2-Sessions--Day-"
+      },
+      {
+        "className": "Muay Thai Training 3 Weeks ( 1 Session A Day )",
+        "url": "https://www.nowmuaythai.com/class/79-Muay-Thai-Training-3-Weeks-1-Session--Day-"
+      },
+      {
+        "className": "Muay Thai Training 3 Weeks ( 2 Sessions A Day )",
+        "url": "https://www.nowmuaythai.com/class/79-Muay-Thai-Training-3-Weeks-2-Sessions--Day-"
+      },
+      {
+        "className": "Muay Thai Training 1 Month ( 1 Session A Day )",
+        "url": "https://www.nowmuaythai.com/class/79-Muay-Thai-Training-1-Month-1-Session--Day-"
+      },
+      {
+        "className": "Muay Thai Training 1 Month ( 2 Sessions A Day )",
+        "url": "https://www.nowmuaythai.com/class/79-Muay-Thai-Training-1-Month-2-Sessions--Day-"
+      },
+      {
+        "className": "Private 1 ON 1 Training - 1 Session",
+        "url": "https://www.nowmuaythai.com/class/79-Private-1-ON-1-Training---1-Session"
+      },
+      {
+        "className": "Private 1 ON 1 Training With Master Boon",
+        "url": "https://www.nowmuaythai.com/class/79-Private-1-ON-1-Training-With-Master-Boon"
+      },
+      {
+        "className": "Private 1 ON 1 Training - 10 Sessions Free 1 Session",
+        "url": "https://www.nowmuaythai.com/class/79-Private-1-ON-1-Training---10-Sessions-Free-1-Session"
+      },
+      {
+        "className": "Muay Thai Group Training Class: 1 Session at Lanna Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/muay-thai-group-training-class-1-session-at-lanna-muay-thai"
+      }
+    ]
+  },
+  "CMA Muaythai Academy": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/cma-muaythai-academy",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class at CMA Muaythai 1 Week (All Levels)",
+        "url": "https://www.nowmuaythai.com/class/143-muay-thai-group-class-cma-muaythai-1-week-all-levels"
+      },
+      {
+        "className": "Muay Thai Group Class at CMA 1 Month (2 Classes per Day)",
+        "url": "https://www.nowmuaythai.com/class/143-muay-thai-group-class-at-cma-1-month-2-classes-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at CMA 1 Month (1 Class per Day)",
+        "url": "https://www.nowmuaythai.com/class/143-muay-thai-group-class-at-cma-1-month-1-class-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at CMA 1 Session (For Beginner)",
+        "url": "https://www.nowmuaythai.com/class/143-muay-thai-group-class-at-cma-1-session-for-beginner"
+      },
+      {
+        "className": "Muay Thai Group Class at CMA 1 Session (For Fighter)",
+        "url": "https://www.nowmuaythai.com/class/143-muay-thai-group-class-at-cma-1-session-for-fighter"
+      }
+    ]
+  },
+  "KMAX GYM MUAYTHAI": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/kmax-gym-muaythai",
+    "classes": [
+      {
+        "className": "1 Session Muay Thai Private For All Levels",
+        "url": "https://www.nowmuaythai.com/class/121-1-Session-Muay-Thai-Private-For-All-Levels"
+      },
+      {
+        "className": "3 Sessions Muay Thai Private For All Levels",
+        "url": "https://www.nowmuaythai.com/class/121-3-Sessions-Muay-Thai-Private-For-All-Levels"
+      },
+      {
+        "className": "Discover Muay Thai at KMAX Gym: 1-Session Training Class",
+        "url": "https://www.nowmuaythai.com/class/discover-muay-thai-kmax-gym-1-session-training-class"
+      },
+      {
+        "className": "8 Sessions Muay Thai Group Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/121-8-Sessions-Muay-Thai-Group-Class-For-All-Levels"
+      },
+      {
+        "className": "3 Sessions Muay Thai Group Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/121-3-Sessions-Muay-Thai-Group-Class-For-All-Levels"
+      }
+    ]
+  },
+  "Adin Muay Thai School": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/adin-muay-thai-school",
+    "classes": [
+      {
+        "className": "1 Month Muay Thai Group Class For All Levels (1 Session Per Day)",
+        "url": "https://www.nowmuaythai.com/class/120-1-Month-Muay-Thai-Group-Class-For-All-Levels-1-Session-Per-Day-"
+      },
+      {
+        "className": "1 Month Muay Thai Group Class For Kids (1 Session Per Day)",
+        "url": "https://www.nowmuaythai.com/class/120-1-Month-Muay-Thai-Group-Class-For-Kids-1-Session-Per-Day-"
+      },
+      {
+        "className": "1 Month Muay Thai Group Class (2 Sessions Per Day)",
+        "url": "https://www.nowmuaythai.com/class/120-1-Month-Muay-Thai-Group-Class-2-Sessions-Per-Day-"
+      },
+      {
+        "className": "A Session Friendly Muay Thai Private Class at Adin Muay Thai School",
+        "url": "https://www.nowmuaythai.com/class/session-friendly-muay-thai-private-class-adin-muay-thai-school"
+      },
+      {
+        "className": "5 Sessions Muay Thai Private Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/120-5-Sessions-Muay-Thai-Private-Class-For-All-Levels"
+      },
+      {
+        "className": "Tailored 10-Session Private Muay Thai Class at Adin Muay Thai School",
+        "url": "https://www.nowmuaythai.com/class/tailored-10-session-private-muay-thai-class-adin-muay-thai-school"
+      },
+      {
+        "className": "1 Session Muay Thai Group Class For Kids",
+        "url": "https://www.nowmuaythai.com/class/120-1-Session-Muay-Thai-Group-Class-For-Kids"
+      },
+      {
+        "className": "1-Session Fun Muay Thai Class at Adin Muay Thai School",
+        "url": "https://www.nowmuaythai.com/class/1-session-fun-muay-thai-class-adin-muay-thai-school"
+      },
+      {
+        "className": "Muay Thai Group Training: 10-Session Course at Adin Muay Thai School",
+        "url": "https://www.nowmuaythai.com/class/muay-thai-group-training-10-session-course-at-adin-muay-thai-school"
+      },
+      {
+        "className": "10 Sessions Muay Thai Group Class For Kids",
+        "url": "https://www.nowmuaythai.com/class/120-10-Sessions-Muay-Thai-Group-Class-For-Kids"
+      }
+    ]
+  },
+  "Krabi Lion Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/krabi_lion_muay_thai",
+    "classes": [
+      {
+        "className": "1-Week Muay Thai Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/117-Muay-Thai-Training-1-Week"
+      },
+      {
+        "className": "2-Weeks Muay Thai Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/117-Muay-Thai-Training-2-Weeks"
+      },
+      {
+        "className": "1-Month Muay Thai Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/117-Muay-Thai-Training-1-Month"
+      },
+      {
+        "className": "1 Session Muay Thai Private Class For All Levels With Kru Pichit",
+        "url": "https://www.nowmuaythai.com/class/117-1-Session-Muay-Thai-Private-Class-For-All-Levels-With-Kru-Pichit"
+      },
+      {
+        "className": "1 Session Muay Thai Private Class For All Levels With Kru Teng",
+        "url": "https://www.nowmuaythai.com/class/117-1-session-muay-thai-private-class-for-all-levels-with-kru-teng"
+      },
+      {
+        "className": "Private session with Kru Ron",
+        "url": "https://www.nowmuaythai.com/class/117-Private-session-with-Kru-Ron"
+      },
+      {
+        "className": "2 On 1 - 1 Session Muay Thai Private Class",
+        "url": "https://www.nowmuaythai.com/class/117-2-On-1---1-Session-Muay-Thai-Private-Class"
+      },
+      {
+        "className": "Join Our 1-Session Muay Thai Training Class for All Levels At Krabi Lion Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/117-Join-Our-1-Session-Muay-Thai-Training-Class-for-All-Levels-At-Krabi-Lion-Muay-Thai"
+      },
+      {
+        "className": "Kickstart Your Journey: One-Day Muay Thai Training at Krabi Lion Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/117-your-journey-one-day-muay-thai-training-at-krabi-lion-muay-thai"
+      },
+      {
+        "className": "5-Session Muay Thai Training Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/117-5-Session-Muay-Thai-Training-Class-For-All-Levels"
+      }
+    ]
+  },
+  "Khunsuek Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/khunsuek-muay-thai",
+    "classes": [
+      {
+        "className": "1 Week Group Class Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Group-Class-1-Week-For-All-Levels"
+      },
+      {
+        "className": "1-Week Muay Thai Training With 3 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Package-1-Week"
+      },
+      {
+        "className": "1-Week Muay Thai Training With 5 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Gold-Package-1-Week"
+      },
+      {
+        "className": "1-Week Muay Thai Training With 7 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Platinum-Package-1-Week"
+      },
+      {
+        "className": "2 Weeks Group Class Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Muaythai-Group-Class-2-Weeks"
+      },
+      {
+        "className": "2-Week Muay Thai Training With 6 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Basic-Package-2-Weeks"
+      },
+      {
+        "className": "2-Week Muay Thai Training With 10 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Gold-Package-2-Weeks"
+      },
+      {
+        "className": "2-Week Muay Thai Training With 14 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Platinum-Package-2-Weeks"
+      },
+      {
+        "className": "3 Weeks Group Class Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Muaythai-Group-Class-3-Weeks"
+      },
+      {
+        "className": "3-Week Muay Thai Training With 9 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Basic-Package-3-Weeks"
+      },
+      {
+        "className": "3-Week Muay Thai Training With 15 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Gold-Package-3-Weeks"
+      },
+      {
+        "className": "3-Week Muay Thai Training With 21 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Platinum-Package-3-Weeks"
+      },
+      {
+        "className": "1 Month Group Class Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Muaythai-Group-Class-1-Month"
+      },
+      {
+        "className": "1-Month Muay Thai Training Program With 12 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Package-1-Month"
+      },
+      {
+        "className": "1-Month Muay Thai Training Program With 20 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Gold-Package-1-Month"
+      },
+      {
+        "className": "1-Month Muay Thai Training Program With 28 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Platinum-Package-1-Month"
+      },
+      {
+        "className": "2 Month Group Class Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Muaythai-Group-Class-2-Months"
+      },
+      {
+        "className": "2-Month Muay Thai Training Program With 24 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Basic-Package-2-Months"
+      },
+      {
+        "className": "2-Month Muay Thai Training Program With 40 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Gold-Package-2-Months"
+      },
+      {
+        "className": "2-Month Muay Thai Training Program With 56 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Platinum-Package-2-Months"
+      },
+      {
+        "className": "3 Months Group Class Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Muaythai-Group-Class-3-Months"
+      },
+      {
+        "className": "3-Months Muay Thai Training Program With 36 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Basic-Package-3-Month"
+      },
+      {
+        "className": "3-Months Muay Thai Training Program With 60 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Gold-Package-3-Month"
+      },
+      {
+        "className": "3-Months Muay Thai Training Program With 84 Private Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Platinum-Package-3-Months"
+      },
+      {
+        "className": "1 Session - 1 On 1 Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/2-1-ON-1-1-Session"
+      },
+      {
+        "className": "10 Sessions - 1 On 1 Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/2-1-ON-1---10-Sessions"
+      },
+      {
+        "className": "1 Session - 2 On 1 Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/2-2-ON-1"
+      },
+      {
+        "className": "3 ON 1",
+        "url": "https://www.nowmuaythai.com/class/2-3-ON-1"
+      },
+      {
+        "className": "4 ON 1",
+        "url": "https://www.nowmuaythai.com/class/2-4-ON-1"
+      },
+      {
+        "className": "60 Minutes : Massage with Khun Suek Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/2-Massage-with-Khun-Suek-Muay-Thai"
+      },
+      {
+        "className": "90 Minutes : Massage with Khun Suek Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/2-90-Minutes-Massage-with-Khun-Suek-Muay-Thai"
+      },
+      {
+        "className": "120 Minutes : Massage with Khun Suek Muay Thai",
+        "url": "https://www.nowmuaythai.com/class/2-120-Minutes-Massage-with-Khun-Suek-Muay-Thai"
+      },
+      {
+        "className": "1 Session - Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/2-Muay-Thai-Training-1-Sessions"
+      },
+      {
+        "className": "1 Day Group Class Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/2-Muaythai-Group-Class-1-Day"
+      },
+      {
+        "className": "12 Session - Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/2-Muay-Thai-Training-10-Free-2-Sessions"
+      },
+      {
+        "className": "25 Session - Muay Thai Training",
+        "url": "https://www.nowmuaythai.com/class/2-Muay-Thai-Training-20-Free-5-Sessions"
+      }
+    ]
+  },
+  "Venum training camp": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/venum-training-camp",
+    "classes": [
+      {
+        "className": "1-Week All Access",
+        "url": "https://www.nowmuaythai.com/class/73-ALL-ACCESS-1-WEEK"
+      },
+      {
+        "className": "1-Week Muay Thai Training For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-MUAY-THAI-TRAINING-1-WEEK"
+      },
+      {
+        "className": "1-Week Grappling BJJ For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-GRAPPLING-BJJ-1-WEEK"
+      },
+      {
+        "className": "1-Week Boxing Training For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-BOXING-1-WEEK"
+      },
+      {
+        "className": "1-Week Combat Strength & Conditioning For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-1_week_combat_strength_conditioning_for_all_level"
+      },
+      {
+        "className": "1-Week Muay Thai or BJJ for Kids (12 and Under)",
+        "url": "https://www.nowmuaythai.com/class/73-MUAYTHAI-OR-BJJ-KIDS-12-YEARS-OLD-1-WEEK"
+      },
+      {
+        "className": "1-Month All Access",
+        "url": "https://www.nowmuaythai.com/class/73-ALL-ACCESS-1-MONTH"
+      },
+      {
+        "className": "1-Month Muay Thai Training For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-MUAY-THAI-TRAINING-1-MONTH"
+      },
+      {
+        "className": "1-Month Grappling BJJ For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-GRAPPLING-BJJ-1-MONTH"
+      },
+      {
+        "className": "1-Month Boxing Training For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-BOXING-1-MONTH"
+      },
+      {
+        "className": "1-Month Combat Strength & Conditioning For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-COMBAT-STRENGTH-CONDITIONING-1-MONTH"
+      },
+      {
+        "className": "1-Month Muay Thai or BJJ for Kids (12 and Under)",
+        "url": "https://www.nowmuaythai.com/class/73-MUAYTHAI-OR-BJJ-KIDS-12-YEARS-OLD-1-MONTH"
+      },
+      {
+        "className": "1-Session Muay Thai Private Class For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-1-session-muay-thai-private-class-for-all"
+      },
+      {
+        "className": "1-Session Combat Strength & Conditioning Private Class For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-1-Session-Combat-Strength-Conditioning-Private-Class-For-All-Level"
+      },
+      {
+        "className": "1-Session Boxing Private Class For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-1-Session-Boxing-Private-Class-For-All-Level"
+      },
+      {
+        "className": "1-Session MMA Private Class For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-1-Session-MMA-Private-Class-For-All-Level"
+      },
+      {
+        "className": "1-Session Grappling BJJ Private Class For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-1-Session-Grappling-BJJ-Private-Class-For-All-Level"
+      },
+      {
+        "className": "1-Session All Access",
+        "url": "https://www.nowmuaythai.com/class/73-ALL-ACCESS-1-CLASS"
+      },
+      {
+        "className": "1-Session Muay Thai Training For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-MUAY-THAI-TRAINING-1-CLASS"
+      },
+      {
+        "className": "1-Session Grappling BJJ For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-GRAPPLING-BJJ-1-CLASS"
+      },
+      {
+        "className": "1-Session Boxing Training For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-BOXING-1-CLASS"
+      },
+      {
+        "className": "1-Session Combat Strength & Conditioning For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-COMBAT-STRENGTH-CONDITIONING-1-CLASS"
+      },
+      {
+        "className": "1-Session Muay Thai or BJJ for Kids (12 and Under)",
+        "url": "https://www.nowmuaythai.com/class/73-MUAYTHAI-OR-BJJ-KIDS-12-YEARS-OLD-1-CLASS"
+      },
+      {
+        "className": "1-Session MMA-Wrestling Class For All Level",
+        "url": "https://www.nowmuaythai.com/class/73-MMA-WRESTLING-2-CLASS"
+      }
+    ]
+  },
+  "Muay Thai Chinnarach": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/muay-thai-chinnarach",
+    "classes": [
+      {
+        "className": "1 Week Muay Thai Training For All Levels (1 Session / Day)",
+        "ur": "https://www.nowmuaythai.com/class/3-Muay-Thai-Training-1-Week-1-Session--Day-"
+      },
+      {
+        "className": "1 Week Muay Thai Training For All Levels (2 Sessions / Day)",
+        "ur": "https://www.nowmuaythai.com/class/3-Muay-Thai-Training-1-Week-2-Sessions--Day-"
+      },
+      {
+        "className": "1 Month Muay Thai Training For All levels (1 Session / Day)",
+        "ur": "https://www.nowmuaythai.com/class/3-Muay-Thai-Training-1-Month-1-Session--Day-"
+      },
+      {
+        "className": "1 Month Muay Thai Training For All levels (2 Sessions / Day)",
+        "ur": "https://www.nowmuaythai.com/class/3-Muay-Thai-Training-1-Month-2-Sessions--Day-"
+      },
+      {
+        "className": "1 Month Body Pump Class For All Levels",
+        "ur": "https://www.nowmuaythai.com/class/3-Body-Pump-Classes-1-Month"
+      },
+      {
+        "className": "1-On-1 Muay Thai Training With Master Chin - 1 Session",
+        "ur": "https://www.nowmuaythai.com/class/3-1-On-1---1-Session-With-Master-Chin"
+      },
+      {
+        "className": "1-On-1 Muay Thai Training With Master Chin - 10 Sessions",
+        "ur": "https://www.nowmuaythai.com/class/3-1-On-1---10-Sessions-With-Master-Chin"
+      },
+      {
+        "className": "1-On-1 Muay Thai Training - 1 Session",
+        "ur": "https://www.nowmuaythai.com/class/3-1-On-1---1-Session"
+      },
+      {
+        "className": "1-On-1 Muay Thai Training - 10 Sessions",
+        "ur": "https://www.nowmuaythai.com/class/3-1-On-1---10-Sessions"
+      },
+      {
+        "className": "1 Session Muay Thai Training For All Levels",
+        "ur": "https://www.nowmuaythai.com/class/3-Muay-Thai-Training-1-Session"
+      },
+      {
+        "className": "Experience 1-Day Muay Thai Training at Koh Phangan",
+        "ur": "https://www.nowmuaythai.com/class/experience-1-day-muay-thai-training-koh-phangan"
+      },
+      {
+        "className": "10 Sessions Muay Thai Training For All Levels",
+        "ur": "https://www.nowmuaythai.com/class/3-Muay-Thai-Training-10-Sessions"
+      },
+      {
+        "className": "1 Session Body Pump Class For All Levels",
+        "ur": "https://www.nowmuaythai.com/class/3-Body-Pump-Class-1-Session"
+      },
+      {
+        "className": "10 Sessions Body Pump Class For All Levles",
+        "ur": "https://www.nowmuaythai.com/class/3-Body-Pump-Class-10-Sessions"
+      }
+    ]
+  },
+  "Venom Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/venom-muay-thai",
+    "classes": [
+      {
+        "className": "Muay Thai Training All Levels 1 Week (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/125-muay-thai-training-all-levels-1-week-1-session-day"
+      },
+      {
+        "className": "Muay Thai Training 1 Week For All Levels (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/125-muay-thai-training-1-week-for-all-levels-2-sessions-day"
+      },
+      {
+        "className": "Muay Thai Training All Levels 1 Month (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/125-muay-thai-training-all-levels-1-month-1-session-day"
+      },
+      {
+        "className": "Muay Thai Training All Levels 1 Month (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/125-muay-thai-training-all-levels-1-month-2-sessions-day"
+      },
+      {
+        "className": "Private Muay Thai 1 Session (60 Minutes)",
+        "url": "https://www.nowmuaythai.com/class/125-private-muay-thai-1-session-60-minutes"
+      },
+      {
+        "className": "Private Muay Thai 10 Sessions (60 Minutes)",
+        "url": "https://www.nowmuaythai.com/class/125-private-muay-thai-10-sessions-60-minutes"
+      },
+      {
+        "className": "Muay Thai Training 1 Session For All Levels",
+        "url": "https://www.nowmuaythai.com/class/125-muay-thai-training-1-session-for-all-levels"
+      },
+      {
+        "className": "Muay Thai Training 10 X Sessions For All Levels",
+        "url": "https://www.nowmuaythai.com/class/125-muay-thai-training-10-x-sessions-for-all-levels"
+      }
+    ]
+  },
+  "MBT Muaythai Gym": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/mbt-muaythai-gym",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class at MBT 1 Month (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-group-class-at-mbt-1-month-1-class-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at MBT 1 Month (2 Sessions / Day)",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-group-class-at-mbt-1-month-2-sessions-per-day"
+      },
+      {
+        "className": "Muay Thai Private Training at MBT 1 Session",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-private-training-at-mbt-1-session"
+      },
+      {
+        "className": "Muay Thai Private Training at MBT 5 Sessions",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-private-training-at-mbt-5-sessions"
+      },
+      {
+        "className": "Muay Thai Private Training at MBT 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-private-training-at-mbt-10-sessions"
+      },
+      {
+        "className": "Muay Thai Private Training at MBT 20 Sessions",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-private-training-at-mbt-20-sessions"
+      },
+      {
+        "className": "Muay Thai Private Training at MBT 30 Sessions",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-private-training-at-mbt-30-sessions"
+      },
+      {
+        "className": "Muay Thai Private Training at MBT 60 Sessions",
+        "url": "https://www.nowmuaythai.com/class/159-Muay-Thai-Private-Training-at-MBT-60-Sessions"
+      },
+      {
+        "className": "Muay Thai Private Training at MBT 100 Sessions",
+        "url": "https://www.nowmuaythai.com/class/159-Muay-Thai-Private-Training-at-MBT-100-Sessions"
+      },
+      {
+        "className": "Muay Thai Private Training at MBT 1 Month (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-private-training-at-mbt-1-month-1-session-per-day"
+      },
+      {
+        "className": "Muay Thai Private Training at MBT 2 Months (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-private-training-at-mbt-2-months-1-session-per-day"
+      },
+      {
+        "className": "Muay Thai Private Training at MBT 3 Months (1 Session / Day)",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-private-training-at-mbt-3-months-1-session-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at MBT 1 Session",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-group-class-at-mbt-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at MBT 2 Sessions",
+        "url": "https://www.nowmuaythai.com/class/159-muay-thai-group-class-at-mbt-2-sessions"
+      }
+    ]
+  },
+  "Tonkhar Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/tonkhar_muaythai",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class at Tonkhar 1 Month (1 Class per Day)",
+        "url": "https://www.nowmuaythai.com/class/147-muay-thai-group-class-at-tonkhar-1-month-1-class-per-day"
+      },
+      {
+        "className": "Muay Thai Group Class at Tonkhar 1 Month (2 Classes per Day)",
+        "url": "https://www.nowmuaythai.com/class/147-muay-thai-group-class-at-tonkhar-1-month-2-classes-per-day"
+      },
+      {
+        "className": "Muay Thai Private Class at Tonkhar Muay Thai 1 Session",
+        "url": "https://www.nowmuaythai.com/class/147-muay-thai-private-class-at-tonkhar-muay-thai-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Tonkhar Muay Thai 1 Session",
+        "url": "https://www.nowmuaythai.com/class/147-muay-thai-group-class-at-tonkhar-muay-thai-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Tonkhar Muay Thai 1 Day (2 Sessions)",
+        "url": "https://www.nowmuaythai.com/class/147-muay-thai-group-class-at-tonkhar-muay-thai-1-day-2-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Tonkhar Muay Thai 10 Sessions",
+        "url": "https://www.nowmuaythai.com/class/147-muay-thai-group-class-at-tonkhar-muay-thai-10-sessions"
+      }
+    ]
+  },
+  "Tom Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/tom-muay-thai",
+    "classes": [
+      {
+        "className": "Muay Thai Private Class at Tom Muay Thai 1 Session",
+        "url": "https://www.nowmuaythai.com/class/29-muay-thai-private-class-tom-muay-thai-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Tom Muay Thai 1 Session (Men)",
+        "url": "https://www.nowmuaythai.com/class/29-muay-thai-group-class-men-tom-muay-thai-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Tom Muay Thai 12 Sessions (Men)",
+        "url": "https://www.nowmuaythai.com/class/29-muay-thai-group-class-men-tom-muay-thai-12-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Tom Muay Thai 15 Sessions (Men)",
+        "url": "https://www.nowmuaythai.com/class/29-muay-thai-group-class-men-tom-muay-thai-15-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Tom Muay Thai 24 Sessions (Men)",
+        "url": "https://www.nowmuaythai.com/class/29-muay-thai-group-class-men-tom-muay-thai-24-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Tom Muay Thai 48 Sessions (Men)",
+        "url": "https://www.nowmuaythai.com/class/29-muay-thai-group-class-men-tom-muay-thai-48-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Tom Muay Thai 1 Session (Women)",
+        "url": "https://www.nowmuaythai.com/class/29-muay-thai-group-class-weman-tom-muay-thai-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Tom Muay Thai 12 Sessions (Women)",
+        "url": "https://www.nowmuaythai.com/class/29-muay-thai-group-class-women-tom-muay-thai-12-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class at Tom Muay Thai 1 Session (Kids)",
+        "url": "https://www.nowmuaythai.com/class/29-muay-thai-group-class-kids-tom-muay-thai-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class at Tom Muay Thai 12 Sessions (Kids)",
+        "url": "https://www.nowmuaythai.com/class/29-muay-thai-group-class-kids-tom-muay-thai-12-sessions"
+      }
+    ]
+  },
+  "Elite Fight Club Huahin": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/elite-fight-club-huahin",
+    "classes": [
+      {
+        "className": "1 Week Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/71-MUAYTHAI-ADULT-CLASS-1-WEEK"
+      },
+      {
+        "className": "2 Weeks Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/71-MUAYTHAI-ADULT-CLASS-2-WEEK"
+      },
+      {
+        "className": "1 Month Muay Thai Training For All Levels (1 Session Per Day)",
+        "url": "https://www.nowmuaythai.com/class/71-MUAYTHAI-ADULT-CLASS-1-MONTHS-1-CLASS-PER-A-DAY"
+      },
+      {
+        "className": "1 Month Muay Thai Training For All Levels",
+        "url": "https://www.nowmuaythai.com/class/71-MUAYTHAI-ADULT-CLASS-1-MONTHS"
+      },
+      {
+        "className": "1 Month Muay Thai Training For Kid",
+        "url": "https://www.nowmuaythai.com/class/71-MUAYTHAI-KIDS-CLASS-1-MONTH"
+      },
+      {
+        "className": "1 Session Muay Thai Private Class",
+        "url": "https://www.nowmuaythai.com/class/71-MUAYTHAI-PRIVATE-CLASS-1-CLASS"
+      },
+      {
+        "className": "5 Session Muay Thai Private Class",
+        "url": "https://www.nowmuaythai.com/class/71-MUAYTHAI-PRIVATE-CLASS-5-CLASSES"
+      },
+      {
+        "className": "1 Session Western Boxing Private Class",
+        "url": "https://www.nowmuaythai.com/class/71-WESTERN-BOXING-PRIVATE-CLASS-1-CLASS"
+      },
+      {
+        "className": "5 Session Western Boxing Private Class",
+        "url": "https://www.nowmuaythai.com/class/71-WESTERN-BOXING-PRIVATE-CLASS-5-CLASSES"
+      },
+      {
+        "className": "1 Session Muay Thai Group Class For All Levels",
+        "url": "https://www.nowmuaythai.com/class/71-MUAYTHAI-ADULT-CLASS-1-CLASS"
+      },
+      {
+        "className": "10-Sessions Muay Thai Group Class For All Levels At Elite Fight Club",
+        "url": "https://www.nowmuaythai.com/class/10-sessions-muay-thai-group-class-for-all-levels-at-elite-fight-club"
+      },
+      {
+        "className": "1 Session Muay Thai Group Class For Kids",
+        "url": "https://www.nowmuaythai.com/class/71-MUAYTHAI-KIDS-CLASS-1-CLASS"
+      },
+      {
+        "className": "10 Sessions Muay Thai Group Class For Kids",
+        "url": "https://www.nowmuaythai.com/class/71-MUAYTHAI-KIDS-CLASS-10-CLASS"
+      },
+      {
+        "className": "1 Night + Training Muay Thai Camp With Individual Bungalow",
+        "url": "https://www.nowmuaythai.com/class/71-1-NIGTH-TRAINING-MUAYTHAI-CAMP-WITH-INDIVIUAL-BUNGALOW-"
+      },
+      {
+        "className": "1 Week + Training Muay Thai Camp With Individual Bungalow",
+        "url": "https://www.nowmuaythai.com/class/71-1-WEEK-TRAINING-MUAYTHAI-CAMP-WITH-INDIVIUAL-BUNGALOW"
+      },
+      {
+        "className": "2 Weeks + Training Muay Thai Camp With Individual Bungalow",
+        "url": "https://www.nowmuaythai.com/class/71-2-WEEK-TRAINING-MUAYTHAI-CAMP-WITH-INDIVIUAL-BUNGALOW"
+      },
+      {
+        "className": "1 Month + Training Muay Thai Camp With Individual Bungalow",
+        "url": "https://www.nowmuaythai.com/class/71-1-MONTH-TRAINING-MUAYTHAI-CAMP-WITH-INDIVIUAL-BUNGALOW"
+      },
+      {
+        "className": "3 Months + Training Muay Thai Camp With Individual Bungalow",
+        "url": "https://www.nowmuaythai.com/class/71-3-MONTHS-TRAINING-MUAYTHAI-CAMP-WITH-INDIVIUAL-BUNGALOW"
+      }
+    ]
+  },
+  "Khao Lak Muay Thai": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/khao-lak-muay-thai",
+    "classes": [
+      {
+        "className": "Muay Thai Group Class -Weekly Pass - 12 Sessions",
+        "url": "https://www.nowmuaythai.com/class/110-muay-thai-group-class-weekly-pass-12-sessions"
+      },
+      {
+        "className": "Muay Thai STANDARD Package - 1 week - Training & Accommodation",
+        "url": "https://www.nowmuaythai.com/class/110-muay-thai-standard-package-1-week-training-accommodation"
+      },
+      {
+        "className": "Muay Thai DELUXE Package - 1 week - Training & Accommodation",
+        "url": "https://www.nowmuaythai.com/class/110-Muay-Thai-DELUXE-Package---1-week---Training-Accommodation"
+      },
+      {
+        "className": "Muay Thai LUXURY Package - 1 week - Training & Accommodation",
+        "url": "https://www.nowmuaythai.com/class/110-Muay-Thai-LUXURY-Package---1-week---Training-Accommodation"
+      },
+      {
+        "className": "Muay Thai Group Class Monthly Pass - 48 Sessions",
+        "url": "https://www.nowmuaythai.com/class/110-muay-thai-training-monthly-pass-48-sessions"
+      },
+      {
+        "className": "Muay Thai STANDARD Package - 1 Month - Training & Accommodation",
+        "url": "https://www.nowmuaythai.com/class/110-muay-thai-standard-package-1-month-training-accommodation"
+      },
+      {
+        "className": "Muay Thai Group Class 1 Session",
+        "url": "https://www.nowmuaythai.com/class/110-muay-thai-group-class-1-session"
+      },
+      {
+        "className": "Muay Thai Group Class -Weekly Pass - 12 Sessions",
+        "url": "https://www.nowmuaythai.com/class/110-muay-thai-group-class-weekly-pass-12-sessions"
+      },
+      {
+        "className": "Muay Thai Group Class Monthly Pass - 48 Sessions",
+        "url": "https://www.nowmuaythai.com/class/110-muay-thai-training-monthly-pass-48-sessions"
+      },
+      {
+        "className": "Muay Thai STANDARD Package - 1 week - Training & Accommodation",
+        "url": "https://www.nowmuaythai.com/class/110-muay-thai-standard-package-1-week-training-accommodation"
+      },
+      {
+        "className": "Muay Thai STANDARD Package - 1 Month - Training & Accommodation",
+        "url": "https://www.nowmuaythai.com/class/110-muay-thai-standard-package-1-month-training-accommodation"
+      },
+      {
+        "className": "Muay Thai DELUXE Package - 1 week - Training & Accommodation",
+        "url": "https://www.nowmuaythai.com/class/110-Muay-Thai-DELUXE-Package---1-week---Training-Accommodation"
+      },
+      {
+        "className": "Muay Thai LUXURY Package - 1 week - Training & Accommodation",
+        "url": "https://www.nowmuaythai.com/class/110-Muay-Thai-LUXURY-Package---1-week---Training-Accommodation"
+      }
+    ]
+  },
+  "Muay Thai Battle Conquer Gym": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/Muay-Thai-Battle-Conquer-Gym",
+    "classes": [
+      {
+        "className": "7 Days Fitness Muay Thai, Boxing, CrossFit, Hikes, Swimming, Get Fit! Phetchabun, Thailand.",
+        "url": "https://www.nowmuaythai.com/class/88-7-Days-Fitness-Muay-Thai-Boxing-CrossFit-Hikes-Swimming-Get-Fit-Phetchabun-Thailand-"
+      },
+      {
+        "className": "7 Days Wellness Muay Thai, Yoga, Meditation, Temple Tours, CrossFit, Swimming, Unique Location",
+        "url": "https://www.nowmuaythai.com/class/88-7-Days-Wellness-Muay-Thai-Yoga-Meditation-Temple-Tours-CrossFit-Swimming-Unique-Location"
+      },
+      {
+        "className": "30 Days All Inclusive Muay Thai, Yoga, Tours, Meditation, Countryside, Weight Loss & Detox Retreat, Phetchabun",
+        "url": "https://www.nowmuaythai.com/class/88-30-Days-All-Inclusive-Muay-Thai-Yoga-Tours-Meditation-Countryside-Weight-Loss-Detox-Retreat-Phetchabun-"
+      },
+      {
+        "className": "60 Days All Inclusive Muay Thai, Yoga, Tours, Meditation, Countryside, Weight Loss & Detox Retreat, Phetchabun",
+        "url": "https://www.nowmuaythai.com/class/88-60-Days-All-Inclusive-Muay-Thai-Yoga-Tours-Meditation-Countryside-Weight-Loss-Detox-Retreat-Phetchabun-"
+      }
+    ]
+  },
+  "MC Muaythai Gym": {
+    "gymUrl": "https://www.nowmuaythai.com/gym/mc-muaythai-gym",
+    "classes": [
+      {
+        "className": "Muay Thai Unlimited Training 1 Week at MC Muay Thai Gym",
+        "url": "https://www.nowmuaythai.com/class/169-muay-thai-unlimited-training-1-week-at-mc-muay-thai-gym"
+      },
+      {
+        "className": "Muay Thai Unlimited Training 1 Month at MC Muay Thai Gym",
+        "url": "https://www.nowmuaythai.com/class/169-muay-thai-unlimited-training-1-month-at-mc-muay-thai-gym"
+      },
+      {
+        "className": "Muay Thai Training for Fighters 1 Month with Fight Arrangement",
+        "url": "https://www.nowmuaythai.com/class/169-muay-thai-training-for-fighters-1-month-with-fight-arrangement"
+      },
+      {
+        "className": "Private Muay Thai 1 Session at MC Muay Thai Gym",
+        "url": "https://www.nowmuaythai.com/class/169-private-muay-thai-1-session-at-mc-muay-thai-gym"
+      },
+      {
+        "className": "Muay Thai Group Class 1 Session at MC Muay Thai Gym",
+        "url": "https://www.nowmuaythai.com/class/169-muay-thai-group-class-1-session-at-mc-muay-thai-gym"
+      }
+    ]
+  }
+}

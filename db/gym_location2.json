@@ -1,0 +1,410 @@
+[
+  {
+    "gymId": "1",
+    "name": "Superbon Training Camp",
+    "url": "https://www.nowmuaythai.com/gym/superbon-training-camp",
+    "location": "Khet Bueng Kum, Bangkok",
+    "lat":"13.811909307796142",
+    "long":"100.62575951119273"
+  },
+  {
+    "gymId": "2",
+    "name": "RSM Muay Thai Academy",
+    "url": "https://www.nowmuaythai.com/gym/rsm-muay-thai-academy",
+    "location": "Watthana, Bangkok",
+    "lat":"13.735840650681858",
+    "long":"100.56293611119143"
+  },
+  {
+    "gymId": "3",
+    "name": "Marrok Fitness Gym and Combat Sports",
+    "url": "https://www.nowmuaythai.com/gym/marrok-fitness-gym-and-combat-sports",
+    "location": "Khet Yan Nawa, Bangkok",
+    "lat":"13.679371025931795",
+    "long":"100.54771761119044"
+  },
+  {
+    "gymId": "4",
+    "name": "TC Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tc-muaythai",
+    "location": "Khet Khan Na Yao, Bangkok",
+    "lat":"13.819352202178907",
+    "long":"100.66316044372522"
+  },
+  {
+    "gymId": "5",
+    "name": "Migaku Fitness Club",
+    "url": "https://www.nowmuaythai.com/gym/migaku-fitness-club",
+    "location": "Khet Khlong Toei, Bangkok",
+    "lat":"13.729258087308049",
+    "long":"100.56867736886217"
+  },
+  {
+    "gymId": "6",
+    "name": "Eminent Air Boxing Gym",
+    "url": "https://www.nowmuaythai.com/gym/eminent-air-boxing-gym",
+    "location": "Khet Phra Khanong, Bangkok",
+    "lat":"13.688621668698104",
+    "long":"100.61428392468414"
+  },
+  {
+    "gymId": "7",
+    "name": "Kru Dam",
+    "url": "https://www.nowmuaythai.com/gym/kru-dam",
+    "location": "Khlong Toei, Bangkok",
+    "lat":"13.718920132836125",
+    "long":"100.57632123817817"
+  },
+  {
+    "gymId": "8",
+    "name": "FA Group Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/muay-thai-fa-group",
+    "location": "Khet Chatuchak, Bangkok",
+    "lat":"13.803187904660028",
+    "long":"100.55823109400215"
+  },
+  {
+    "gymId": "9",
+    "name": "Thaiachira",
+    "url": "https://www.nowmuaythai.com/gym/thaiachira",
+    "location": "Khet Don Mueang, Bangkok",
+    "lat":"13.912168397034172",
+    "long":"100.57142929954931"
+  },
+  {
+    "gymId": "10",
+    "name": "Elite Fight Club Bangkok",
+    "url": "https://www.nowmuaythai.com/gym/elite-fight-club-bangkok",
+    "location": "Khet Khlong Toei, Bangkok",
+    "lat":"13.726943379464",
+    "long":"100.5731281535203"
+  },
+  {
+    "gymId": "11",
+    "name": "Fight Geek",
+    "url": "https://www.nowmuaythai.com/gym/fight-geek",
+    "location": "Khet Suan Luang, Bangkok",
+    "lat":"13.730727964581305",
+    "long":"100.65088666516549"
+  },
+  {
+    "gymId": "12",
+    "name": "Rithirit Gym Academy",
+    "url": "https://www.nowmuaythai.com/gym/rithirit-gym-academy",
+    "location": "Din Daeng, Bangkok",
+    "lat":"13.798144198081634",
+    "long":"100.57368232468599"
+  },
+  {
+    "gymId": "13",
+    "name": "Trainer Gae",
+    "url": "https://www.nowmuaythai.com/gym/trainer-gae",
+    "location": "Khet Bueng Kum, Bangkok",
+    "lat":"13.727559417490703",
+    "long":"100.57305068497489"
+  },
+  {
+    "gymId": "14",
+    "name": "Jaroenthong MuayThai Gym",
+    "url": "https://www.nowmuaythai.com/gym/jaroenthong-muaythai-gym",
+    "location": "Khet Wang Thonglang, Bangkok",
+    "lat":"13.767134298850463",
+    "long":"100.60133994187586"
+  },
+  {
+    "gymId": "15",
+    "name": "Powerhouse Phuket",
+    "url": "https://www.nowmuaythai.com/gym/power-house-phuket",
+    "location": "Rawai, Phuket",
+    "lat":"7.792234806742304",
+    "long":"98.31625841111138"
+  },
+  {
+    "gymId": "16",
+    "name": "Phuket Fight Club",
+    "url": "https://www.nowmuaythai.com/gym/phuket-fight-club",
+    "location": "Mueang Phuket, Phuket",
+    "lat":"7.841587162460009",
+    "long":"98.36288105344087"
+  },
+  {
+    "gymId": "17",
+    "name": "RC rachai Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/rcrachai-muay-thai",
+    "location": "Kathu, Phuket",
+    "lat":"7.885306531800962",
+    "long":"98.30249323994771"
+  },
+  {
+    "gymId": "18",
+    "name": "Maximum Fitness Phuket",
+    "url": "https://www.nowmuaythai.com/gym/maximum-fitness-phuket",
+    "location": "Kathu, Phuket",
+    "lat":"7.885306531800962",
+    "long":"98.2920779092638"
+  },
+  {
+    "gymId": "19",
+    "name": "Tiger Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tiger-muay-thai",
+    "location": "Mueang Phuket, Phuket",
+    "lat":"7.856542625371409",
+    "long":"98.34318212360135"
+  },
+  {
+    "gymId": "20",
+    "name": "PhuketKing Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/phuketking-muay-thai",
+    "location": "Kathu, Phuket",
+    "lat":"7.913635678744555",
+    "long":"98.33747345073344"
+  },
+  {
+    "gymId": "21",
+    "name": "Sumalee Boxing Gym",
+    "url": "https://www.nowmuaythai.com/gym/sumalee-boxing-gym",
+    "location": "Thalang, Phuket",
+    "lat":"7.975446768017744",
+    "long":"98.37014093909825"
+  },
+  {
+    "gymId": "22",
+    "name": "Sutai Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/sutai_muay_thai",
+    "location": "Thalang, Phuket",
+    "lat":"7.982933613825204",
+    "long":"98.2811758121168"
+  },
+  {
+    "gymId": "23",
+    "name": "Phuket Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/phuket-muay-thai",
+    "location": "Mueang Phuket, Phuket",
+    "lat":"7.77104746215834",
+    "long":"98.31889479676953"
+  },
+  {
+    "gymId": "24",
+    "name": "Revolution Phuket Muay Thai Camp",
+    "url": "https://www.nowmuaythai.com/gym/revolution-phuket",
+    "location": "Thalang, Phuket",
+    "lat":"7.979565441132066",
+    "long":"98.28346874095335"
+  },
+  {
+    "gymId": "25",
+    "name": "Bangtao Muay Thai & MMA",
+    "url": "https://www.nowmuaythai.com/gym/bangtao",
+    "location": "Thalang, Phuket",
+    "lat":"7.98617208278624",
+    "long":"98.29123781211686"
+  },
+  {
+    "gymId": "26",
+    "name": "Chiangmai JR Muaythai",
+    "url": "https://www.nowmuaythai.com/gym/chiangmai-jr-muaythai",
+    "location": "Mueang Chiang Mai, Chiang Mai",
+    "lat":"18.80896285873221",
+    "long":"98.97535868430685"
+  },
+  {
+    "gymId": "27",
+    "name": "Nilobon Fight Club Gym",
+    "url": "https://www.nowmuaythai.com/gym/Nilobon_fight_Club_Gym",
+    "location": "Mueang Chiang Mai, Chiang Mai",
+    "lat":"18.770786446616636",
+    "long":"98.98465328060915"
+  },
+  {
+    "gymId": "28",
+    "name": "Krudam Gym Chiang Mai",
+    "url": "https://www.nowmuaythai.com/gym/krudam-gym-chiang-mai",
+    "location": "Mueang Chiang Mai, Chiang Mai",
+    "lat":"18.78382137549969",
+    "long":"98.9774000419773"
+  },
+  {
+    "gymId": "29",
+    "name": "Xmax Thai Boxing Club",
+    "url": "https://www.nowmuaythai.com/gym/xmax-thai-boxing-club",
+    "location": "Saraphi, Chiang Mai",
+    "lat":"18.741750601891503",
+    "long":"99.00285103643112"
+  },
+  {
+    "gymId": "30",
+    "name": "The Bear Fight Club Chiang Mai",
+    "url": "https://www.nowmuaythai.com/gym/the-bear-fight-club-chiang-mai",
+    "location": "Mueang Chiang Mai, Chiang Mai",
+    "lat":"18.784913414842343",
+    "long":"98.9846605401289"
+  },
+  {
+    "gymId": "31",
+    "name": "Hongthong Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/hongthong-muaythai-gym",
+    "location": "Mueang Chiang Mai, Chiang Mai",
+    "lat":"18.777399585570443",
+    "long":"99.03387169410287"
+  },
+  {
+    "gymId": "32",
+    "name": "The Camp Muay Thai Resort and Academy",
+    "url": "https://www.nowmuaythai.com/gym/the-camp",
+    "location": "Hang Dong, Chiang Mai",
+    "lat":"18.737081265508955",
+    "long":"98.93548996526644"
+  },
+  {
+    "gymId": "33",
+    "name": "Dang Muay Thai Chaing Mai",
+    "url": "https://www.nowmuaythai.com/gym/dang-muay-thai-chaing-mai",
+    "location": "Mueang Chiang Mai, Chiang Mai",
+    "lat":"18.788447311086102",
+    "long":"98.9785084266355"
+  },
+  {
+    "gymId": "34",
+    "name": "Danmuang Lamphun Chiangmai",
+    "url": "https://www.nowmuaythai.com/gym/danmuang-lamphun-chiangmai",
+    "location": "Saraphi, Chiang Mai",
+    "lat":"18.66729079673258",
+    "long":"99.04781452948053"
+  },
+  {
+    "gymId": "35",
+    "name": "Lanna Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/boon-lanna-muay-thai",
+    "location": "Saraphi, Chiang Mai",
+    "lat":"18.715029760054577",
+    "long":"98.99789599410143"
+  },
+  {
+    "gymId": "36",
+    "name": "CMA Muaythai Academy",
+    "url": "https://www.nowmuaythai.com/gym/cma-muaythai-academy",
+    "location": "Mueang Chiang Mai, Chiang Mai",
+    "lat":"18.753266167734747",
+    "long":"99.0181284671152"
+  },
+  {
+    "gymId": "37",
+    "name": "KMAX GYM MUAYTHAI",
+    "url": "https://www.nowmuaythai.com/gym/kmax-gym-muaythai",
+    "location": "Mueang Krabi, Krabi",
+    "lat":"8.077568772660745",
+    "long":"98.91031266508834"
+  },
+  {
+    "gymId": "38",
+    "name": "Adin Muay Thai School",
+    "url": "https://www.nowmuaythai.com/gym/adin-muay-thai-school",
+    "location": "Ko Lanta, Krabi",
+    "lat":"7.570711851531749",
+    "long":"99.03596649761563"
+  },
+  {
+    "gymId": "39",
+    "name": "Krabi Lion Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/krabi_lion_muay_thai",
+    "location": "Mueang Krabi, Krabi",
+    "lat":"8.031308464172353",
+    "long":"98.85547535159431"
+  },
+  {
+    "gymId": "40",
+    "name": "Khunsuek Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/khunsuek-muay-thai",
+    "location": "Mueang Krabi, Krabi",
+    "lat":"8.039516970449398",
+    "long":"98.82206739762022"
+  },
+  {
+    "gymId": "41",
+    "name": "Venum training camp",
+    "url": "https://www.nowmuaythai.com/gym/venum-training-camp",
+    "location": "Bang Lamung, Chon Buri",
+    "lat":"12.911092581667631",
+    "long":"100.88558875535517"
+  },
+  {
+    "gymId": "42",
+    "name": "Fairtex Training Center",
+    "url": "https://www.nowmuaythai.com/gym/fairtex",
+    "location": "Bang Lamung, Chon Buri",
+    "lat":"12.951303702332142",
+    "long":"100.89038182836869"
+  },
+  {
+    "gymId": "43",
+    "name": "Muay Thai Chinnarach",
+    "url": "https://www.nowmuaythai.com/gym/muay-thai-chinnarach",
+    "location": "Ko Phangan, Surat Thani",
+    "lat":"9.718925511526681",
+    "long":"99.99170969579049"
+  },
+  {
+    "gymId": "44",
+    "name": "Venom Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/venom-muay-thai",
+    "location": "Ko Pha-ngan, Surat Thani",
+    "lat":"9.70800714564382",
+    "long":"99.99666629579043"
+  },
+  {
+    "gymId": "45",
+    "name": "MBT Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/mbt-muaythai-gym",
+    "location": "Mueang Chiang Rai, Chiang Rai",
+    "lat":"19.867821318392604",
+    "long":"99.83385816529349"
+  },
+  {
+    "gymId": "46",
+    "name": "Tonkhar Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tonkhar_muaythai",
+    "location": "Thoeng, Chiang Rai",
+    "lat":"19.686835698815916",
+    "long":"100.19304647878262"
+  },
+  {
+    "gymId": "47",
+    "name": "Tom Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tom-muay-thai",
+    "location": "Koh Samui, Surat Thani",
+    "lat":"9.54085206010554",
+    "long":"100.04638045530781"
+  },
+  {
+    "gymId": "48",
+    "name": "Elite Fight Club Huahin",
+    "url": "https://www.nowmuaythai.com/gym/elite-fight-club-huahin",
+    "location": "Hua Hin, Prachuap Khiri Khan",
+    "lat":"12.581776008563534",
+    "long":"99.92795959767886"
+  },
+  {
+    "gymId": "49",
+    "name": "Khao Lak Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/khao-lak-muay-thai",
+    "location": "Takua Pa, Phangnga",
+    "lat":"8.65721888186026",
+    "long":"98.25367680702598"
+  },
+  {
+    "gymId": "50",
+    "name": "Muay Thai Battle Conquer Gym",
+    "url": "https://www.nowmuaythai.com/gym/Muay-Thai-Battle-Conquer-Gym",
+    "location": "Bueng Sam Phan, Phetchabun",
+    "lat":"15.853377058434551",
+    "long":"100.99162158054654"
+  },
+  {
+    "gymId": "51",
+    "name": "MC Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/mc-muaythai-gym",
+    "location": "Bang Bo, Samut Prakan",
+    "lat":"13.508426435306589",
+    "long":"100.82649198050365"
+  }
+]

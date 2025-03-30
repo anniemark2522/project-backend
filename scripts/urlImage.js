@@ -1,0 +1,79 @@
+import dotenv from 'dotenv';
+import cloudinary from 'cloudinary';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import fs from 'fs';
+
+// ใช้ import.meta.url แทน __dirname
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// โหลดไฟล์ .env
+dotenv.config({ path: path.resolve(__dirname, '../.env') });
+
+// ตั้งค่า Cloudinary
+cloudinary.v2.config({
+    cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+    api_key: process.env.CLOUDINARY_API_KEY,
+    api_secret: process.env.CLOUDINARY_API_SECRET
+});
+
+const imageFolder = path.resolve(__dirname, '../db/assets/images/food');
+const jsonFilePath = path.resolve(__dirname, '../db/food_category.json');
+
+
+
+
+// โหลด JSON ข้อมูลร้านอาหาร
+let foodData = [];
+try {
+    foodData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf-8'));
+} catch (error) {
+    console.error('❌ อ่านไฟล์ JSON ไม่ได้:', error);
+    process.exit(1);
+}
+
+// ฟังก์ชันอัปโหลดและอัปเดต JSON
+const uploadImagesAndUpdateJSON = async () => {
+    const allowedExtensions = ['.jpg', '.jpeg', '.png', '.webp'];
+
+    try {
+        const files = fs.readdirSync(imageFolder).filter(file =>
+            allowedExtensions.includes(path.extname(file).toLowerCase())
+        );
+
+        for (const file of files) {
+            const filePath = path.join(imageFolder, file);
+            const fileNameWithoutExt = path.parse(file).name;  // เช่น "1" จาก "1.jpg"
+
+            console.log(`📤 Uploading: ${filePath}`);
+
+            // อัปโหลดรูปไป Cloudinary
+            const result = await cloudinary.v2.uploader.upload(filePath, {
+                folder: 'food_category',
+                use_filename: true,
+                unique_filename: false,
+            });
+
+            console.log(`✅ อัปโหลดสำเร็จ: ${file} → ${result.secure_url}`);
+
+            // หาใน JSON ว่ามี foodId ตรงกับชื่อไฟล์มั้ย
+            const foodItem = foodData.find(item => item.foodId === fileNameWithoutExt);
+            if (foodItem) {
+                foodItem.image = result.secure_url;  // ใส่ลิงก์ลงใน image
+            } else {
+                console.warn(`⚠️ ไม่เจอ foodId ตรงกับไฟล์ ${file}`);
+            }
+        }
+
+        // เขียนกลับลงไฟล์ JSON
+        fs.writeFileSync(jsonFilePath, JSON.stringify(foodData, null, 2), 'utf-8');
+        console.log('✅ อัปเดตไฟล์ JSON สำเร็จ');
+
+    } catch (error) {
+        console.error('❌ อัปโหลดล้มเหลว:', error);
+    }
+};
+
+// เรียกใช้งาน
+uploadImagesAndUpdateJSON();

@@ -1,0 +1,1121 @@
+[
+  {
+    "gymId": "1",
+    "name": "Superbon Training Camp",
+    "url": "https://www.nowmuaythai.com/gym/superbon-training-camp",
+    "description": "community of fighters from around the globe, our camp is the ultimate destination for those seeking to hone their skills and achieve their fullest potential. Whether you're a seasoned pro or just starting out, our immersive program will challenge and inspire you, both in and out of the gym. So come join us in the heart of Thailand's vibrant capital and experience the thrill of the fight like never before!.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:00 - 21:00",
+      "Tuesday": "07:00 - 21:00",
+      "Wednesday": "07:00 - 21:00",
+      "Thursday": "07:00 - 21:00",
+      "Friday": "07:00 - 21:00",
+      "Saturday": "07:00 - 21:00"
+    },
+    "location": "Located at the East side of Bangkok, Bueng Kum district\n1.5 km from Central Eastville\n1.5 km from Lotus's (Supermarket)\n0.7 km from The Crystal Ekamai-Ramindra\n6 km from Lad Phrao 71 station (MRT Yellow Line)",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473765/muaythai_gyms/superbon1.png",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473766/muaythai_gyms/superbon2.webp",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473767/muaythai_gyms/superbon3.jpg"
+    ]
+  },
+  {
+    "gymId": "2",
+    "name": "RSM Muay Thai Academy",
+    "url": "https://www.nowmuaythai.com/gym/rsm-muay-thai-academy",
+    "description": "At RSM, we provide a dynamic platform for Muay Thai enthusiasts of all ages and skill levels. Our strategic location within the Muay Thai community ensures access to top-tier fighters and trainers, experts in both martial arts and fitness training. What sets us apart is our adaptability – offering officially certified programs for competitive fighters while tailoring Muay Thai training to the needs of those seeking an engaging and sociable health and fitness experience.",
+    "openHours": {
+      "Sunday": "09:00 - 21:00",
+      "Monday": "09:00 - 21:00",
+      "Tuesday": "09:00 - 21:00",
+      "Wednesday": "09:00 - 21:00",
+      "Thursday": "09:00 - 21:00",
+      "Friday": "09:00 - 21:00",
+      "Saturday": "09:00 - 21:00"
+    },
+    "location": "Jasmine City (2nd Floor) Klongtoey Nua, Wattana, 23 Sukhumvit Rd, Khlong Tan Nuea, Watthana, Bangkok 10110",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473754/muaythai_gyms/rsm-muay-thai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473756/muaythai_gyms/rsm-muay-thai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473757/muaythai_gyms/rsm-muay-thai3.jpg"
+    ]
+  },
+  {
+    "gymId": "3",
+    "name": "Marrok Fitness Gym and Combat Sports",
+    "url": "https://www.nowmuaythai.com/gym/marrok-fitness-gym-and-combat-sports",
+    "description": "When you’re looking for fitness / Muay Thai / MMA gyms in Rama 3, Marrok Gym is here to help you reach your goals. Based in central Bangkok, our gym combines modern, quality equipment, as well as experienced and knowledgeable personal trainers in Rama 3, giving you the best possible chance of success. Our aim isn’t to just offer a fitness center in Rama 3, but to provide a supportive culture and environment that can help you make progress. If you’re ready to finally make a change, our fitness / Muay Thai / MMA studio in Rama 3 is the place where you can make it happen.",
+    "openHours": {
+      "Sunday": "08:00 - 21:00",
+      "Monday": "07:00 - 22:00",
+      "Tuesday": "07:00 - 22:00",
+      "Wednesday": "07:00 - 22:00",
+      "Thursday": "07:00 - 22:00",
+      "Friday": "07:00 - 22:00",
+      "Saturday": "08:00 - 21:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473678/muaythai_gyms/marrok-fitness1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473679/muaythai_gyms/marrok-fitness2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473681/muaythai_gyms/marrok-fitness3.jpg"
+    ] 
+  },
+  {
+    "gymId": "4",
+    "name": "TC Muay Thai",
+    "url": "https://www.nowmuaythai.com/class/muay-thai-training-program-1-month-tc-muay-thai",
+    "description": "Elevate your Muay Thai skills at TC Muay Thai Gym in East Bangkok, Nawamin Soi 74 Yaek 3-7-3. Our spacious and airy facility, led by bilingual trainers including veteran boxers Phanom Thuan Sor Prantalay and Danchai Fairtex, ensures a top-notch training experience.",
+    "openHours": {
+      "Mon-Sat": {
+        "morning session (last session at 09:00)": {
+          "start": "07:00",
+          "end": "10:30",
+          "sessions": [
+            "07:00-08:30",
+            "08:00-09:30",
+            "09:00-10:30"
+          ]
+        },
+        "evening session (last session at 18:00)": {
+          "start": "16:00",
+          "end": "19:30",
+          "sessions": [
+            "16:00-17:30",
+            "17:00-18:30",
+            "18:00-19:30"
+          ]
+        }
+      }
+    },
+    "location": "Local supermarket 1.77 km,Local Hospital 1.6 km\nFashion Island & Promenade 3.1 km\nMRT pink line Ram Inthra Km.9 station 5.2 km\nOver 20 Hotels and restaurants in 1 km radius",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473774/muaythai_gyms/tc-muaythai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473775/muaythai_gyms/tc-muaythai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473777/muaythai_gyms/tc-muaythai3.jpg"
+    ] 
+  },
+  {
+    "gymId": "5",
+    "name": "Migaku Fitness Club",
+    "url": "https://www.nowmuaythai.com/gym/migaku-fitness-club",
+    "description": "Migaku Muay Thai & Fitness Gym\nMuay Thai & Fitness Gym in Bangkok.3 minutes walk from BTS Phrom Phong Station.The calorie to burn in the lesson of once 90 minutes about 1,000 Kcal (the company measurement).\nThere is an effect for the improvement of basal metabolism and the exercise function and cancellation of daily stress by continuing, and taking a lesson.\nThe lesson program details are as follows.",
+    "openHours": {
+      "Sunday": "09:00 - 22:00",
+      "Monday": "09:00 - 22:00",
+      "Tuesday": "09:00 - 22:00",
+      "Wednesday": "09:00 - 22:00",
+      "Thursday": "09:00 - 22:00",
+      "Friday": "09:00 - 22:00",
+      "Saturday": "09:00 - 22:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473703/muaythai_gyms/migaku1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473704/muaythai_gyms/migaku2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473706/muaythai_gyms/migaku3.jpg"
+    ]
+  },
+  {
+    "gymId": "6",
+    "name": "Eminent Air Boxing Gym",
+    "url": "https://www.nowmuaythai.com/gym/eminent-air-boxing-gym",
+    "description": "GYM'S STYLE\nEminent gym is known for its aggressive femur style having trained and groomed many Champions, Femur meaning technical style. Fighters from eminent gym are usually very strong with their punches. Fighters like Jomphod and Rungubon are known to knock out their opponents via punches using very technical angles and foot work , therefore its style technical and aggressive. Neungthep is also known as one of the most technical fighters in Thailand during his time. Eminent has also built legendary Melissa Ray known as one of the greatest female Muay Thai fighter of all time.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:30 - 21:00",
+      "Tuesday": "18:30 - 21:00",
+      "Wednesday": "07:30 - 21:00",
+      "Thursday": "18:30 - 21:00",
+      "Friday": "07:30 - 21:00",
+      "Saturday": "07:30 - 21:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473604/muaythai_gyms/eminent-air1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473605/muaythai_gyms/eminent-air2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473607/muaythai_gyms/eminent-air3.jpg"
+    ]
+  },
+  {
+    "gymId": "7",
+    "name": "Kru Dam",
+    "url": "https://www.nowmuaythai.com/gym/kru-dam",
+    "description": "MUAY THAI is well known around the world as a combat sport that had a number of benefits for health and self-defense. At KRUDAM GYM, we offer a range of training options ranking from beginner to advancing skills. The training programs are various depending on the customer levels, and our staffs are required to be active by paying close attention to every customers.",
+    "openHours": {
+      "Sunday": "10:00 - 21:00",
+      "Monday": "10:00 - 21:00",
+      "Tuesday": "10:00 - 21:00",
+      "Wednesday": "10:00 - 21:00",
+      "Thursday": "10:00 - 21:00",
+      "Friday": "10:00 - 21:00",
+      "Saturday": "10:00 - 21:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473656/muaythai_gyms/kru-dam1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473659/muaythai_gyms/kru-dam2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473660/muaythai_gyms/kru-dam3.jpg"
+    ]
+  },
+  {
+    "gymId": "8",
+    "name": "FA Group Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/muay-thai-fa-group",
+    "description": "FA Group Muay Thai Gym, established in Thailand, is renowned for its expertise in Muay Khao, a style that emphasizes knee techniques and clinching. Founded by experienced trainers and fighters, the gym is recognized as one of Thailand's premier Muay Khao training facilities.",
+    "openHours": {
+      "Sunday": "06:00 - 20:30",
+      "Monday": "06:00 - 20:30",
+      "Tuesday": "06:00 - 20:30",
+      "Wednesday": "06:00 - 20:30",
+      "Thursday": "06:00 - 20:30",
+      "Friday": "06:00 - 20:30",
+      "Saturday": "06:00 - 20:30"
+    },
+    "location": "1.0 km from Mo Chit BTS Station\n1.8 km form Chatuchak Weekend Market\n2.5 km from Central Ladprao",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473611/muaythai_gyms/fa-group1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473612/muaythai_gyms/fa-group2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473614/muaythai_gyms/fa-group3.jpg"
+    ]
+  },
+  {
+    "gymId": "9",
+    "name": "Thaiachira",
+    "url": "https://www.nowmuaythai.com/gym/thaiachira",
+    "description": "Hi everyone\nI'm Kru Lamp from Thaiachira Gym.\nNow we open Muaythaichaiya Full Program from Beginner to Advace.\nFor who intrest Muayboran,Muaythai Chaiya and when studying every step you will receive a certificate\nDon't wait Strat training Now!!\nWhatsapp:0909604972\nเปิดสอน มวยไทยไชยา\nเรียนรู้ตั้งแต่พื้นฐาน ถึงระดับสูง ในทุกๆขั้นท่านจะได้รับใบรับรองในการเรียน\nหลักสูตรดูเเลการฝึกทุกขั้นตอน พร้อมใบรับรอง โดยครูแหลม\nเเละยังมีโปรแกรมออกกลังกายด้วยมวยไทยให้เป็นทางเลือกสำหรับผู้ที่ต้องการการออกกำลัง\nไม่ต้องรอกดจองรอบเรียนได้เลย",
+    "openHours": {
+      "Sunday": "11:00 - 20:00",
+      "Monday": "11:00 - 20:00",
+      "Tuesday": "11:00 - 20:00",
+      "Wednesday": "11:00 - 20:00",
+      "Thursday": "11:00 - 20:00",
+      "Friday": "11:00 - 20:00",
+      "Saturday": "11:00 - 20:00"
+    },
+    "location": "0.2 km from Don Mueang Station\n0.4 km from Don Mueang Sky Train (Red Line) \n0.6 km from Don Mueang International Airport",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473778/muaythai_gyms/thaiachira1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473779/muaythai_gyms/thaiachira2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473780/muaythai_gyms/thaiachira3.jpg"
+    ]
+  },
+  {
+    "gymId": "10",
+    "name": "Elite Fight Club Bangkok",
+    "url": "https://www.nowmuaythai.com/gym/elite-fight-club-bangkok",
+    "description": "COMMUNITY\nElite Fight Club in Bangkok is not only a vibrant and motivating gym built to improve your fighting condition and technique. We are a community of warriors, that all strive towards greater achievements both mentally and physically.",
+    "trainingClasses": [],
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "06:30 - 22:30",
+      "Tuesday": "06:30 - 22:00",
+      "Wednesday": "06:30 - 22:30",
+      "Thursday": "06:30 - 22:30",
+      "Friday": "06:30 - 22:30",
+      "Saturday": "07:00 - 21:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473592/muaythai_gyms/elite-fight-club-bangkok1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473594/muaythai_gyms/elite-fight-club-bangkok2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473595/muaythai_gyms/elite-fight-club-bangkok3.jpg"
+    ]
+  },
+  {
+    "gymId": "11",
+    "name": "Fight Geek",
+    "url": "https://www.nowmuaythai.com/gym/fight-geek",
+    "description": "If you're all about Muay Thai skills for self-defense or just want to get a fantastic workout, we've got the perfect training sessions for you. Our classes cater to all ages, so don't worry, you're never too young!\nCalling all aspiring pro fighters! Our gym isn't just a regular training spot; we take it up a notch by offering accommodation for those gearing up for competition.\nOur gym facilities are definitely available! After a sweat-inducing session, you can freshen up in our squeaky-clean shower rooms, relax in our comfy restrooms, and keep your belongings safe in our secure storage lockers. And the cherry on top? Free parking for all our students! No need to stress about finding a spot; we got you covered.\nMeet our incredible instructors, who've earned their stripes through fierce national and international fights, bagging numerous awards along the way. They're not just skilled in Muay Thai but also champions at coaching and holding those Thai pads like absolute pros.\nOh, and we're not stopping there! If you're into MMA, we've got specialized trainers who'll take you on an exhilarating journey to master the art of mixed martial arts. Get ready to take your combat skills to a whole new level!\nFor all you adventurous beginners, we've got an array of competition matches that cater specifically to your level. It's all about learning, growing, and enjoying the thrill of facing off with other talented students.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "09:00 - 21:00",
+      "Tuesday": "09:00 - 21:00",
+      "Wednesday": "09:00 - 21:00",
+      "Thursday": "09:00 - 21:00",
+      "Friday": "09:00 - 21:00",
+      "Saturday": "09:00 - 21:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473621/muaythai_gyms/fight-geek1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473623/muaythai_gyms/fight-geek2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473625/muaythai_gyms/fight-geek3.jpg"
+    ]
+  },
+  {
+    "gymId": "12",
+    "name": "Rithirit Gym Academy",
+    "url": "https://www.nowmuaythai.com/gym/rithirit-gym-academy",
+    "description": "We are excited to announce that from now on “Jitti Gym Academy” will be known as “Rithirit Gym Academy”. This change reflects our evolving brand and the continuous improvement of our services.",
+    "openHours": {
+      "Sunday": "14:00 - 19:00",
+      "Monday": "09:00 - 21:00",
+      "Tuesday": "09:00 - 21:00",
+      "Wednesday": "09:00 - 21:00",
+      "Thursday": "09:00 - 21:00",
+      "Friday": "09:00 - 21:00",
+      "Saturday": "09:00 - 21:00"
+    },
+    "location": "250 m from MRT ratchadaphisek (exit2)\n5.9 km form Chatuchak Weekend Market\n4.4 km from Central Ladprao",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473735/muaythai_gyms/rcrachai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473737/muaythai_gyms/rcrachai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473738/muaythai_gyms/rcrachai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "13",
+    "name": "Trainer Gae",
+    "url": "https://www.nowmuaythai.com/gym/trainer-gae",
+    "description": "Suthat Muangmun, or Gae, is one of the most popular trainers on the MuayThai circuit. The head trainer for the Elite Boxing (Thailand). Gae currently doing Muaythai seminar around the world.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "10:00 - 19:00",
+      "Tuesday": "10:00 - 19:00",
+      "Wednesday": "10:00 - 19:00",
+      "Thursday": "10:00 - 19:00",
+      "Friday": "10:00 - 19:00",
+      "Saturday": "10:00 - 19:00"
+    },
+    "location": "Located at the East side of Bangkok, Bueng Kum district\n1.5 km from Central Eastville\n1.5 km from Lotus's (Supermarket)\n0.7 km from The Crystal Ekamai-Ramindra\n6 km from Lad Phrao 71 station (MRT Yellow Line)",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473810/muaythai_gyms/trainer-gae1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473811/muaythai_gyms/trainer-gae2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473812/muaythai_gyms/trainer-gae3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "14",
+    "name": "Jaroenthong MuayThai Gym",
+    "url": "https://www.nowmuaythai.com/gym/jaroenthong-muaythai-gym",
+    "description": "We offer a comprehensive learning path that will take you from a novice to a skilled Muay Thai practitioner. Our learning path starts with the basics and gradually progresses to advanced techniques. You’ll start with our Muay Thai Training Fundamentals course, where you’ll learn the foundational skills and body weapons of Muay Thai. After mastering the basics, you’ll move on to our intermediate courses, where you’ll learn advanced techniques and strategies for sparring and competing in the ring. And finally, for those who are truly dedicated, we offer our expert-level courses, where you’ll learn the most advanced techniques and tactics used by the world’s top Muay Thai fighters",
+    "openHours": {
+      "Sunday": "10:00 - 20:00",
+      "Monday": "10:00 - 20:00",
+      "Tuesday": "10:00 - 20:00",
+      "Wednesday": "10:00 - 20:00",
+      "Thursday": "10:00 - 20:00",
+      "Friday": "10:00 - 20:00",
+      "Saturday": "10:00 - 20:00"
+    },
+    "location": "0.5 km from Sutthisan MRT Station\n0.6 km form Huai Khwang MRT Station\n1.6 km from The Street Ratchada",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473630/muaythai_gyms/jaroenthong-1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473631/muaythai_gyms/jaroenthong-2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473633/muaythai_gyms/jaroenthong-3.jpg"
+    ]
+  },
+  {
+    "gymId": "15",
+    "name": "Powerhouse Phuket",
+    "url": "https://www.nowmuaythai.com/gym/power-house-phuket",
+    "description": "Training everyday (except Sunday)\nMorning - 8am - 9.30am\nAfternoon 4pm - 5.30pm",
+    "openHours": {
+      "Saturday": "08:00 - 18:00",
+      "Sunday": "Close",
+      "Monday": "08:00 - 18:00",
+      "Tuesday": "08:00 - 18:00",
+      "Wednesday": "08:00 - 18:00",
+      "Thursday": "08:00 - 18:00",
+      "Friday": "08:00 - 18:00"
+    },
+    "location": "Rawai beach 2.0 km\nNai Han beach 2.0 km\nKata beach 4.4 km\n7-Eleven & Lotus's Epress 0.17 km\nOver 20+ restaurants & hotels in 2 km radius",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473729/muaythai_gyms/power-house-phuket1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473732/muaythai_gyms/power-house-phuket2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473733/muaythai_gyms/power-house-phuket3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "16",
+    "name": "Phuket Fight Club",
+    "url": "https://www.nowmuaythai.com/gym/phuket-fight-club",
+    "description": "At Phuket Fight Club, we truly believe in working hard, no matter if your goal is to become a Champion in the ring, life in general – or even both!.",
+    "openHours": {
+      "Saturday": "07:30 - 19:30",
+      "Monday": "07:30 - 19:30",
+      "Tuesday": "07:30 - 19:30",
+      "Wednesday": "07:30 - 19:30",
+      "Thursday": "07:30 - 19:30",
+      "Friday": "07:30 - 19:30",
+      "Sunday": "Close"
+    },
+    "location": "8.0 km from Kata Beach\n10.7 km from Ao Makham Bay\n12.0 km from Nai Han Beach\n2.0 km from Robinson Lifestyle Chalong\n2.7 km from local convenience store\n0.1 km from local cafe",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473715/muaythai_gyms/phuket-fight-club1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473716/muaythai_gyms/phuket-fight-club2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473717/muaythai_gyms/phuket-fight-club3.jpg"
+
+    ]
+
+  },
+  {
+    "gymId": "17",
+    "name": "RC rachai Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/rcrachai-muay-thai",
+    "description": "Get moving with a Muay Thai practice session. This is one of the most effective striking arts in the world. Muay Thai or Thai boxing is a martial art that has been practised around the world. There are various clinching techniques and many call it The Art of Eight Limbs, which commonly combines elbows, fists, knees and shins. Have fun during this Muay Thai session and don't worry if this is your first attempt. Learn a variety of techniques suitable for every newbie or experienced alike and the instructors will help you get an idea of how to get started in the sport and improve your skills.",
+    "openHours": {
+      "Sunday": "08:00 - 20:00",
+      "Monday": "08:00 - 20:00",
+      "Tuesday": "08:00 - 20:00",
+      "Wednesday": "08:00 - 20:00",
+      "Thursday": "08:00 - 20:00",
+      "Friday": "08:00 - 20:00",
+      "Saturday": "08:00 - 20:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473749/muaythai_gyms/rithirit-gym1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473751/muaythai_gyms/rithirit-gym2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473752/muaythai_gyms/rithirit-gym3.jpg"   
+      
+    ]
+  },
+  {
+    "gymId": "18",
+    "name": "Maximum Fitness Phuket",
+    "url": "https://www.nowmuaythai.com/gym/maximum-fitness-phuket",
+    "description": "Since opening in 2011, Maximum Muay Thai & Fitness Training Center in Phuket offers a truly unique fitness training program in Thailand. Providing a world-class gym facility with a large training area of 2000sq/m. Located right on Patong Beach on the tropical island of Phuket. We offer a world-class gym equipment and qualified trainers in MMA, Muay Thai and personal fitness training. Our gym is fully equipped with the highest quality strength and conditioning machines and Olympic lifting area. Whether your looking for a beginners holiday training experience in Phuket or your looking to professionally fight ready we have you covered.",
+    "openHours": {
+      "Sunday": "07:00 - 23:00",
+      "Monday": "07:00 - 23:00",
+      "Tuesday": "07:00 - 23:00",
+      "Wednesday": "07:00 - 23:00",
+      "Thursday": "07:00 - 23:00",
+      "Friday": "07:00 - 23:00",
+      "Saturday": "07:00 - 23:00"
+    },
+    "location": "0.2 km from Patong beach\n1.9 km from Banzaan fresh market\n40.0 Km from Phuket airport\n15.0 km from Phuket ciry",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473683/muaythai_gyms/maximum-fitness-phuket1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473684/muaythai_gyms/maximum-fitness-phuket2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473686/muaythai_gyms/maximum-fitness-phuket3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "19",
+    "name": "Tiger Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tiger-muay-thai",
+    "description": "A Fitness Training Camp for incredible Weight-Loss and Cardio",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "06:00 - 20:00",
+      "Tuesday": "06:00 - 20:00",
+      "Wednesday": "06:00 - 20:00",
+      "Thursday": "06:00 - 20:00",
+      "Friday": "06:00 - 20:00",
+      "Saturday": "07:00 - 18:00"
+    },
+    "location": "Tiger Muay Thai & MMA Location : \nLocated in the Chalong area, Phuket, Thailand\nPhuket Downtown (8 km from camp)\nRawai Beach (11 km from camp)\nKata Beach (10 km from camp)\nKaron Beach (12 km from camp)\nPatong Beach (15 km from camp)\nPhuket International Airport (37 km from camp)",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473787/muaythai_gyms/tiger-muay-thai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473789/muaythai_gyms/tiger-muay-thai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473790/muaythai_gyms/tiger-muay-thai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "20",
+    "name": "PhuketKing Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/phuketking-muay-thai",
+    "description": "Phuket Kings Muay Thai opened in December 2560 (2017) and has had a few well know trainers such as Khru Pot. Phuket King has since established a team of excellent trainers to work in the small, friendly, and professional gym. The gym has since evolved and developed into a famous gym known for its core values of teaching, and coaching with the emphasis being on the customer and their needs. It is located in the central area of Kathu District, Phuket Province. The local area is suitable for immersing in the local culture and offers convenient access to explore the stunning beaches and exciting tourist attractions of Phuket.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "08:00 - 20:30",
+      "Tuesday": "08:00 - 20:30",
+      "Wednesday": "08:00 - 20:30",
+      "Thursday": "08:00 - 20:30",
+      "Friday": "08:00 - 20:30",
+      "Saturday": "08:00 - 20:30"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473725/muaythai_gyms/phuketking1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473727/muaythai_gyms/phuketking2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473728/muaythai_gyms/phuketking3.jpg"
+    ]
+
+
+  },
+  {
+    "gymId": "21",
+    "name": "Sumalee Boxing Gym",
+    "url": "https://www.nowmuaythai.com/gym/sumalee-boxing-gym",
+    "description": "with western standards of service, accommodation, facilities, and food.\nWe offer a traditional Muay Thai training program, from beginner to advanced levels, that focus on developing skills such as punching, kicking, knee strikes, and elbow strikes. The training is conducted by experienced and qualified trainers, many of whom have competed at a professional level.\nIn addition to Muay Thai training, Sumalee Boxing Gym also offers other health and fitness programs, such as yoga, massage, and an ice bath recovery room. The gym has its own restaurant, The Nutrition Station, that serves healthy meals to support the training needs of its clients.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:30 - 18:00",
+      "Tuesday": "07:30 - 18:00",
+      "Wednesday": "07:30 - 18:00",
+      "Thursday": "07:30 - 18:00",
+      "Friday": "07:30 - 18:00",
+      "Saturday": "07:30 - 18:00"
+    },
+    "location": "A long, sandy beach with various dining options and water sports activities, about 15 kilometers from the gym.Famous for its nightlife, shopping, and vibrant atmosphere, approximately 20 kilometers away.",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473759/muaythai_gyms/sumalee-boxing1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473760/muaythai_gyms/sumalee-boxing2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473761/muaythai_gyms/sumalee-boxing3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "22",
+    "name": "Sutai Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/sutai_muay_thai",
+    "description": "Рeople ExercisingThis can also be applied in all aspects of life. Whether it’s achieving your weight loss goals, becoming fitter and stronger or even just having the courage to step out and try something new. We can offer a platform for enthusiasts of all ages and abilities to explore Muay ThaiIn Thai the word ‘Sutai’ means ‘to die before giving up the battle’; this is the core foundation of Sutai Muay Thai. We believe that to become a truly great fighter you not only need strength and technique but you need to have the heart to go all the way.We Live To Help Train You",
+    "openHours": {
+      "Sunday": "08:00 - 20:00",
+      "Monday": "06:00 - 21:00",
+      "Tuesday": "06:00 - 21:00",
+      "Wednesday": "06:00 - 21:00",
+      "Thursday": "06:00 - 21:00",
+      "Friday": "06:00 - 21:00",
+      "Saturday": "06:00 - 21:00"
+    },
+    "location": "Sutai Muay Thai Sports Club is located on the west coast of Phuket, just 900 meters from Bangtao Beach and 700 meters from Surin Beach, one of the most beautiful beaches on the island.",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473769/muaythai_gyms/sutai_muay_thai1.webp",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473770/muaythai_gyms/sutai_muay_thai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473772/muaythai_gyms/sutai_muay_thai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "23",
+    "name": "Phuket Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/phuket-muay-thai",
+    "description": "We specialize in beginners! Just because our training is world class doesn’t mean you have to be. Remember every champion started out as a beginner. We teach step by step and pride ourselves in teaching solid foundational techniques. Drilling the fundamentals is how every athlete excels in their sport! If you are a beginner we will take the time to show you every detail along the way to becoming intermediate.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 19:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473720/muaythai_gyms/phuket-muay-thai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473722/muaythai_gyms/phuket-muay-thai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473723/muaythai_gyms/phuket-muay-thai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "24",
+    "name": "Revolution Phuket Muay Thai Camp",
+    "url": "https://www.nowmuaythai.com/gym/revolution-phuket",
+    "description": "REVOLUTION GYM IS A MUAY THAI GYM WITH HIGH LEVEL TRAINERS TEACHING THE SKILLS OF THAILAND NATIONAL SPORT.",
+    "openHours": {
+      "Saturday": "08:00 - 18:00",
+      "Monday": "08:00 - 18:00",
+      "Tuesday": "08:00 - 18:00",
+      "Wednesday": "08:00 - 18:00",
+      "Thursday": "08:00 - 18:00",
+      "Friday": "08:00 - 18:00",
+      "Sunday": "Close"
+    },
+    "location": "150 m from Surin Beach\n1.6 km from Bang Tao Beach\n2000 m from Bang Tao Night Market\n500-600 m from Convenience stores\n4.6 km from Porto de Phuket & Villa Market\n3.2 km from International Clinic ",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473744/muaythai_gyms/revolution-phuket1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473746/muaythai_gyms/revolution-phuket2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473747/muaythai_gyms/revolution-phuket3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "25",
+    "name": "Bangtao Muay Thai & MMA",
+    "url": "https://www.nowmuaythai.com/gym/bangtao",
+    "description": "Bangtao Muay Thai and MMA is the premier Mixed Martial Arts, Muay Thai, and Fitness facility in Asia. We offer the highest quality training over a wide range of disciplines including: Muay Thai, MMA, Brazilian Jiu-Jitsu (BJJ), nogi submission grappling, wrestling, strength & conditioning and fitness",
+    "openHours": {
+      "Sunday": "Close",
+      "Saturday": "08:00 - 17:00",
+      "Monday": "06:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "06:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "06:30 - 19:00"
+    },
+    "location": "Bangtao Muay Thai & MMA is located on the West Coast of Phuket\n400 m from the Bang Tao beach\n500 m from 7-Eleven\n1,500 m from Porto de Phuket",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473540/muaythai_gyms/bangtao1.png",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473544/muaythai_gyms/bangtao2.png",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473546/muaythai_gyms/bangtao3.png"
+    ]
+
+  },
+  {
+    "gymId": "26",
+    "name": "Chiangmai JR Muaythai",
+    "url": "https://www.nowmuaythai.com/gym/chiangmai-jr-muaythai",
+    "description": "Chiang Mai JR Muay Thai Gym is located in the center of Chiang Mai, just one kilometer away from the Maya Shopping Mall and Nimmanhaemin Road. Its prime location offers both convenience and accessibility, making it a perfect spot for locals and visitors alike.\nThe gym boasts a spacious training area of over 200 square meters, providing a clean and well-ventilated semi-outdoor space. With a 6-meter square boxing ring, 12 punching bags, and training tires, the gym is fully equipped to cater to the needs of Muay Thai enthusiasts at all levels.\nUnder the guidance of Kru JR, the gym boasts an exceptional team of experienced and skilled trainers who are dedicated to providing comprehensive and personalized coaching. Whether you are a beginner looking to stay fit or an experienced fighter seeking to enhance your skills, the trainers will tailor the training sessions according to your abilities and goals.\nThe atmosphere at Chiang Mai JR Muay Thai Gym is friendly and vibrant, fostering a sense of camaraderie among trainees from diverse backgrounds. Here, you will have the opportunity to train alongside fellow Muay Thai enthusiasts from all around the world, creating a dynamic and motivating training environment.\nThe gym also offers Two single-person dormitories, providing a convenient accommodation solution for students.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:30 - 19:30",
+      "Tuesday": "07:30 - 19:30",
+      "Wednesday": "07:30 - 19:30",
+      "Thursday": "07:30 - 19:30",
+      "Friday": "07:30 - 19:30",
+      "Saturday": "07:30 - 19:30"
+    },
+    "location": "6.7 km from Chiang Mai international airport\n5.9 km from Central Chiang Mai\n5.2 Km from Tha Phae Gate\n8.5 km from Chiang Mai Railway Station",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473561/muaythai_gyms/chiangmai-jr-1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473566/muaythai_gyms/chiangmai-jr-2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473568/muaythai_gyms/chiangmai-jr-3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "27",
+    "name": "Nilobon Fight Club Gym",
+    "url": "https://www.nowmuaythai.com/gym/Nilobon_fight_Club_Gym",
+    "description": "NILOBON FIGHT CLUB GYM.\nendorsed by the Sports Authority of Thailand (SAT). Moreover, Nilobon Fight Club GYM has several experienced and skilled trainers. Our trainers have been fighters with over 200 fights on famous Muay Thai stages. Some trainers have also taught Muay Thai abroad in countries like China, Hong Kong, Germany, and Italy. Students at Nilobon Fight Club GYM get to train with quality trainers who will guide them towards true Muay Thai art along with robust physical health.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 19:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473533/muaythai_gyms/Nilobon_fight_Club_Gym1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473534/muaythai_gyms/Nilobon_fight_Club_Gym2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473535/muaythai_gyms/Nilobon_fight_Club_Gym3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "28",
+    "name": "Krudam Gym Chiang Mai",
+    "url": "https://www.nowmuaythai.com/gym/krudam-gym-chiang-mai",
+    "description": "At KrudamGym Chiang Mai, we embody the unique identity of the Thai people—resilient, steady, strong, and beautifully connected to nature. Our gym is not just a place to train; it's a place where you can discover something truly unique and new in Chiang Mai, reflecting the grace and power that characterize the Thai spirit.",
+    "openHours": {
+      "Sunday": "08:30 - 19:30",
+      "Monday": "08:30 - 21:00",
+      "Tuesday": "08:30 - 21:00",
+      "Wednesday": "08:30 - 21:00",
+      "Thursday": "08:30 - 21:00",
+      "Friday": "08:30 - 21:00",
+      "Saturday": "08:30 - 19:30"
+    },
+    "location": "A stunning temple known for its beautiful architecture and historical significance, located about 3 km from the gym.A trendy district known for its cafes, boutiques, and art galleries, around 4 km from the gym.A beautiful national park featuring the famous Wat Phra That Doi Suthep temple, located about 15 km from the gym.",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473668/muaythai_gyms/krudam-gym-chiang-mai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473670/muaythai_gyms/krudam-gym-chiang-mai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473671/muaythai_gyms/krudam-gym-chiang-mai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "29",
+    "name": "Xmax Thai Boxing Club",
+    "url": "https://www.nowmuaythai.com/gym/xmax-thai-boxing-club",
+    "description": "Our spacious and dedicated facilities offer a special open-air experience, allowing you to fully embrace the surrounding nature during your training sessions.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "08:30 - 19:00",
+      "Tuesday": "08:30 - 19:00",
+      "Wednesday": "08:30 - 19:00",
+      "Thursday": "08:30 - 19:00",
+      "Friday": "08:30 - 19:00",
+      "Saturday": "08:30 - 19:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473836/muaythai_gyms/xmax-thai-boxing-club1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473838/muaythai_gyms/xmax-thai-boxing-club2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473840/muaythai_gyms/xmax-thai-boxing-club3.jpg"
+
+    ]
+  },
+  {
+    "gymId": "30",
+    "name": "The Bear Fight Club Chiang Mai",
+    "url": "https://www.nowmuaythai.com/gym/the-bear-fight-club-chiang-mai",
+    "description": "We are The Bear Fight Club, a Muay Thai training gym in Chiang Mai Thailand. We believe that Muay Thai is a gateway to improving your life in so many ways. Some arrive at our gym in search of developing confidence, physical fitness and street smarts. Others are looking to start or boost their professional fighting career. There are even those that are drawn to this martial art due to their love of the Thai culture and tradition that it embodies. Whatever your motivation, you will discover an inspiring world of self-transformation and a real family.",
+    "openHours": {
+      "Sunday": "08:30 - 18:00",
+      "Monday": "Close",
+      "Tuesday": "08:30 - 18:00",
+      "Wednesday": "08:30 - 18:00",
+      "Thursday": "08:30 - 18:00",
+      "Friday": "08:30 - 18:00",
+      "Saturday": "08:30 - 18:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473550/muaythai_gyms/bear-fight-club-chiang-mai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473553/muaythai_gyms/bear-fight-club-chiang-mai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473554/muaythai_gyms/bear-fight-club-chiang-mai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "31",
+    "name": "Hongthong Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/hongthong-muaythai-gym",
+    "description": "Training at Hongthong Muay Thai Gym is suitable for everyone, whether you are a newbie or an experienced fighter. 1-on-1 training with the coach could be arranged and adjusted accordingly to the trainee’s level of experience.\nWe teach the beginners the basic and fundamental Muay Thai techniques, allowing the student to thoroughly understand the movements before going further. With the more experienced fighters, we focus on improving their technique and get the fight ready if they wish",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "08:00 - 18:00",
+      "Tuesday": "08:00 - 18:00",
+      "Wednesday": "08:00 - 18:00",
+      "Thursday": "08:00 - 18:00",
+      "Friday": "08:00 - 18:00",
+      "Saturday": "08:00 - 18:00"
+    },
+    "location": "Local hospital 4.0 km\nLocal supermarket 2.3 km\nChiang Mai train station 2.9 km\nCentral Chiang Mai 6.7 km\nCentral Chiang Mai Airport & Airport 8.9 km\n",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473626/muaythai_gyms/hongthong-muaythai-gym1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473627/muaythai_gyms/hongthong-muaythai-gym2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473629/muaythai_gyms/hongthong-muaythai-gym3.jpg"
+    ]
+  },
+  {
+    "gymId": "32",
+    "name": "The Camp Muay Thai Resort and Academy",
+    "url": "https://www.nowmuaythai.com/gym/the-camp",
+    "description": "Experience the ultimate Muay Thai training program at The Camp – designed for students of all levels who want to take their skills to the next level and achieve their personal goals. Whether you're a beginner or a seasoned pro, we'll help you develop a smart, scientific, and effective training plan that works for you.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 19:00"
+    },
+    "location": "8.3 km from Chiang Mai international airport\n8.0 km from Central Chiang Mai\n11.0 Km from Tha Phae Gate \n16.1 km from Chiang Mai Railway Station",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473571/muaythai_gyms/cma-muaythai-academy1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473573/muaythai_gyms/cma-muaythai-academy2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473574/muaythai_gyms/cma-muaythai-academy3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "33",
+    "name": "Dang Muay Thai Chaing Mai",
+    "url": "https://www.nowmuaythai.com/gym/dang-muay-thai-chaing-mai",
+    "description": "Dang Muay Thai is the best place to learn Muay Thai in Chiang Mai, we have over 1,500 five star reviews on Google and are the highest rated Muay thai Gym in Thailand",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:00 - 20:00",
+      "Tuesday": "07:00 - 20:00",
+      "Wednesday": "07:00 - 20:00",
+      "Thursday": "07:00 - 20:00",
+      "Friday": "07:00 - 20:00",
+      "Saturday": "07:00 - 20:00"
+    },
+    "location": "Located in the vibrant heart of Chiang Mai’s old town, our 9000-square-foot Muay Thai training facility offers exceptional accessibility, just across from Suan Dok gate and a mere 4 kilometers from Chiang Mai International Airport. With on-site parking, modern restrooms, and shower amenities, we ensure your convenience. Our expert trainers provide top-notch instruction for all skill levels.",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473576/muaythai_gyms/dang-muay-thai-chaing-mai1.webp",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473577/muaythai_gyms/dang-muay-thai-chaing-mai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473579/muaythai_gyms/dang-muay-thai-chaing-mai3.jpg" 
+    ]
+
+  },
+  {
+    "gymId": "34",
+    "name": "Danmuang Lamphun Chiangmai",
+    "url": "https://www.nowmuaythai.com/gym/danmuang-lamphun-chiangmai",
+    "description": "The Muay Thai camp \"Danmuang Lamphun-Chiang Mai\" is located along the railway road in Saraphi district, Chiang Mai province. The camp is set in a beautiful, natural environment, surrounded by longan orchards and rice fields, providing a serene and rustic atmosphere. The camp also has 50 buffaloes and one horse. The natural setting, with fresh air and a rural feel, is just a 15-minute drive from Chiang Mai Railway Station, making it easily accessible.",
+    "openHours": {
+      "Sunday": "08:00 - 19:00",
+      "Monday": "08:00 - 19:00",
+      "Tuesday": "08:00 - 19:00",
+      "Wednesday": "08:00 - 19:00",
+      "Thursday": "08:00 - 19:00",
+      "Friday": "08:00 - 19:00",
+      "Saturday": "08:00 - 19:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473588/muaythai_gyms/danmuang-lamphun-chiangmai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473589/muaythai_gyms/danmuang-lamphun-chiangmai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473590/muaythai_gyms/danmuang-lamphun-chiangmai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "35",
+    "name": "Lanna Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/boon-lanna-muay-thai",
+    "description": "Boon Lanna Muay Thai is a leading Muay Thai camp with locations in both Thailand and China. With two locations in Chiang Mai, Thailand and two locations in Guangzhou, China, we are committed to spreading the love and passion for Muay Thai across the globe.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:00 - 19:00",
+      "Tuesday": "07:00 - 19:00",
+      "Wednesday": "07:00 - 19:00",
+      "Thursday": "07:00 - 19:00",
+      "Friday": "07:00 - 19:00",
+      "Saturday": "07:00 - 19:00"
+    },
+    "location": "13.3 km from Chiang Mai international airport\n11.4 km from Central Chiang Mai\n16.7 Km from Tha Phae Gate\n10.6 km from Chiang Mai Railway Station",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473556/muaythai_gyms/boon-lanna-1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473557/muaythai_gyms/boon-lanna-2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473558/muaythai_gyms/boon-lanna-3.jpg"
+    ]
+  },
+  {
+    "gymId": "36",
+    "name": "CMA Muaythai Academy",
+    "url": "https://www.nowmuaythai.com/gym/cma-muaythai-academy",
+    "description": "CMA Muay Thai Academy is a premier martial arts school specializing in Mae Mai Muay Thai, offering top-tier training for both children and adults, including locals and foreigners. The academy is dedicated to preserving Muay Thai's rich heritage while integrating modern techniques in a friendly and supportive environment.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "08:00 - 19:30",
+      "Tuesday": "08:00 - 19:30",
+      "Wednesday": "08:00 - 19:30",
+      "Thursday": "08:00 - 19:30",
+      "Friday": "08:00 - 19:30",
+      "Saturday": "09:00 - 19:30"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473782/muaythai_gyms/the-camp1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473784/muaythai_gyms/the-camp2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473785/muaythai_gyms/the-camp3.jpg"
+
+    ]
+  },
+  {
+    "gymId": "37",
+    "name": "KMAX GYM MUAYTHAI",
+    "url": "https://www.nowmuaythai.com/gym/kmax-gym-muaythai",
+    "description": "KMAX Muaythai Gym is the place where you can train in MuayThai, Muaychaiya, Krabikrabong, and fitness in Krabi province with top-notch quality and reasonable prices! We are committed to providing an exciting training atmosphere and a unique community for everyone interested in martial arts and fitness.",
+    "openHours": {
+      "Sunday": "08:30 - 21:00",
+      "Monday": "08:30 - 21:00",
+      "Tuesday": "08:30 - 21:00",
+      "Wednesday": "08:30 - 21:00",
+      "Thursday": "08:30 - 21:00",
+      "Friday": "Close",
+      "Saturday": "08:30 - 21:00"
+    },
+    "location": "0.95 km from Krabi Hospital\n0.26 km from Local convenience store\n12.2 km from Krabi Airport\n3.6 km from Krabi Bus terminal\n1.37 km from Krabi town night market",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473644/muaythai_gyms/kmax-gym-muaythai1.png",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473646/muaythai_gyms/kmax-gym-muaythai2.jpg"
+    ]
+  },
+  {
+    "gymId": "38",
+    "name": "Adin Muay Thai School",
+    "url": "https://www.nowmuaythai.com/gym/adin-muay-thai-school",
+    "description": "The original name is Lanta Muay Thai Combat School .\nAdin Muay Thai School, located on the beautiful island of Lanta, offers a diverse range of services in both Muay Thai training and various amenities. The gym provides comprehensive Muay Thai classes, personalized training upon request, and fitness-focused classes. Additionally, they retail all types of Muay Thai equipment needed for personal training.",
+    "openHours": {
+      "Sunday": "08:00 - 18:00",
+      "Monday": "08:00 - 18:00",
+      "Tuesday": "08:00 - 18:00",
+      "Wednesday": "08:00 - 18:00",
+      "Thursday": "08:00 - 18:00",
+      "Friday": "08:00 - 18:00",
+      "Saturday": "08:00 - 18:00"
+    },
+    "location": "Klong Khong Beach 0.2 km\nLocal clinic 0.6 km\n7-Eleven 0.12 km\nOver 10+ restaurants & hotels in 2 km radius",
+    "image":[
+        "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473536/muaythai_gyms/adin-muay-thai-school1.jpg",
+        "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473538/muaythai_gyms/adin-muay-thai-school2.jpg",
+        "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473539/muaythai_gyms/adin-muay-thai-school3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "39",
+    "name": "Krabi Lion Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/krabi_lion_muay_thai",
+    "description": "Join a thrilling one-session Muay Thai adventure at Krabi Lion Muay Thai Gym, the first step towards mastering the art of the nine limbs. With a focus on personalized training, our experienced coaches are dedicated to elevating your Muay Thai skills in just one session.",
+    "openHours": {
+      "Sunday": "08:00 - 21:00",
+      "Monday": "08:00 - 21:00",
+      "Tuesday": "08:00 - 21:00",
+      "Wednesday": "08:00 - 21:00",
+      "Thursday": "08:00 - 21:00",
+      "Friday": "08:00 - 21:00",
+      "Saturday": "08:00 - 21:00"
+    },
+    "location": "15 km from Krabi town\n6 km from Ao Nang beach\n25 km from Krabi Airport\n12 km from Noppharat Thara Beach",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473651/muaythai_gyms/krabi_lion_muay_thai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473653/muaythai_gyms/krabi_lion_muay_thai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473655/muaythai_gyms/krabi_lion_muay_thai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "40",
+    "name": "Khunsuek Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/khunsuek-muay-thai",
+    "description": "Welcome to Khunsuek Muay Thai Gym, where tradition converges with excellence in the stunning backdrop of Ao Nang Beach, Krabi, Thailand. Located just minutes away from the beach, our gym offers an unparalleled experience in the world of Muay Thai.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:30 - 20:30",
+      "Tuesday": "07:30 - 20:30",
+      "Wednesday": "07:30 - 20:30",
+      "Thursday": "07:30 - 20:30",
+      "Friday": "07:30 - 20:30",
+      "Saturday": "07:30 - 20:30"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473641/muaythai_gyms/khunsuek-muay-thai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473642/muaythai_gyms/khunsuek-muay-thai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473643/muaythai_gyms/khunsuek-muay-thai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "41",
+    "name": "Venum training camp",
+    "url": "https://www.nowmuaythai.com/gym/venum-training-camp",
+    "description": "The Venum Training Camp in Pattaya, Thailand, offers a unique and unparalleled experience. Located in one of the country's most beautiful spots, it combines fighting and cross-training into an extraordinary program. With sunny days 11 months a year (avoid rainy September) and just a 5-minute walk from the beach, it's the perfect place for both training and vacation.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:00 - 22:00",
+      "Tuesday": "07:00 - 22:00",
+      "Wednesday": "07:00 - 22:00",
+      "Thursday": "07:00 - 22:00",
+      "Friday": "07:00 - 22:00",
+      "Saturday": "07:00 - 19:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473829/muaythai_gyms/venum-training-camp1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473831/muaythai_gyms/venum-training-camp2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473833/muaythai_gyms/venum-training-camp3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "42",
+    "name": "Fairtex Training Center",
+    "url": "https://www.nowmuaythai.com/gym/fairtex",
+    "description": "Opened in 1971 Fairtex has produced champions for over forty years. The Fairtex Training Center in Pattaya is the heart of the Muay Thai, MMA, and Jiu Jitsu program for Fairtex worldwide. It has produced renown fighters such as Yodsanklai Fairtex, Naruepol Fairtex, Neungsiam Fairtex, Jongsanan Fairtex, Bunkerd Fairtex and many, many more. We welcome beginners to advanced fighters and students.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 19:00"
+    },
+    "location": "0.4 km from 21 Terminal Mall \n0.7 km from Pattaya Beach\n2.3 km form Central Pattaya",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473615/muaythai_gyms/fairtex1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473616/muaythai_gyms/fairtex2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473617/muaythai_gyms/fairtex3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "43",
+    "name": "Muay Thai Chinnarach",
+    "url": "https://www.nowmuaythai.com/gym/muay-thai-chinnarach",
+    "description": "What Lies Within These Walls Will Change Your Life Forever, Give  You Strength of Mind and Body.  It Is a Place to Achieve Your Potential, Where Hopes and Dreams Are Made.  This is Also Where the Greatness Begins.",
+    "openHours": {
+      "Tuesday": "07:00 - 20:00",
+      "Wednesday": "07:00 - 20:00",
+      "Thursday": "07:00 - 20:00",
+      "Friday": "07:00 - 20:00",
+      "Saturday": "07:00 - 20:00",
+      "Monday": "07:00 - 20:00",
+      "Sunday": "11:00 - 12:00"
+    },
+    "location": "- Pantip market & Pier 0.9 km\n- Ko Pha-Ngan district office & Immigration office 0.4 km\n- Local clinics 0.9 km\n- Supermarket 2.1 km",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473709/muaythai_gyms/muay-thai-chinnarach1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473711/muaythai_gyms/muay-thai-chinnarach2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473712/muaythai_gyms/muay-thai-chinnarach3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "44",
+    "name": "Venom Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/venom-muay-thai",
+    "description": "Step into the world of passion and dedication at Venom Muay Thai Gym, located in the tropical paradise of Koh Phangan. Our gym offers an authentic Muay Thai experience, welcoming both seasoned fighters and beginners.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "08:00 - 18:00",
+      "Tuesday": "08:00 - 18:00",
+      "Wednesday": "08:00 - 18:00",
+      "Thursday": "08:00 - 18:00",
+      "Friday": "08:00 - 18:00",
+      "Saturday": "08:00 - 18:00"
+    },
+    "location": "A popular beach with a lively atmosphere, restaurants, and nightlife, located about 3 kilometers from the gym.A beach known for its relaxing ambiance and beautiful views, approximately 7 kilometers away.A temple featuring a large Buddha statue and stunning views, around 8 kilometers from the gym.A beautiful waterfall and hiking destination, about 20 kilometers away.A place with various animals and family-friendly activities, approximately 15 kilometers from the gym.",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473822/muaythai_gyms/venom-muay-thai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473824/muaythai_gyms/venom-muay-thai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473825/muaythai_gyms/venom-muay-thai3.jpg"
+    ]
+  },
+  {
+    "gymId": "45",
+    "name": "MBT Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/mbt-muaythai-gym",
+    "description": "MBT Muaythai Gym, nestled in the beautiful province of Chiang Rai, has been a leading center for martial arts training since its founding in 2019. With over 5 years of dedicated service, MBT Muaythai Gym has become a well-respected institution in the community, offering top-notch training programs designed to cater to all levels.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "09:00 - 21:00",
+      "Tuesday": "09:00 - 21:00",
+      "Wednesday": "09:00 - 21:00",
+      "Thursday": "09:00 - 21:00",
+      "Friday": "09:00 - 21:00",
+      "Saturday": "09:00 - 21:00"
+    },
+    "location": "Roughly 10 kilometers from the gym. The airport is easily accessible by taxi and serves both domestic and international flightsApproximately 7 kilometers from MBT Muay Thai Gym. This popular night market offers a variety of food, souvenirs, and local products .",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473687/muaythai_gyms/mbt-muaythai-gym1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473689/muaythai_gyms/mbt-muaythai-gym2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473691/muaythai_gyms/mbt-muaythai-gym3.jpg"
+    ]
+
+
+  },
+  {
+    "gymId": "46",
+    "name": "Tonkhar Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tonkhar_muaythai",
+    "description": "Founded in May 2023, Tonkhar Muay Thai Gym is led by owner and head trainer Kanakorn Naput, also known as Ton Khar Sit Kru Doi. A distinguished champion, he holds titles including the Chiang Mai 122-pound champion and the champion of Northern Thailand. With over 120 professional Muay Thai fights under his belt, Kru Ton Khar brings a wealth of experience to the gym. He has approximately 10 years of teaching experience, having trained students in China as well as various locations across Thailand, including Phuket and Chiang Mai. Specializing in elbows, fast kicks, and techniques to outsmart opponents, Kru Ton Khar is also an experienced referee, excelling at explaining and instructing on the technical aspects of winning a fight. Students can expect highly technical and in-depth training under his guidance.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "07:30 - 19:00",
+      "Tuesday": "07:30 - 19:00",
+      "Wednesday": "07:30 - 19:00",
+      "Thursday": "07:30 - 19:00",
+      "Friday": "07:30 - 19:00",
+      "Saturday": "07:30 - 19:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473797/muaythai_gyms/tonkhar_muaythai.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473799/muaythai_gyms/tonkhar_muaythai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473800/muaythai_gyms/tonkhar_muaythai2.jpg"
+    ]
+
+  },
+  {
+    "gymId": "47",
+    "name": "Tom Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/tom-muay-thai",
+    "description": "Welcome to the site, even more pleasure will shake Your hand in our Muay Thay Camp!",
+    "openHours": {
+      "Saturday": "Close",
+      "Monday": "08:00 - 20:00",
+      "Tuesday": "08:00 - 20:00",
+      "Wednesday": "08:00 - 20:00",
+      "Thursday": "08:00 - 20:00",
+      "Friday": "08:00 - 20:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473793/muaythai_gyms/tom-muay-thai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473795/muaythai_gyms/tom-muay-thai2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473796/muaythai_gyms/tom-muay-thai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "48",
+    "name": "Elite Fight Club Huahin",
+    "url": "https://www.nowmuaythai.com/gym/elite-fight-club-huahin",
+    "description": "Elevate your combat skills with our expert coaches where we specialize in Muay Thai for both individual and team cohesion growth.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "08:00 - 18:30",
+      "Tuesday": "08:00 - 18:30",
+      "Wednesday": "08:00 - 18:30",
+      "Thursday": "08:00 - 18:30",
+      "Friday": "08:00 - 18:30",
+      "Saturday": "08:00 - 18:30"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473599/muaythai_gyms/elite-fight-club-huahin1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473601/muaythai_gyms/elite-fight-club-huahin2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473602/muaythai_gyms/elite-fight-club-huahin3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "49",
+    "name": "Khao Lak Muay Thai",
+    "url": "https://www.nowmuaythai.com/gym/khao-lak-muay-thai",
+    "description": "At Khao Lak Muay Thai & Muay Boran, we're more than just a gym; we're a close-knit family bonded by years of shared memories and experiences. Situated in the picturesque Khao Lak, Phang Nga, Thailand, our training camp welcomes students of all levels, from beginners to professionals.",
+    "openHours": {
+      "Sunday": "Close",
+      "Monday": "08:00 - 20:00",
+      "Tuesday": "08:00 - 20:00",
+      "Wednesday": "08:00 - 20:00",
+      "Thursday": "08:00 - 20:00",
+      "Friday": "08:00 - 20:00",
+      "Saturday": "08:00 - 20:00"
+    },
+    "location": "A quiet and natural beach perfect for relaxation, located about 5 kilometers from the gym.Another beautiful beach in Khao Lak, with seaside restaurants and bars, located about 7 kilometers from the gym.A national park with stunning natural scenery, including waterfalls and hiking trails, located about 10 kilometers from the gym.A market that opens on specific days, popular for buying souvenirs and experiencing the local atmosphere, located about 6 kilometers from the gym.",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473635/muaythai_gyms/khao-lak-muay-thai1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473636/muaythai_gyms/khao-lak-muay-thai2.png",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473638/muaythai_gyms/khao-lak-muay-thai3.jpg"
+    ]
+
+  },
+  {
+    "gymId": "50",
+    "name": "Muay Thai Battle Conquer Gym",
+    "url": "https://www.nowmuaythai.com/gym/Muay-Thai-Battle-Conquer-Gym",
+    "description": "Largely untouched by tourism, you get a chance to experience traditional Thai way of life while working on your fitness, health and wellness – MTBC have created an experience you simply cannot get anywhere else in Thailand.",
+    "openHours": {
+      "Sunday": "06:00 - 20:00",
+      "Monday": "06:00 - 20:00",
+      "Tuesday": "06:00 - 20:00",
+      "Wednesday": "06:00 - 20:00",
+      "Thursday": "06:00 - 20:00",
+      "Friday": "06:00 - 20:00",
+      "Saturday": "06:00 - 20:00"
+    },
+    "location": "",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473523/muaythai_gyms/Muay-Thai-Battle-Conquer-Gym1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473524/muaythai_gyms/Muay-Thai-Battle-Conquer-Gym2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473528/muaythai_gyms/Muay-Thai-Battle-Conquer-Gym3.png"
+    ]
+  },
+  {
+    "gymId": "51",
+    "name": "MC Muaythai Gym",
+    "url": "https://www.nowmuaythai.com/gym/mc-muaythai-gym",
+    "description": "Our gym is conveniently located near popular tourist attractions such as Ancient City (Muang Boran), the Crocodile Farm, and Bang Pu Recreation Center.",
+    "openHours": {
+      "Sunday": "10:00 - 20:00",
+      "Monday": "10:00 - 20:00",
+      "Tuesday": "10:00 - 20:00",
+      "Wednesday": "10:00 - 20:00",
+      "Thursday": "10:00 - 20:00",
+      "Friday": "10:00 - 20:00",
+      "Saturday": "10:00 - 20:00"
+    },
+    "location": "Approximately 8 kilometers\nThis open-air museum features replicas of significant historical sites in Thailand, making it ideal for studying Thai culture.\nApproximately 15 kilometers\nFamous for its large three-headed elephant statue, the museum also showcases various art and antique collections.",
+    "image":[
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473696/muaythai_gyms/mc-muaythai-gym1.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473699/muaythai_gyms/mc-muaythai-gym2.jpg",
+      "https://res.cloudinary.com/dvfwhgpen/image/upload/v1739473701/muaythai_gyms/mc-muaythai-gym3.jpg"
+    ]
+  }
+]
