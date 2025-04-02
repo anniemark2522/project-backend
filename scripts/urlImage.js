@@ -18,16 +18,16 @@ cloudinary.v2.config({
     api_secret: process.env.CLOUDINARY_API_SECRET
 });
 
-const imageFolder = path.resolve(__dirname, '../db/assets/images/food');
-const jsonFilePath = path.resolve(__dirname, '../db/food_category.json');
+const imageFolder = path.resolve(__dirname, '../db/assets/images/accommodation');
+const jsonFilePath = path.resolve(__dirname, '../db/hotel_apt.json');
 
 
 
 
 // โหลด JSON ข้อมูลร้านอาหาร
-let foodData = [];
+let accData = [];
 try {
-    foodData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf-8'));
+    accData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf-8'));
 } catch (error) {
     console.error('❌ อ่านไฟล์ JSON ไม่ได้:', error);
     process.exit(1);
@@ -50,7 +50,7 @@ const uploadImagesAndUpdateJSON = async () => {
 
             // อัปโหลดรูปไป Cloudinary
             const result = await cloudinary.v2.uploader.upload(filePath, {
-                folder: 'food_category',
+                folder: 'accommodation',
                 use_filename: true,
                 unique_filename: false,
             });
@@ -58,16 +58,16 @@ const uploadImagesAndUpdateJSON = async () => {
             console.log(`✅ อัปโหลดสำเร็จ: ${file} → ${result.secure_url}`);
 
             // หาใน JSON ว่ามี foodId ตรงกับชื่อไฟล์มั้ย
-            const foodItem = foodData.find(item => item.foodId === fileNameWithoutExt);
-            if (foodItem) {
-                foodItem.image = result.secure_url;  // ใส่ลิงก์ลงใน image
+            const accItem = accData.find(item => item.hotelId === fileNameWithoutExt);
+            if (accItem) {
+                accItem.image = result.secure_url;  // ใส่ลิงก์ลงใน image
             } else {
-                console.warn(`⚠️ ไม่เจอ foodId ตรงกับไฟล์ ${file}`);
+                console.warn(`⚠️ ไม่เจอ AccId ตรงกับไฟล์ ${file}`);
             }
         }
 
         // เขียนกลับลงไฟล์ JSON
-        fs.writeFileSync(jsonFilePath, JSON.stringify(foodData, null, 2), 'utf-8');
+        fs.writeFileSync(jsonFilePath, JSON.stringify(accData, null, 2), 'utf-8');
         console.log('✅ อัปเดตไฟล์ JSON สำเร็จ');
 
     } catch (error) {

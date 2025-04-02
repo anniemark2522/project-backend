@@ -8,7 +8,7 @@ import { createGym } from "../controllers/createGym.js";
 import { deleteGym } from "../controllers/deleteGym.js"; 
 import { updateGym } from "../controllers/updateGym.js";  
 
-import authMiddleware from "../middlewares/authMiddleware.js";
+// import authMiddleware from "../middlewares/authMiddleware.js";
 
 import cors from "cors";
 const app = express();
