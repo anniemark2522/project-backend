@@ -13,7 +13,7 @@ if (!process.env.FIREBASE_SERVICE_ACCOUNT_PATH) {
     console.error('FIREBASE_SERVICE_ACCOUNT_PATH is not defined in the .env file.');
     process.exit(1);
   }
-const serviceAccount = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../dbmuaythai-50c15-firebase-adminsdk-fbsvc-04309008a3.json'), 'utf8'));
+const serviceAccount = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../dbmuaythai-50c15-firebase-adminsdk-fbsvc-9e5d7ecae4.json'), 'utf8'));
 
 // Initialize Firebase
 admin.initializeApp({
@@ -29,19 +29,19 @@ const uploadJSONToFirestore = async (jsonFilePath) => {
   
       // Reference to Firestore
       const db = admin.firestore();
-      const gymsCollectionRef = db.collection('testadmin');
+      const gymsCollectionRef = db.collection('food');
       console.log('Connected to Firestore');
   
       // Loop through each gym and upload to Firestore
-      for (const gym of data) {
-        if (!gym.gymId || gym.gymId.trim() === '') {
-          console.log('Skipping gym due to invalid gymId:', gym);
-          continue; // Skip gyms with no gymId
+      for (const food of data) {
+        if (!food.foodId || food.foodId.trim() === '') {
+          console.log('Skipping food due to invalid foodId:', food);
+          continue;
         }
   
-        const docRef = gymsCollectionRef.doc(gym.gymId); // Use gymId as document reference
-        await docRef.set(gym); // Upload gym data
-        console.log(`Added gym: ${gym.name}`);
+        const docRef = gymsCollectionRef.doc(food.foodId); // Use gymId as document reference
+        await docRef.set(food); // Upload gym data
+        console.log(`Added acc: ${food.name}`);
       }
   
       console.log('Data upload completed!');
@@ -51,6 +51,6 @@ const uploadJSONToFirestore = async (jsonFilePath) => {
   };
 
 // เรียกใช้ฟังก์ชันกับไฟล์ JSON ที่คุณต้องการอัปโหลด
-uploadJSONToFirestore('../db/detail_gym_now.json');  // กำหนดพาธของไฟล์ JSON
+uploadJSONToFirestore('../db/food_category.json');  // กำหนดพาธของไฟล์ JSON
 // const data = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../db/detail_gym_now.json'), 'utf8'));
 
