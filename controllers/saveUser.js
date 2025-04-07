@@ -1,7 +1,7 @@
 import admin from "firebase-admin";
 
 export const saveUser = async (req, res) => {
-    console.log("🛬 save-user route HIT!");
+    
   const authHeader = req.headers.authorization;
 
   if (!authHeader || !authHeader.startsWith("Bearer ")) {

@@ -1,9 +1,9 @@
-import db from "../config/firebase.js"; // การเชื่อมต่อกับ Firebase
+import db from "../../config/firebase.js"; // การเชื่อมต่อกับ Firebase
 
 export const getDataAdmin = async (req, res) => {
   try {
     const { gymId, name, loca } = req.query;
-    let collectionRef1 = db.collection("testadmin");
+    let collectionRef1 = db.collection("detailGym");
 
     console.log("Received query params:", { gymId, name, loca }); // Debug ค่า query params
 

@@ -1,4 +1,4 @@
-import db from "../config/firebase.js"; // การเชื่อมต่อกับ Firebase
+import db from "../../config/firebase.js"; // การเชื่อมต่อกับ Firebase
 
 export const getData = async (req, res) => {
   try {

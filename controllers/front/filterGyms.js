@@ -1,4 +1,4 @@
-import db from "../config/firebase.js"; // การเชื่อมต่อกับ Firebase
+import db from "../../config/firebase.js"; // การเชื่อมต่อกับ Firebase
 
 const targetGymIds = ["1", "15", "26", "37", "41", "44", "46", "48", "49", "50"];
 
