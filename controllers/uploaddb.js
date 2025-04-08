@@ -11,8 +11,8 @@ export const uploadJSON = async (req, res) => {
     }
 
     // อัปโหลดข้อมูลไปยัง Firestore
-    const collectionRef = db.collection("your_collection_name");  // เปลี่ยน "your_collection_name" เป็นชื่อคอลเลกชันที่ต้องการ
-    const docRef = await collectionRef.add(data);  // เพิ่มข้อมูลใหม่ในคอลเลกชัน
+    const collectionRef = db.collection("your_collection_name");  
+    const docRef = await collectionRef.add(data);  
 
     return res.status(200).json({
       message: "Data uploaded successfully",

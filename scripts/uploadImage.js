@@ -27,7 +27,7 @@ cloudinary.v2.config({
 console.log('✅ Cloudinary Config Loaded Successfully');
 
 // 📌 พาธโฟลเดอร์ที่มีรูป
-const imageFolder = path.resolve(__dirname, '../db/assets/images/accommodation');
+const imageFolder = path.resolve(__dirname, '../db/assets/images/food');
 
 // 📌 ฟังก์ชันอัปโหลดรูปทั้งหมดในโฟลเดอร์
 const uploadImages = async () => {
@@ -50,7 +50,7 @@ const uploadImages = async () => {
 
       // อัปโหลดไป Cloudinary
       const result = await cloudinary.v2.uploader.upload(filePath, {
-        folder: 'accommodation',
+        folder: 'food',
         use_filename: true,
         unique_filename: false,
       });

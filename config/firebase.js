@@ -6,7 +6,6 @@ dotenv.config();
 
 const serviceAccountPath = path.resolve(process.env.FIREBASE_SERVICE_ACCOUNT_PATH);
 
-// ใช้ path ไปยังไฟล์ JSON ของ Firebase
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccountPath),
   databaseURL: process.env.FIREBASE_DATABASE_URL,
