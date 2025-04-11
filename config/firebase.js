@@ -1,16 +1,15 @@
 import admin from "firebase-admin";
 import dotenv from "dotenv";
-import path from "path";
+import serviceAccount from "../dbmuaythai-50c15-firebase-adminsdk-fbsvc-9e5d7ecae4.json" assert { type: "json" };
 
 dotenv.config();
 
-const serviceAccountPath = path.resolve(process.env.FIREBASE_SERVICE_ACCOUNT_PATH);
-
-admin.initializeApp({
-  credential: admin.credential.cert(serviceAccountPath),
-  databaseURL: process.env.FIREBASE_DATABASE_URL,
-});
+if (!admin.apps.length) {
+  admin.initializeApp({
+    credential: admin.credential.cert(serviceAccount),
+    databaseURL: process.env.FIREBASE_DATABASE_URL,
+  });
+}
 
 const db = admin.firestore();
-
 export default db;
