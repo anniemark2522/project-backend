@@ -1,4 +1,4 @@
-import db from "../../config/firebase.js";
+import db from "../../../config/firebase.js";
 
 export const updateGymAdmin = async (req, res) => {
   const { gymId } = req.params;

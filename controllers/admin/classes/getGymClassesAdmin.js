@@ -1,4 +1,4 @@
-import db from "../../config/firebase.js";
+import db from "../../../config/firebase.js";
 
 export const getGymClassesAdmin = async (req, res) => {
   try {
@@ -23,3 +23,4 @@ export const getGymClassesAdmin = async (req, res) => {
     return res.status(500).json({ error: "Internal Server Error" });
   }
 };
+
