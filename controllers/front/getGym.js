@@ -28,7 +28,14 @@ export const getGyms = async (req, res) => {
     // Filtering (if query exists)
     if (gymId) gyms = gyms.filter((g) => g.gymId === gymId);
     if (province) gyms = gyms.filter((g) => g.province?.toLowerCase() === province.toLowerCase());
-    if (name) gyms = gyms.filter((g) => g.name?.toLowerCase().includes(name.toLowerCase()));
+    if (name) {
+      gyms = gyms.filter(
+        (g) => g.name?.trim().toLowerCase() === name.trim().toLowerCase()
+      );
+      console.log("🧪 name from query:", name);
+
+    }
+    
 
     return res.status(200).json(gyms);
   } catch (error) {

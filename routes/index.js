@@ -12,7 +12,9 @@ import { getAttractions } from "../controllers/front/attraction.js";
 import { getFoodPlaces } from "../controllers/front/food.js";
 import { getAccommodations } from "../controllers/front/accommodation.js";
 import { getGyms } from "../controllers/front/getGym.js";
-import { getGymsWithClasses } from "../controllers/front/gymWithClasses.js";
+import { saveTrip } from "../controllers/front/saveTrip.js";
+import { getTripById } from "../controllers/front/getTripById.js"
+
 
 
 
@@ -28,7 +30,10 @@ router.get("/attractions", getAttractions); //กิจกรรม แสดง
 router.get("/food", getFoodPlaces); // อาหารแสดงทั้งหมด ตามไอดี และ type ได้
 router.get("/accommodation", getAccommodations); //ที่พักแสดงทั้งหมด ตามไอดี และ type ได้
 
-//------GymWithClasses-------
-router.get("/gymclasses",getGymsWithClasses);
+//------Save Trips------
+router.post("/savetrip", saveTrip);
+router.get("/trip/:tripId", getTripById);
+
+
 
 export default router;

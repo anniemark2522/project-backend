@@ -9,7 +9,6 @@ export const saveUser = async (req, res) => {
   }
 
   const idToken = authHeader.split("Bearer ")[1];
-
   try {
     // ✅ ตรวจสอบ token และดึง uid, email
     const decodedToken = await admin.auth().verifyIdToken(idToken);
@@ -29,12 +28,6 @@ export const saveUser = async (req, res) => {
         firstName,
         lastName,
         createdAt: admin.firestore.FieldValue.serverTimestamp(),
-      });
-
-      await userDoc.collection("profile").doc("info").set({
-        email,
-        firstName,
-        lastName,
       });
 
       console.log("📦 User saved:", { uid, email, firstName, lastName });
