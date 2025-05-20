@@ -22,6 +22,8 @@ import { createAttraction } from "../controllers/admin/attraction/createAttractA
 import { updateAttraction } from "../controllers/admin/attraction/updateAttractAdmin.js";
 import { deleteAttraction } from "../controllers/admin/attraction/delAttractAdmin.js";
 import { getUsers, deleteUserByAdmin } from "../controllers/admin/user/userAdmin.js";
+import { updateLatLng } from "../controllers/admin/updateLatLng.js";
+import { getGymLatLngById } from "../controllers/admin/getLatLong.js";
 
 
 const router = express.Router();
@@ -61,5 +63,10 @@ router.delete("/admin/attraction/:attId",deleteAttraction)
 router.post("/save-user", verifyFirebaseToken, saveUser); 
 router.get("/admin/users", getUsers);
 router.delete("/admin/users/:uid",deleteUserByAdmin);
+
+
+//-------LatLong-----------
+router.post("/update-latlng",updateLatLng);
+router.get("/gym-latlng/:gymId", getGymLatLngById);
 
 export default router;
