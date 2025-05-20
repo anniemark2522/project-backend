@@ -1,4 +1,3 @@
-// controllers/front/saveTrip.js
 import admin from "firebase-admin";
 
 export const saveTrip = async (req, res) => {
@@ -13,7 +12,16 @@ export const saveTrip = async (req, res) => {
     const decodedToken = await admin.auth().verifyIdToken(idToken);
     const uid = decodedToken.uid;
 
-    const { gymName, province, lat, lng, likedPlaces } = req.body;
+    const {
+      gymName,
+      province,
+      lat,
+      lng,
+      likedPlaces,
+      visaType = "",
+      date = "",
+      months = "",
+    } = req.body;
 
     const db = admin.firestore();
 
@@ -23,6 +31,9 @@ export const saveTrip = async (req, res) => {
       lat,
       lng,
       likedPlaces,
+      visaType,     // ✅ เพิ่มตรงนี้
+      date,         // ✅ เพิ่มตรงนี้
+      months,       // ✅ เพิ่มตรงนี้
       createdAt: admin.firestore.FieldValue.serverTimestamp(),
     };
 

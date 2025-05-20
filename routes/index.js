@@ -14,6 +14,7 @@ import { getAccommodations } from "../controllers/front/accommodation.js";
 import { getGyms } from "../controllers/front/getGym.js";
 import { saveTrip } from "../controllers/front/saveTrip.js";
 import { getTripById } from "../controllers/front/getTripById.js"
+import { userProfile } from "../controllers/front/userProfile.js";
 
 
 
@@ -33,6 +34,9 @@ router.get("/accommodation", getAccommodations); //ที่พักแสด�
 //------Save Trips------
 router.post("/savetrip", saveTrip);
 router.get("/trip/:tripId", getTripById);
+
+//------Profile------------
+router.get("/profile", userProfile);
 
 
 
