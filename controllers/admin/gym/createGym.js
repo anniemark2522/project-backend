@@ -13,12 +13,10 @@ export const createGym = async (req, res) => {
       province,
     } = req.body;
 
-    // ตรวจสอบฟิลด์ที่จำเป็น
     if (!name || !location || !province) {
       return res.status(400).json({ message: "Name, location, and province are required" });
     }
 
-    // 🔢 สร้าง gymId ใหม่ (เลขลำดับ +1)
     const snapshot = await db.collection("detailGym").get();
     const ids = snapshot.docs
       .map((doc) => parseInt(doc.id))
@@ -26,7 +24,6 @@ export const createGym = async (req, res) => {
     const nextId = ids.length > 0 ? Math.max(...ids) + 1 : 1;
     const gymId = String(nextId);
 
-    // 📝 สร้างข้อมูล detailGym
     const newGymData = {
       gymId,
       name,
@@ -38,10 +35,8 @@ export const createGym = async (req, res) => {
       province: province || "",
     };
 
-    // ✅ บันทึกลง detailGym
     await db.collection("detailGym").doc(gymId).set(newGymData);
 
-    // 🌍 ใช้ Mapbox Geocoding หาพิกัด
     const mapboxToken = process.env.MAPBOX_TOKEN;
     const fullAddress = `${name} ${province}`;
     const geoRes = await fetch(
@@ -64,10 +59,9 @@ export const createGym = async (req, res) => {
         url: url || "",
       };
 
-      // ✅ บันทึกลง GymsLatLong ด้วย gymId เดียวกัน
       await db.collection("GymsLatLong").doc(gymId).set(gymLocationData);
     } else {
-      console.warn("⚠️ Geocoding failed: Cannot find coordinates.");
+      console.warn(" Geocoding failed: Cannot find coordinates.");
     }
 
     return res.status(201).json({
@@ -76,7 +70,7 @@ export const createGym = async (req, res) => {
       data: newGymData,
     });
   } catch (error) {
-    console.error("❌ Error creating gym:", error);
+    console.error("Error creating gym:", error);
     return res.status(500).json({ error: "Internal Server Error" });
   }
 };

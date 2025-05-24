@@ -4,16 +4,16 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import fs from 'fs';
 
-// ใช้ import.meta.url แทน __dirname
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// โหลดไฟล์ .env
+
 dotenv.config({ path: path.resolve(__dirname, '../.env') });
 
-// ตรวจสอบว่าตัวแปรถูกโหลดหรือไม่
+
 if (!process.env.CLOUDINARY_CLOUD_NAME || !process.env.CLOUDINARY_API_KEY || !process.env.CLOUDINARY_API_SECRET) {
-  console.error('❌ Error: Cloudinary API keys are missing. Check your .env file.');
+  console.error('Error: Cloudinary API keys are missing. Check your .env file.');
   process.exit(1);
 }
 
@@ -24,12 +24,12 @@ cloudinary.v2.config({
   api_secret: process.env.CLOUDINARY_API_SECRET
 });
 
-console.log('✅ Cloudinary Config Loaded Successfully');
+console.log(' Cloudinary Config Loaded Successfully');
 
-// 📌 พาธโฟลเดอร์ที่มีรูป
+
 const imageFolder = path.resolve(__dirname, '../db/assets/images/food');
 
-// 📌 ฟังก์ชันอัปโหลดรูปทั้งหมดในโฟลเดอร์
+
 const uploadImages = async () => {
   try {
     // กรองเฉพาะไฟล์ที่เป็นภาพเท่านั้น
@@ -39,14 +39,14 @@ const uploadImages = async () => {
     );
 
     if (files.length === 0) {
-      console.warn('⚠️ ไม่พบไฟล์ภาพที่รองรับในโฟลเดอร์นี้');
+      console.warn('ไม่พบไฟล์ภาพที่รองรับในโฟลเดอร์นี้');
       return;
     }
 
     for (const file of files) {
       const filePath = path.join(imageFolder, file);
 
-      console.log(`📤 Uploading: ${filePath}`);
+      console.log(`Uploading: ${filePath}`);
 
       // อัปโหลดไป Cloudinary
       const result = await cloudinary.v2.uploader.upload(filePath, {
@@ -55,13 +55,13 @@ const uploadImages = async () => {
         unique_filename: false,
       });
 
-      console.log(`✅ อัปโหลดสำเร็จ: ${file} → ${result.secure_url}`);
+      console.log(`อัปโหลดสำเร็จ: ${file} → ${result.secure_url}`);
     }
 
   } catch (error) {
-    console.error('❌ อัปโหลดล้มเหลว:', error);
+    console.error('อัปโหลดล้มเหลว:', error);
   }
 };
 
-// 🔥 เรียกใช้งานฟังก์ชัน
+
 uploadImages();
