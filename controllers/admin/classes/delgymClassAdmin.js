@@ -30,7 +30,7 @@ export const deleteGymClass = async (req, res) => {
 
     return res.status(200).json({ message: "Class deleted successfully" });
   } catch (error) {
-    console.error("🔥 Error deleting class:", error);
+    console.error("Error deleting class:", error);
     return res.status(500).json({ error: "Internal Server Error" });
   }
 };

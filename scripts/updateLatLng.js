@@ -3,7 +3,7 @@ import fs from 'fs';
 import dotenv from 'dotenv';
 import path from 'path';
 
-// ✅ อ่าน .env และตั้ง __dirname
+//อ่าน .env และตั้ง __dirname
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
 dotenv.config({ path: path.resolve(__dirname, '../.env') });
 
@@ -12,7 +12,7 @@ if (!process.env.FIREBASE_SERVICE_ACCOUNT_PATH) {
   process.exit(1);
 }
 
-// ✅ โหลด service account
+//โหลด service account
 const serviceAccount = JSON.parse(
   fs.readFileSync(
     path.resolve(__dirname, '../dbmuaythai-50c15-firebase-adminsdk-fbsvc-9e5d7ecae4.json'),
@@ -20,20 +20,20 @@ const serviceAccount = JSON.parse(
   )
 );
 
-// ✅ Firebase init
+//Firebase init
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: process.env.FIREBASE_DATABASE_URL,
 });
 
-// ✅ แก้ชื่อฟิลด์ใน gymsprovince_eng
+//แก้ชื่อฟิลด์ใน gymsprovince_eng
 const updateLatLngFields = async () => {
   try {
     const db = admin.firestore();
     const gymsRef = db.collection('gymsprovince_eng');
     const snapshot = await gymsRef.get();
 
-    console.log(`📌 Total documents: ${snapshot.size}`);
+    console.log(`Total documents: ${snapshot.size}`);
 
     const batch = db.batch();
 
@@ -59,9 +59,9 @@ const updateLatLngFields = async () => {
     });
 
     await batch.commit();
-    console.log('✅ Updated lat/long fields successfully!');
+    console.log('Updated lat/long fields successfully!');
   } catch (err) {
-    console.error('❌ Error updating documents:', err);
+    console.error('Error updating documents:', err);
   }
 };
 

@@ -2,7 +2,7 @@ import db from "../../../config/firebase.js";
 
 export const updateAccommodation = async (req, res) => {
     try {
-      const { hotelId } = req.params; // ✅ เอามาจาก URL
+      const { hotelId } = req.params; //เอามาจาก URL
       const updateData = req.body;
   
       if (!hotelId) {

@@ -74,9 +74,9 @@ const getGymsProvinceData = async () => {
       }
     }
 
-    console.log('✅ Location updates completed for all gyms.');
+    console.log('Location updates completed for all gyms.');
   } catch (error) {
-    console.error('❌ Error getting gyms data from Firestore:', error);
+    console.error('Error getting gyms data from Firestore:', error);
   }
 };
 
@@ -95,7 +95,7 @@ const getCoordinatesFromMapbox = async (address) => {
       return null;
     }
   } catch (error) {
-    console.error(`❌ Error fetching coordinates for ${address}:`, error);
+    console.error(`Error fetching coordinates for ${address}:`, error);
     return null;
   }
 };

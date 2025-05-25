@@ -20,7 +20,7 @@ export const userProfile = async (req, res) => {
 
     return res.status(200).json(userDoc.data());
   } catch (err) {
-    console.error("❌ Error fetching user profile:", err);
+    console.error("Error fetching user profile:", err);
     return res.status(500).json({ error: "Internal server error" });
   }
 };

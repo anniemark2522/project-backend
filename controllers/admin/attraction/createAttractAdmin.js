@@ -5,7 +5,7 @@ export const createAttraction = async (req, res) => {
     const data = req.body;
 
     const snapshot = await db.collection("attraction").get();
-    const newId = (snapshot.size + 1).toString(); // หรือใช้ uuid() ก็ได้
+    const newId = (snapshot.size + 1).toString();
     const doc = {
       attId: newId,
       ...data,

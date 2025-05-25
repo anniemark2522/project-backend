@@ -10,7 +10,7 @@ export const saveUser = async (req, res) => {
 
   const idToken = authHeader.split("Bearer ")[1];
   try {
-    // ✅ ตรวจสอบ token และดึง uid, email
+    // ตรวจสอบ token และดึง uid, email
     const decodedToken = await admin.auth().verifyIdToken(idToken);
     const uid = decodedToken.uid;
     const email = decodedToken.email;
@@ -22,7 +22,7 @@ export const saveUser = async (req, res) => {
     const docSnapshot = await userDoc.get();
 
     if (!docSnapshot.exists) {
-      // ✅ ยังไม่มีข้อมูล → เซฟ
+      //ยังไม่มีข้อมูล → เซฟ
       await userDoc.set({
         email,
         firstName,
@@ -30,14 +30,14 @@ export const saveUser = async (req, res) => {
         createdAt: admin.firestore.FieldValue.serverTimestamp(),
       });
 
-      console.log("📦 User saved:", { uid, email, firstName, lastName });
+      console.log("User saved:", { uid, email, firstName, lastName });
     } else {
-      console.log("✅ User already exists:", uid);
+      console.log("User already exists:", uid);
     }
 
     return res.status(200).json({ message: "User saved successfully" });
   } catch (error) {
-    console.error("❌ Error saving user:", error);
+    console.error("Error saving user:", error);
     return res.status(500).json({ error: "Internal server error" });
   }
 };

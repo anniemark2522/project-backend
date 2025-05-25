@@ -23,7 +23,7 @@ export const updateLatLng = async (req, res) => {
 
     return res.status(200).json({ message: "Lat/Lng updated successfully" });
   } catch (error) {
-    console.error("🔥 Error updating Lat/Lng:", error);
+    console.error("Error updating Lat/Lng:", error);
     return res.status(500).json({ error: "Internal Server Error" });
   }
 };

@@ -12,9 +12,9 @@ export const verifyFirebaseToken = async (req, res, next) => {
   try {
     const decodedToken = await admin.auth().verifyIdToken(idToken);
 
-    console.log("✅ Firebase token verified");
-    console.log("👉 UID:", decodedToken.uid);
-    console.log("👉 Email:", decodedToken.email);
+    console.log("Firebase token verified");
+    console.log("UID:", decodedToken.uid);
+    console.log("Email:", decodedToken.email);
     req.user = decodedToken;
     
     next();

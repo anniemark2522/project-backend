@@ -11,16 +11,16 @@ async function updateGymsWithProvince() {
 
       if (province) {
         const gymRef = db.collection("detailGym").doc(gymId);
-        await gymRef.update({ province }); // ✅ ตรงกับชื่อ field
-        console.log(`✅ Updated gym ${gymId} with province: ${province}`);
+        await gymRef.update({ province });
+        console.log(`Updated gym ${gymId} with province: ${province}`);
       } else {
-        console.warn(`⚠️ No province found for gym ${gymId}`);
+        console.warn(`No province found for gym ${gymId}`);
       }
     }
 
-    console.log("🎉 All gyms updated with province.");
+    console.log("All gyms updated with province.");
   } catch (error) {
-    console.error("❌ Failed to update gyms with province:", error);
+    console.error("Failed to update gyms with province:", error);
   }
 }
 

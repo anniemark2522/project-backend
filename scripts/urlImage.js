@@ -23,7 +23,7 @@ let foodData = [];
 try {
   foodData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf-8'));
 } catch (error) {
-  console.error('❌ อ่านไฟล์ JSON ไม่ได้:', error);
+  console.error('อ่านไฟล์ JSON ไม่ได้:', error);
   process.exit(1);
 }
 
@@ -42,20 +42,20 @@ const uploadImagesAndUpdateJSON = async () => {
       console.log(`📤 Uploading: ${filePath}`);
 
       const result = await cloudinary.v2.uploader.upload(filePath, {
-        folder: 'food', // ใช้ชื่อ folder เดิมก็ได้
+        folder: 'food',
         use_filename: true,
         unique_filename: false,
-        overwrite: true, // 👉 เพิ่มบรรทัดนี้เพื่อ "ทับไฟล์เดิม"
+        overwrite: true, 
       });
 
-      console.log(`✅ อัปโหลดสำเร็จ: ${file} → ${result.secure_url}`);
+      console.log(`อัปโหลดสำเร็จ: ${file} → ${result.secure_url}`);
 
       // อัปเดต URL ใหม่ใน JSON
       const foodItem = foodData.find(item => item.foodId === fileNameWithoutExt);
       if (foodItem) {
         foodItem.image = result.secure_url;
       } else {
-        console.warn(`⚠️ ไม่เจอ foodId ตรงกับไฟล์ ${file}`);
+        console.warn(`ไม่เจอ foodId ตรงกับไฟล์ ${file}`);
       }
     }
 
@@ -64,7 +64,7 @@ const uploadImagesAndUpdateJSON = async () => {
     console.log('✅ อัปเดตไฟล์ JSON สำเร็จ');
 
   } catch (error) {
-    console.error('❌ อัปโหลดล้มเหลว:', error);
+    console.error('อัปโหลดล้มเหลว:', error);
   }
 };
 

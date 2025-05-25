@@ -31,9 +31,9 @@ export const saveTrip = async (req, res) => {
       lat,
       lng,
       likedPlaces,
-      visaType,     // ✅ เพิ่มตรงนี้
-      date,         // ✅ เพิ่มตรงนี้
-      months,       // ✅ เพิ่มตรงนี้
+      visaType,   
+      date,       
+      months,       
       createdAt: admin.firestore.FieldValue.serverTimestamp(),
     };
 
@@ -41,7 +41,7 @@ export const saveTrip = async (req, res) => {
 
     return res.status(200).json({ message: "Trip saved successfully" });
   } catch (error) {
-    console.error("❌ Error saving trip:", error);
+    console.error("Error saving trip:", error);
     return res.status(500).json({ error: "Internal server error" });
   }
 };
